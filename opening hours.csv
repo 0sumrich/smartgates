@@ -1,0 +1,150 @@
+﻿library,day,start,finish,opening_type
+Burnt Oak,Mon,14:00:00,20:00:00,staffed
+Burnt Oak,Wed,09:00:00,12:30:00,staffed
+Burnt Oak,Fri,14:00:00,17:00:00,staffed
+Burnt Oak,Sat,14:00:00,17:00:00,staffed
+Burnt Oak,Mon,09:00:00,14:00:00,SSO
+Burnt Oak,Tue,09:00:00,17:00:00,SSO
+Burnt Oak,Wed,12:30:00,17:00:00,SSO
+Burnt Oak,Thu,09:00:00,17:00:00,SSO
+Burnt Oak,Fri,09:00:00,14:00:00,SSO
+Childs Hill,Mon,10:00:00,13:00:00,staffed
+Childs Hill,Tue,14:00:00,17:00:00,staffed
+Childs Hill,Wed,10:00:00,13:00:00,staffed
+Childs Hill,Thu,14:00:00,20:00:00,staffed
+Childs Hill,Sun,14:00:00,17:00:00,staffed
+Chipping Barnet,Tue,09:00:00,12:30:00,staffed
+Chipping Barnet,Wed,14:00:00,20:00:00,staffed
+Chipping Barnet,Fri,14:00:00,17:00:00,staffed
+Chipping Barnet,Sat,09:00:00,17:00:00,staffed
+Chipping Barnet,Sun,14:00:00,17:00:00,staffed
+Chipping Barnet,Mon,07:00:00,22:00:00,SSO
+Chipping Barnet,Tue,07:00:00,09:00:00,SSO
+Chipping Barnet,Wed,07:00:00,14:00:00,SSO
+Chipping Barnet,Thu,07:00:00,22:00:00,SSO
+Chipping Barnet,Fri,07:00:00,14:00:00,SSO
+Chipping Barnet,Sat,07:00:00,09:00:00,SSO
+Chipping Barnet,Sun,10:00:00,14:00:00,SSO
+Chipping Barnet,Tue,12:30:00,22:00:00,SSO
+Chipping Barnet,Wed,20:00:00,22:00:00,SSO
+Chipping Barnet,Fri,17:00:00,22:00:00,SSO
+Colindale,Tue,14:00:00,20:00:00,staffed
+Colindale,Wed,14:00:00,17:00:00,staffed
+Colindale,Thu,09:00:00,12:30:00,staffed
+Colindale,Sat,09:00:00,17:00:00,staffed
+Colindale,Sun,14:00:00,17:00:00,staffed
+Colindale,Mon,07:00:00,22:00:00,SSO
+Colindale,Tue,07:00:00,14:00:00,SSO
+Colindale,Wed,07:00:00,14:00:00,SSO
+Colindale,Thu,07:00:00,09:00:00,SSO
+Colindale,Fri,07:00:00,22:00:00,SSO
+Colindale,Sat,07:00:00,09:00:00,SSO
+Colindale,Sun,10:00:00,14:00:00,SSO
+Colindale,Tue,20:00:00,22:00:00,SSO
+Colindale,Wed,17:00:00,22:00:00,SSO
+Colindale,Thu,12:30:00,22:00:00,SSO
+East Barnet,Tue,10:00:00,14:00:00,staffed
+East Barnet,Thu,13:00:00,20:00:00,staffed
+East Barnet,Fri,10:00:00,17:00:00,staffed
+East Barnet,Sat,09:00:00,12:00:00,staffed
+East Finchley,Mon,09:00:00,12:30:00,staffed
+East Finchley,Wed,14:00:00,20:00:00,staffed
+East Finchley,Thu,14:00:00,17:00:00,staffed
+East Finchley,Sat,09:00:00,12:30:00,staffed
+East Finchley,Mon,08:00:00,09:00:00,SSO
+East Finchley,Tue,08:00:00,20:00:00,SSO
+East Finchley,Wed,08:00:00,14:00:00,SSO
+East Finchley,Thu,08:00:00,14:00:00,SSO
+East Finchley,Fri,08:00:00,20:00:00,SSO
+East Finchley,Sat,08:00:00,09:00:00,SSO
+East Finchley,Mon,12:30:00,20:00:00,SSO
+East Finchley,Sat,12:30:00,17:00:00,SSO
+Edgware,Mon,09:00:00,12:30:00,staffed
+Edgware,Tue,14:00:00,17:00:00,staffed
+Edgware,Thu,14:00:00,20:00:00,staffed
+Edgware,Sat,09:00:00,17:00:00,staffed
+Edgware,Sun,14:00:00,17:00:00,staffed
+Edgware,Mon,07:00:00,09:00:00,SSO
+Edgware,Tue,07:00:00,14:00:00,SSO
+Edgware,Wed,07:00:00,22:00:00,SSO
+Edgware,Thu,07:00:00,14:00:00,SSO
+Edgware,Fri,07:00:00,22:00:00,SSO
+Edgware,Sat,07:00:00,09:00:00,SSO
+Edgware,Sun,10:00:00,14:00:00,SSO
+Edgware,Mon,12:30:00,22:00:00,SSO
+Edgware,Tue,17:00:00,22:00:00,SSO
+Edgware,Thu,20:00:00,22:00:00,SSO
+Finchley Church End,Mon,14:00:00,20:00:00,staffed
+Finchley Church End,Wed,14:00:00,17:00:00,staffed
+Finchley Church End,Fri,09:00:00,12:30:00,staffed
+Finchley Church End,Sat,09:00:00,17:00:00,staffed
+Finchley Church End,Sun,14:00:00,17:00:00,staffed
+Finchley Church End,Mon,07:00:00,14:00:00,SSO
+Finchley Church End,Tue,07:00:00,22:00:00,SSO
+Finchley Church End,Wed,07:00:00,14:00:00,SSO
+Finchley Church End,Thu,07:00:00,22:00:00,SSO
+Finchley Church End,Fri,07:00:00,09:00:00,SSO
+Finchley Church End,Sat,07:00:00,09:00:00,SSO
+Finchley Church End,Sun,10:00:00,14:00:00,SSO
+Finchley Church End,Mon,20:00:00,22:00:00,SSO
+Finchley Church End,Wed,17:00:00,22:00:00,SSO
+Finchley Church End,Fri,12:30:00,22:00:00,SSO
+Golders Green,Tue,14:00:00,17:00:00,staffed
+Golders Green,Thu,14:00:00,20:00:00,staffed
+Golders Green,Fri,09:00:00,12:30:00,staffed
+Golders Green,Sun,14:00:00,17:00:00,staffed
+Golders Green,Mon,08:00:00,20:00:00,SSO
+Golders Green,Tue,08:00:00,14:00:00,SSO
+Golders Green,Wed,08:00:00,20:00:00,SSO
+Golders Green,Thu,08:00:00,14:00:00,SSO
+Golders Green,Fri,08:00:00,09:00:00,SSO
+Golders Green,Sat,11:00:00,17:00:00,SSO
+Golders Green,Tue,17:00:00,20:00:00,SSO
+Golders Green,Fri,12:30:00,20:00:00,SSO
+Hendon,Tue,09:00:00,12:30:00,staffed
+Hendon,Wed,14:00:00,20:00:00,staffed
+Hendon,Fri,14:00:00,17:00:00,staffed
+Hendon,Sat,09:00:00,12:30:00,staffed
+Hendon,Mon,08:00:00,20:00:00,SSO
+Hendon,Tue,08:00:00,09:00:00,SSO
+Hendon,Wed,08:00:00,14:00:00,SSO
+Hendon,Thu,08:00:00,20:00:00,SSO
+Hendon,Fri,08:00:00,14:00:00,SSO
+Hendon,Sat,08:00:00,09:00:00,SSO
+Hendon,Tue,12:30:00,20:00:00,SSO
+Hendon,Fri,17:00:00,20:00:00,SSO
+Hendon,Sat,12:30:00,17:00:00,SSO
+Mill Hill,Tue,14:00:00,19:30:00,staffed
+Mill Hill,Wed,10:00:00,13:00:00,staffed
+Mill Hill,Thu,10:00:00,13:00:00,staffed
+Mill Hill,Sat,10:00:00,13:00:00,staffed
+North Finchley,Tue,14:00:00,20:00:00,staffed
+North Finchley,Thu,09:00:00,12:30:00,staffed
+North Finchley,Fri,14:00:00,17:00:00,staffed
+North Finchley,Sat,14:00:00,17:00:00,staffed
+North Finchley,Mon,08:00:00,20:00:00,SSO
+North Finchley,Tue,08:00:00,14:00:00,SSO
+North Finchley,Wed,08:00:00,20:00:00,SSO
+North Finchley,Thu,08:00:00,09:00:00,SSO
+North Finchley,Fri,08:00:00,14:00:00,SSO
+North Finchley,Sat,08:00:00,14:00:00,SSO
+Osidge,Tue,14:00:00,20:00:00,staffed
+Osidge,Wed,09:00:00,12:30:00,staffed
+Osidge,Thu,14:00:00,17:00:00,staffed
+Osidge,Sat,14:00:00,17:00:00,staffed
+Osidge,Mon,08:00:00,20:00:00,SSO
+Osidge,Tue,08:00:00,14:00:00,SSO
+Osidge,Wed,08:00:00,09:00:00,SSO
+Osidge,Thu,08:00:00,14:00:00,SSO
+Osidge,Fri,08:00:00,20:00:00,SSO
+Osidge,Sat,08:00:00,14:00:00,SSO
+Osidge,Wed,12:30:00,20:00:00,SSO
+South Friern,Tue,14:00:00,20:00:00,staffed
+South Friern,Wed,10:00:00,17:30:00,staffed
+South Friern,Thu,10:00:00,17:30:00,staffed
+South Friern,Sat,14:00:00,17:00:00,staffed
+North Finchley,Thu,12:30:00,20:00:00,SSO
+North Finchley,Fri,17:00:00,20:00:00,SSO
+East Finchley,Thu,17:00:00,20:00:00,SSO
+Osidge,Thu,17:00:00,20:00:00,SSO
+Osidge,Thu,17:00:00,20:00:00,SSO
