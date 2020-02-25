@@ -1,4 +1,4 @@
-﻿library,day,start,finish,opening_type
+library,day,start,finish,opening_type
 Burnt Oak,Mon,14:00:00,20:00:00,staffed
 Burnt Oak,Wed,09:00:00,12:30:00,staffed
 Burnt Oak,Fri,14:00:00,17:00:00,staffed
@@ -11,6 +11,7 @@ Burnt Oak,Fri,09:00:00,14:00:00,SSO
 Childs Hill,Mon,10:00:00,13:00:00,staffed
 Childs Hill,Tue,14:00:00,17:00:00,staffed
 Childs Hill,Wed,10:00:00,13:00:00,staffed
+Childs Hill,Wed,14:00:00,17:00:00,staffed
 Childs Hill,Thu,14:00:00,20:00:00,staffed
 Childs Hill,Sun,14:00:00,17:00:00,staffed
 Chipping Barnet,Tue,09:00:00,12:30:00,staffed
@@ -146,5 +147,4 @@ South Friern,Sat,14:00:00,17:00:00,staffed
 North Finchley,Thu,12:30:00,20:00:00,SSO
 North Finchley,Fri,17:00:00,20:00:00,SSO
 East Finchley,Thu,17:00:00,20:00:00,SSO
-Osidge,Thu,17:00:00,20:00:00,SSO
 Osidge,Thu,17:00:00,20:00:00,SSO
