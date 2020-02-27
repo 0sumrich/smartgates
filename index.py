@@ -25,10 +25,10 @@ def convert(fn):
             map(lambda x: datetime.combine(date, time(int(x[:2]), 0)), df.dt.tolist())
         )
         df.dt = dt
-        df.rename(columns={'dt':'datetime', 'Library':'library', 'People In':'people_in', 'People Out':'people_out'})
+        df.rename(columns={'dt':'datetime', 'Counter Name':'library', 'People In':'people_in', 'People Out':'people_out'}, inplace=True)
         res.append(df)
 
-    return pd.concat(res).rename(columns={"Counter Name": "Library"})
+    return pd.concat(res)
 
 
 def to_hours(x):
@@ -47,12 +47,12 @@ def get_ot(dt, lib):
     res = []
 
     for row in in_df.itertuples():
-        day = row.dt.day_name()[:3]
+        day = row.datetime.day_name()[:3]
         mask = (
-            (oh.library == row.Library)
+            (oh.library == row.library)
             & (oh.day == day)
-            & (oh.start <= row.dt.hour)
-            & (oh.finish > row.dt.hour)
+            & (oh.start <= row.datetime.hour)
+            & (oh.finish > row.datetime.hour)
         )
         if oh.loc[mask].empty:
             res.append("closed")
@@ -63,6 +63,6 @@ def get_ot(dt, lib):
 
 def get_df_with_opening_hours(fn):
     df = convert(fn)
-    ots = get_ot(df.dt, df.Library)
+    ots = get_ot(df.datetime, df.library)
     df["opening_type"] = ots.values
     return df
