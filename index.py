@@ -6,6 +6,7 @@ from datetime import datetime, time
 # CONVERT
 # df.rename(columns={'dt':'datetime', 'Library':'library', 'People In':'people_in', 'People Out':'people_out'})
 
+
 def convert(fn):
     libs = sorted(pd.read_csv("libraries.csv").full_name.tolist())
     xl = pd.ExcelFile(fn)
@@ -25,7 +26,15 @@ def convert(fn):
             map(lambda x: datetime.combine(date, time(int(x[:2]), 0)), df.dt.tolist())
         )
         df.dt = dt
-        df.rename(columns={'dt':'datetime', 'Counter Name':'library', 'People In':'people_in', 'People Out':'people_out'}, inplace=True)
+        df.rename(
+            columns={
+                "dt": "datetime",
+                "Counter Name": "library",
+                "People In": "people_in",
+                "People Out": "people_out",
+            },
+            inplace=True,
+        )
         res.append(df)
 
     return pd.concat(res)
@@ -60,6 +69,7 @@ def get_ot(dt, lib):
             ot = oh.loc[mask].opening_type.values[0]
             res.append(ot)
     return pd.Series(res)
+
 
 def get_df_with_opening_hours(fn):
     df = convert(fn)
