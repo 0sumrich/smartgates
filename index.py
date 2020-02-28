@@ -23,7 +23,8 @@ def convert(fn):
         # times = df.loc[df.dt != 'x']
         df.dt = df.dt.replace(to_replace="x", method="ffill")
         dt = list(
-            map(lambda x: datetime.combine(date, time(int(x[:2]), 0)), df.dt.tolist())
+            map(lambda x: datetime.combine(
+                date, time(int(x[:2]), 0)), df.dt.tolist())
         )
         df.dt = dt
         df.rename(
@@ -50,7 +51,8 @@ def to_hours(x):
 def get_ot(dt, lib):
     oh = pd.read_csv(
         "opening hours.csv",
-        converters={"start": lambda x: to_hours(x), "finish": lambda x: to_hours(x)},
+        converters={"start": lambda x: to_hours(
+            x), "finish": lambda x: to_hours(x)},
     )
     in_df = pd.concat([dt, lib], axis=1)
     res = []
@@ -76,3 +78,15 @@ def get_df_with_opening_hours(fn):
     ots = get_ot(df.datetime, df.library)
     df["opening_type"] = ots.values
     return df
+
+
+def add_xl_to_csv(xl_fn, csv_fn, to_csv=False):
+    curr = pd.read_csv(csv_fn)
+    df_to_add = get_df_with_opening_hours(xl_fn)
+    res = (
+        pd.concat([curr, df_to_add])
+        .drop_duplicates()
+        )
+    if to_csv is True:
+        res.to_csv(csv_fn, index=False)
+    return res
