@@ -81,7 +81,8 @@ def get_df_with_opening_hours(fn):
 def add_xl_to_csv(xl_fn, csv_fn, to_csv=False):
     curr = pd.read_csv(csv_fn)
     df_to_add = get_df_with_opening_hours(xl_fn)
-    res = pd.concat([curr, df_to_add]).drop_duplicates()
+    res = pd.concat([curr, df_to_add], sort=True).drop_duplicates()
+    df= res.astype({'datetime': 'datetime64'})
     if to_csv is True:
-        res.to_csv(csv_fn, index=False)
-    return res
+        df.to_csv(csv_fn, index=False)
+    return df
