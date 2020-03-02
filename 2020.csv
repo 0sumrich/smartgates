@@ -10255,1179 +10255,2019 @@ datetime,library,opening_type,people_in,people_out
 2020-02-06 12:00:00,North Finchley,SSO,28,23
 2020-02-07 12:00:00,Golders Green,SSO,15,25
 2020-02-08 12:00:00,East Finchley,SSO,34,19
-2020-02-03 00:00:00,Chipping Barnet,closed,0,0
-2020-02-03 00:00:00,Colindale,closed,0,0
-2020-02-03 00:00:00,East Finchley,closed,0,0
-2020-02-03 00:00:00,Edgware,closed,0,0
-2020-02-03 00:00:00,Golders Green,closed,0,0
-2020-02-03 00:00:00,North Finchley,closed,0,0
-2020-02-03 00:00:00,Osidge,closed,0,0
-2020-02-03 01:00:00,Chipping Barnet,closed,0,0
-2020-02-03 01:00:00,Colindale,closed,0,0
-2020-02-03 01:00:00,East Finchley,closed,0,0
-2020-02-03 01:00:00,Edgware,closed,0,0
-2020-02-03 01:00:00,Golders Green,closed,0,0
-2020-02-03 01:00:00,North Finchley,closed,0,0
-2020-02-03 01:00:00,Osidge,closed,0,0
-2020-02-03 02:00:00,Chipping Barnet,closed,0,0
-2020-02-03 02:00:00,Colindale,closed,0,0
-2020-02-03 02:00:00,East Finchley,closed,0,0
-2020-02-03 02:00:00,Edgware,closed,0,0
-2020-02-03 02:00:00,Golders Green,closed,0,0
-2020-02-03 02:00:00,North Finchley,closed,0,0
-2020-02-03 02:00:00,Osidge,closed,0,0
-2020-02-03 03:00:00,Chipping Barnet,closed,0,0
-2020-02-03 03:00:00,Colindale,closed,0,0
-2020-02-03 03:00:00,East Finchley,closed,0,0
-2020-02-03 03:00:00,Edgware,closed,0,0
-2020-02-03 03:00:00,Golders Green,closed,0,0
-2020-02-03 03:00:00,North Finchley,closed,0,0
-2020-02-03 03:00:00,Osidge,closed,0,0
-2020-02-03 04:00:00,Chipping Barnet,closed,0,0
-2020-02-03 04:00:00,Colindale,closed,0,0
-2020-02-03 04:00:00,East Finchley,closed,0,0
-2020-02-03 04:00:00,Edgware,closed,0,0
-2020-02-03 04:00:00,Golders Green,closed,0,0
-2020-02-03 04:00:00,North Finchley,closed,0,0
-2020-02-03 04:00:00,Osidge,closed,0,0
-2020-02-03 05:00:00,Chipping Barnet,closed,0,0
-2020-02-03 05:00:00,Colindale,closed,0,0
-2020-02-03 05:00:00,East Finchley,closed,0,0
-2020-02-03 05:00:00,Edgware,closed,0,0
-2020-02-03 05:00:00,Golders Green,closed,0,0
-2020-02-03 05:00:00,North Finchley,closed,0,0
-2020-02-03 05:00:00,Osidge,closed,0,0
-2020-02-03 06:00:00,Chipping Barnet,closed,0,0
-2020-02-03 06:00:00,Colindale,closed,1,1
-2020-02-03 06:00:00,East Finchley,closed,0,0
-2020-02-03 06:00:00,Edgware,closed,0,0
-2020-02-03 06:00:00,Golders Green,closed,0,0
-2020-02-03 06:00:00,North Finchley,closed,0,0
-2020-02-03 06:00:00,Osidge,closed,0,0
-2020-02-03 07:00:00,Chipping Barnet,SSO,0,0
-2020-02-03 07:00:00,Colindale,SSO,6,3
-2020-02-03 07:00:00,East Finchley,closed,0,0
-2020-02-03 07:00:00,Edgware,SSO,0,0
-2020-02-03 07:00:00,Golders Green,closed,0,0
-2020-02-03 07:00:00,North Finchley,closed,0,0
-2020-02-03 07:00:00,Osidge,closed,3,2
-2020-02-03 08:00:00,Chipping Barnet,SSO,0,0
-2020-02-03 08:00:00,Colindale,SSO,10,6
-2020-02-03 08:00:00,East Finchley,SSO,0,0
-2020-02-03 08:00:00,Edgware,SSO,0,0
-2020-02-03 08:00:00,Golders Green,SSO,0,0
-2020-02-03 08:00:00,North Finchley,SSO,2,2
-2020-02-03 08:00:00,Osidge,SSO,1,3
-2020-02-03 09:00:00,Chipping Barnet,SSO,0,0
-2020-02-03 09:00:00,Colindale,SSO,11,10
-2020-02-03 09:00:00,East Finchley,staffed,0,0
-2020-02-03 09:00:00,Edgware,staffed,51,16
-2020-02-03 09:00:00,Golders Green,SSO,9,7
-2020-02-03 09:00:00,North Finchley,SSO,13,15
-2020-02-03 09:00:00,Osidge,SSO,8,5
-2020-02-03 10:00:00,Chipping Barnet,SSO,0,0
-2020-02-03 10:00:00,Colindale,SSO,14,11
-2020-02-03 10:00:00,East Finchley,staffed,0,0
-2020-02-03 10:00:00,Edgware,staffed,53,82
-2020-02-03 10:00:00,Golders Green,SSO,11,16
-2020-02-03 10:00:00,North Finchley,SSO,10,10
-2020-02-03 10:00:00,Osidge,SSO,14,20
-2020-02-03 11:00:00,Chipping Barnet,SSO,0,0
-2020-02-03 11:00:00,Colindale,SSO,25,11
-2020-02-03 11:00:00,East Finchley,staffed,0,0
-2020-02-03 11:00:00,Edgware,staffed,40,58
-2020-02-03 11:00:00,Golders Green,SSO,8,15
-2020-02-03 11:00:00,North Finchley,SSO,14,13
-2020-02-03 11:00:00,Osidge,SSO,10,11
-2020-02-03 12:00:00,Chipping Barnet,SSO,0,0
-2020-02-03 12:00:00,Colindale,SSO,18,11
-2020-02-03 12:00:00,East Finchley,SSO,0,0
-2020-02-03 12:00:00,Edgware,SSO,28,47
-2020-02-03 12:00:00,Golders Green,SSO,10,9
-2020-02-03 12:00:00,North Finchley,SSO,19,12
-2020-02-03 12:00:00,Osidge,SSO,5,9
-2020-02-03 13:00:00,Chipping Barnet,SSO,0,0
-2020-02-03 13:00:00,Colindale,SSO,21,13
-2020-02-03 13:00:00,East Finchley,SSO,0,0
-2020-02-03 13:00:00,Edgware,SSO,16,22
-2020-02-03 13:00:00,Golders Green,SSO,25,22
-2020-02-03 13:00:00,North Finchley,SSO,7,5
-2020-02-03 13:00:00,Osidge,SSO,7,17
-2020-02-03 14:00:00,Chipping Barnet,SSO,0,0
-2020-02-03 14:00:00,Colindale,SSO,20,13
-2020-02-03 14:00:00,East Finchley,SSO,0,0
-2020-02-03 14:00:00,Edgware,SSO,22,20
-2020-02-03 14:00:00,Golders Green,SSO,9,17
-2020-02-03 14:00:00,North Finchley,SSO,30,19
-2020-02-03 14:00:00,Osidge,SSO,10,11
-2020-02-03 15:00:00,Chipping Barnet,SSO,0,0
-2020-02-03 15:00:00,Colindale,SSO,17,13
-2020-02-03 15:00:00,East Finchley,SSO,0,0
-2020-02-03 15:00:00,Edgware,SSO,50,21
-2020-02-03 15:00:00,Golders Green,SSO,10,9
-2020-02-03 15:00:00,North Finchley,SSO,23,20
-2020-02-03 15:00:00,Osidge,SSO,32,37
-2020-02-03 16:00:00,Chipping Barnet,SSO,0,0
-2020-02-03 16:00:00,Colindale,SSO,27,20
-2020-02-03 16:00:00,East Finchley,SSO,0,0
-2020-02-03 16:00:00,Edgware,SSO,65,83
-2020-02-03 16:00:00,Golders Green,SSO,13,10
-2020-02-03 16:00:00,North Finchley,SSO,18,13
-2020-02-03 16:00:00,Osidge,SSO,21,13
-2020-02-03 17:00:00,Chipping Barnet,SSO,0,0
-2020-02-03 17:00:00,Colindale,SSO,23,12
-2020-02-03 17:00:00,East Finchley,SSO,0,0
-2020-02-03 17:00:00,Edgware,SSO,28,57
-2020-02-03 17:00:00,Golders Green,SSO,9,27
-2020-02-03 17:00:00,North Finchley,SSO,12,9
-2020-02-03 17:00:00,Osidge,SSO,10,24
-2020-02-03 18:00:00,Chipping Barnet,SSO,0,0
-2020-02-03 18:00:00,Colindale,SSO,29,25
-2020-02-03 18:00:00,East Finchley,SSO,0,0
-2020-02-03 18:00:00,Edgware,SSO,15,9
-2020-02-03 18:00:00,Golders Green,SSO,3,5
-2020-02-03 18:00:00,North Finchley,SSO,13,6
-2020-02-03 18:00:00,Osidge,SSO,3,12
-2020-02-03 19:00:00,Chipping Barnet,SSO,0,0
-2020-02-03 19:00:00,Colindale,SSO,23,13
-2020-02-03 19:00:00,East Finchley,SSO,0,0
-2020-02-03 19:00:00,Edgware,SSO,10,14
-2020-02-03 19:00:00,Golders Green,SSO,9,13
-2020-02-03 19:00:00,North Finchley,SSO,17,16
-2020-02-03 19:00:00,Osidge,SSO,2,7
-2020-02-03 20:00:00,Chipping Barnet,SSO,0,0
-2020-02-03 20:00:00,Colindale,SSO,19,11
-2020-02-03 20:00:00,East Finchley,closed,0,0
-2020-02-03 20:00:00,Edgware,SSO,10,14
-2020-02-03 20:00:00,Golders Green,closed,4,9
-2020-02-03 20:00:00,North Finchley,closed,0,0
-2020-02-03 20:00:00,Osidge,closed,0,0
-2020-02-03 21:00:00,Chipping Barnet,SSO,0,0
-2020-02-03 21:00:00,Colindale,SSO,22,4
-2020-02-03 21:00:00,East Finchley,closed,0,0
-2020-02-03 21:00:00,Edgware,SSO,6,20
-2020-02-03 21:00:00,Golders Green,closed,0,0
-2020-02-03 21:00:00,North Finchley,closed,0,0
-2020-02-03 21:00:00,Osidge,closed,0,0
-2020-02-03 22:00:00,Chipping Barnet,closed,0,0
-2020-02-03 22:00:00,Colindale,closed,0,0
-2020-02-03 22:00:00,East Finchley,closed,0,0
-2020-02-03 22:00:00,Edgware,closed,6,27
-2020-02-03 22:00:00,Golders Green,closed,0,0
-2020-02-03 22:00:00,North Finchley,closed,0,0
-2020-02-03 22:00:00,Osidge,closed,2,10
-2020-02-03 23:00:00,Chipping Barnet,closed,0,0
-2020-02-03 23:00:00,Colindale,closed,0,0
-2020-02-03 23:00:00,East Finchley,closed,0,0
-2020-02-03 23:00:00,Edgware,closed,0,0
-2020-02-03 23:00:00,Golders Green,closed,0,0
-2020-02-03 23:00:00,North Finchley,closed,0,0
-2020-02-03 23:00:00,Osidge,closed,0,0
-2020-02-04 00:00:00,Chipping Barnet,closed,0,0
-2020-02-04 00:00:00,Colindale,closed,0,0
-2020-02-04 00:00:00,East Finchley,closed,0,0
-2020-02-04 00:00:00,Edgware,closed,0,0
-2020-02-04 00:00:00,Golders Green,closed,0,0
-2020-02-04 00:00:00,North Finchley,closed,0,0
-2020-02-04 00:00:00,Osidge,closed,0,0
-2020-02-04 01:00:00,Chipping Barnet,closed,0,0
-2020-02-04 01:00:00,Colindale,closed,0,0
-2020-02-04 01:00:00,East Finchley,closed,0,0
-2020-02-04 01:00:00,Edgware,closed,0,0
-2020-02-04 01:00:00,Golders Green,closed,0,0
-2020-02-04 01:00:00,North Finchley,closed,0,0
-2020-02-04 01:00:00,Osidge,closed,0,0
-2020-02-04 02:00:00,Chipping Barnet,closed,0,0
-2020-02-04 02:00:00,Colindale,closed,0,0
-2020-02-04 02:00:00,East Finchley,closed,0,0
-2020-02-04 02:00:00,Edgware,closed,0,0
-2020-02-04 02:00:00,Golders Green,closed,0,0
-2020-02-04 02:00:00,North Finchley,closed,0,0
-2020-02-04 02:00:00,Osidge,closed,0,0
-2020-02-04 03:00:00,Chipping Barnet,closed,0,0
-2020-02-04 03:00:00,Colindale,closed,0,0
-2020-02-04 03:00:00,East Finchley,closed,0,0
-2020-02-04 03:00:00,Edgware,closed,0,0
-2020-02-04 03:00:00,Golders Green,closed,0,0
-2020-02-04 03:00:00,North Finchley,closed,0,0
-2020-02-04 03:00:00,Osidge,closed,0,0
-2020-02-04 04:00:00,Chipping Barnet,closed,0,0
-2020-02-04 04:00:00,Colindale,closed,0,0
-2020-02-04 04:00:00,East Finchley,closed,0,0
-2020-02-04 04:00:00,Edgware,closed,0,0
-2020-02-04 04:00:00,Golders Green,closed,0,0
-2020-02-04 04:00:00,North Finchley,closed,0,0
-2020-02-04 04:00:00,Osidge,closed,0,0
-2020-02-04 05:00:00,Chipping Barnet,closed,0,0
-2020-02-04 05:00:00,Colindale,closed,0,0
-2020-02-04 05:00:00,East Finchley,closed,0,0
-2020-02-04 05:00:00,Edgware,closed,0,0
-2020-02-04 05:00:00,Golders Green,closed,0,0
-2020-02-04 05:00:00,North Finchley,closed,0,0
-2020-02-04 05:00:00,Osidge,closed,0,0
-2020-02-04 06:00:00,Chipping Barnet,closed,0,0
-2020-02-04 06:00:00,Colindale,closed,1,2
-2020-02-04 06:00:00,East Finchley,closed,0,0
-2020-02-04 06:00:00,Edgware,closed,0,0
-2020-02-04 06:00:00,Golders Green,closed,0,0
-2020-02-04 06:00:00,North Finchley,closed,0,0
-2020-02-04 06:00:00,Osidge,closed,0,0
-2020-02-04 07:00:00,Chipping Barnet,SSO,0,0
-2020-02-04 07:00:00,Colindale,SSO,0,0
-2020-02-04 07:00:00,East Finchley,closed,0,0
-2020-02-04 07:00:00,Edgware,SSO,0,0
-2020-02-04 07:00:00,Golders Green,closed,0,0
-2020-02-04 07:00:00,North Finchley,closed,0,0
-2020-02-04 07:00:00,Osidge,closed,0,0
-2020-02-04 08:00:00,Chipping Barnet,SSO,0,0
-2020-02-04 08:00:00,Colindale,SSO,11,9
-2020-02-04 08:00:00,East Finchley,SSO,0,0
-2020-02-04 08:00:00,Edgware,SSO,11,5
-2020-02-04 08:00:00,Golders Green,SSO,1,1
-2020-02-04 08:00:00,North Finchley,SSO,0,0
-2020-02-04 08:00:00,Osidge,SSO,14,13
-2020-02-04 09:00:00,Chipping Barnet,staffed,0,0
-2020-02-04 09:00:00,Colindale,SSO,16,8
-2020-02-04 09:00:00,East Finchley,SSO,0,0
-2020-02-04 09:00:00,Edgware,SSO,13,14
-2020-02-04 09:00:00,Golders Green,SSO,13,17
-2020-02-04 09:00:00,North Finchley,SSO,7,6
-2020-02-04 09:00:00,Osidge,SSO,7,9
-2020-02-04 10:00:00,Chipping Barnet,staffed,0,0
-2020-02-04 10:00:00,Colindale,SSO,11,19
-2020-02-04 10:00:00,East Finchley,SSO,1111,1154
-2020-02-04 10:00:00,Edgware,SSO,13,6
-2020-02-04 10:00:00,Golders Green,SSO,2,5
-2020-02-04 10:00:00,North Finchley,SSO,11,6
-2020-02-04 10:00:00,Osidge,SSO,5,3
-2020-02-04 11:00:00,Chipping Barnet,staffed,0,0
-2020-02-04 11:00:00,Colindale,SSO,34,23
-2020-02-04 11:00:00,East Finchley,SSO,2,7
-2020-02-04 11:00:00,Edgware,SSO,12,22
-2020-02-04 11:00:00,Golders Green,SSO,4,12
-2020-02-04 11:00:00,North Finchley,SSO,10,3
-2020-02-04 11:00:00,Osidge,SSO,5,14
-2020-02-04 12:00:00,Chipping Barnet,SSO,0,0
-2020-02-04 12:00:00,Colindale,SSO,27,19
-2020-02-04 12:00:00,East Finchley,SSO,16,6
-2020-02-04 12:00:00,Edgware,SSO,20,23
-2020-02-04 12:00:00,Golders Green,SSO,5,7
-2020-02-04 12:00:00,North Finchley,SSO,11,6
-2020-02-04 12:00:00,Osidge,SSO,4,9
-2020-02-04 13:00:00,Chipping Barnet,SSO,0,0
-2020-02-04 13:00:00,Colindale,SSO,31,26
-2020-02-04 13:00:00,East Finchley,SSO,35,30
-2020-02-04 13:00:00,Edgware,SSO,22,22
-2020-02-04 13:00:00,Golders Green,SSO,14,21
-2020-02-04 13:00:00,North Finchley,SSO,8,13
-2020-02-04 13:00:00,Osidge,SSO,14,22
-2020-02-04 14:00:00,Chipping Barnet,SSO,0,0
-2020-02-04 14:00:00,Colindale,staffed,43,76
-2020-02-04 14:00:00,East Finchley,SSO,12,8
-2020-02-04 14:00:00,Edgware,staffed,28,32
-2020-02-04 14:00:00,Golders Green,staffed,11,17
-2020-02-04 14:00:00,North Finchley,staffed,21,27
-2020-02-04 14:00:00,Osidge,staffed,55,20
-2020-02-04 15:00:00,Chipping Barnet,SSO,0,0
-2020-02-04 15:00:00,Colindale,staffed,77,36
-2020-02-04 15:00:00,East Finchley,SSO,36,41
-2020-02-04 15:00:00,Edgware,staffed,32,31
-2020-02-04 15:00:00,Golders Green,staffed,12,14
-2020-02-04 15:00:00,North Finchley,staffed,21,28
-2020-02-04 15:00:00,Osidge,staffed,25,61
-2020-02-04 16:00:00,Chipping Barnet,SSO,0,0
-2020-02-04 16:00:00,Colindale,staffed,48,35
-2020-02-04 16:00:00,East Finchley,SSO,8,22
-2020-02-04 16:00:00,Edgware,staffed,36,44
-2020-02-04 16:00:00,Golders Green,staffed,13,21
-2020-02-04 16:00:00,North Finchley,staffed,23,11
-2020-02-04 16:00:00,Osidge,staffed,21,27
-2020-02-04 17:00:00,Chipping Barnet,SSO,0,0
-2020-02-04 17:00:00,Colindale,staffed,75,50
-2020-02-04 17:00:00,East Finchley,SSO,8,11
-2020-02-04 17:00:00,Edgware,SSO,23,46
-2020-02-04 17:00:00,Golders Green,SSO,10,14
-2020-02-04 17:00:00,North Finchley,staffed,16,11
-2020-02-04 17:00:00,Osidge,staffed,16,17
-2020-02-04 18:00:00,Chipping Barnet,SSO,0,0
-2020-02-04 18:00:00,Colindale,staffed,35,29
-2020-02-04 18:00:00,East Finchley,SSO,8,4
-2020-02-04 18:00:00,Edgware,SSO,10,16
-2020-02-04 18:00:00,Golders Green,SSO,4,10
-2020-02-04 18:00:00,North Finchley,staffed,18,18
-2020-02-04 18:00:00,Osidge,staffed,8,10
-2020-02-04 19:00:00,Chipping Barnet,SSO,0,0
-2020-02-04 19:00:00,Colindale,staffed,34,17
-2020-02-04 19:00:00,East Finchley,SSO,2,9
-2020-02-04 19:00:00,Edgware,SSO,15,2
-2020-02-04 19:00:00,Golders Green,SSO,0,0
-2020-02-04 19:00:00,North Finchley,staffed,18,7
-2020-02-04 19:00:00,Osidge,staffed,13,18
-2020-02-04 20:00:00,Chipping Barnet,SSO,0,0
-2020-02-04 20:00:00,Colindale,SSO,19,7
-2020-02-04 20:00:00,East Finchley,closed,0,0
-2020-02-04 20:00:00,Edgware,SSO,6,17
-2020-02-04 20:00:00,Golders Green,closed,1,8
-2020-02-04 20:00:00,North Finchley,closed,12,3
-2020-02-04 20:00:00,Osidge,closed,0,0
-2020-02-04 21:00:00,Chipping Barnet,SSO,0,0
-2020-02-04 21:00:00,Colindale,SSO,11,2
-2020-02-04 21:00:00,East Finchley,closed,0,0
-2020-02-04 21:00:00,Edgware,SSO,1,5
-2020-02-04 21:00:00,Golders Green,closed,2,4
-2020-02-04 21:00:00,North Finchley,closed,0,0
-2020-02-04 21:00:00,Osidge,closed,0,0
-2020-02-04 22:00:00,Chipping Barnet,closed,0,0
-2020-02-04 22:00:00,Colindale,closed,0,0
-2020-02-04 22:00:00,East Finchley,closed,0,0
-2020-02-04 22:00:00,Edgware,closed,4,34
-2020-02-04 22:00:00,Golders Green,closed,0,0
-2020-02-04 22:00:00,North Finchley,closed,0,0
-2020-02-04 22:00:00,Osidge,closed,0,0
-2020-02-04 23:00:00,Chipping Barnet,closed,0,0
-2020-02-04 23:00:00,Colindale,closed,0,0
-2020-02-04 23:00:00,East Finchley,closed,0,0
-2020-02-04 23:00:00,Edgware,closed,0,0
-2020-02-04 23:00:00,Golders Green,closed,0,0
-2020-02-04 23:00:00,North Finchley,closed,0,0
-2020-02-04 23:00:00,Osidge,closed,5,8
-2020-02-05 00:00:00,Chipping Barnet,closed,0,0
-2020-02-05 00:00:00,Colindale,closed,0,0
-2020-02-05 00:00:00,East Finchley,closed,0,0
-2020-02-05 00:00:00,Edgware,closed,0,0
-2020-02-05 00:00:00,Golders Green,closed,0,0
-2020-02-05 00:00:00,North Finchley,closed,0,0
-2020-02-05 00:00:00,Osidge,closed,0,0
-2020-02-05 01:00:00,Chipping Barnet,closed,0,0
-2020-02-05 01:00:00,Colindale,closed,0,0
-2020-02-05 01:00:00,East Finchley,closed,0,0
-2020-02-05 01:00:00,Edgware,closed,0,0
-2020-02-05 01:00:00,Golders Green,closed,0,0
-2020-02-05 01:00:00,North Finchley,closed,0,0
-2020-02-05 01:00:00,Osidge,closed,0,0
-2020-02-05 02:00:00,Chipping Barnet,closed,0,0
-2020-02-05 02:00:00,Colindale,closed,0,0
-2020-02-05 02:00:00,East Finchley,closed,0,0
-2020-02-05 02:00:00,Edgware,closed,0,0
-2020-02-05 02:00:00,Golders Green,closed,0,0
-2020-02-05 02:00:00,North Finchley,closed,0,0
-2020-02-05 02:00:00,Osidge,closed,0,0
-2020-02-05 03:00:00,Chipping Barnet,closed,0,0
-2020-02-05 03:00:00,Colindale,closed,0,0
-2020-02-05 03:00:00,East Finchley,closed,0,0
-2020-02-05 03:00:00,Edgware,closed,0,0
-2020-02-05 03:00:00,Golders Green,closed,0,0
-2020-02-05 03:00:00,North Finchley,closed,0,0
-2020-02-05 03:00:00,Osidge,closed,0,0
-2020-02-05 04:00:00,Chipping Barnet,closed,0,0
-2020-02-05 04:00:00,Colindale,closed,0,0
-2020-02-05 04:00:00,East Finchley,closed,0,0
-2020-02-05 04:00:00,Edgware,closed,0,0
-2020-02-05 04:00:00,Golders Green,closed,0,0
-2020-02-05 04:00:00,North Finchley,closed,0,0
-2020-02-05 04:00:00,Osidge,closed,0,0
-2020-02-05 05:00:00,Chipping Barnet,closed,0,0
-2020-02-05 05:00:00,Colindale,closed,0,0
-2020-02-05 05:00:00,East Finchley,closed,4,6
-2020-02-05 05:00:00,Edgware,closed,0,0
-2020-02-05 05:00:00,Golders Green,closed,0,0
-2020-02-05 05:00:00,North Finchley,closed,0,0
-2020-02-05 05:00:00,Osidge,closed,0,0
-2020-02-05 06:00:00,Chipping Barnet,closed,0,0
-2020-02-05 06:00:00,Colindale,closed,1,2
-2020-02-05 06:00:00,East Finchley,closed,0,0
-2020-02-05 06:00:00,Edgware,closed,0,0
-2020-02-05 06:00:00,Golders Green,closed,0,0
-2020-02-05 06:00:00,North Finchley,closed,0,0
-2020-02-05 06:00:00,Osidge,closed,0,0
-2020-02-05 07:00:00,Chipping Barnet,SSO,0,0
-2020-02-05 07:00:00,Colindale,SSO,10,8
-2020-02-05 07:00:00,East Finchley,closed,0,0
-2020-02-05 07:00:00,Edgware,SSO,5,5
-2020-02-05 07:00:00,Golders Green,closed,0,0
-2020-02-05 07:00:00,North Finchley,closed,0,0
-2020-02-05 07:00:00,Osidge,closed,0,0
-2020-02-05 08:00:00,Chipping Barnet,SSO,0,0
-2020-02-05 08:00:00,Colindale,SSO,10,10
-2020-02-05 08:00:00,East Finchley,SSO,7,3
-2020-02-05 08:00:00,Edgware,SSO,8,6
-2020-02-05 08:00:00,Golders Green,SSO,2,4
-2020-02-05 08:00:00,North Finchley,SSO,2,3
-2020-02-05 08:00:00,Osidge,SSO,11,8
-2020-02-05 09:00:00,Chipping Barnet,SSO,0,0
-2020-02-05 09:00:00,Colindale,SSO,22,35
-2020-02-05 09:00:00,East Finchley,SSO,5,5
-2020-02-05 09:00:00,Edgware,SSO,9,10
-2020-02-05 09:00:00,Golders Green,SSO,3,2
-2020-02-05 09:00:00,North Finchley,SSO,15,7
-2020-02-05 09:00:00,Osidge,staffed,10,4
-2020-02-05 10:00:00,Chipping Barnet,SSO,0,0
-2020-02-05 10:00:00,Colindale,SSO,40,24
-2020-02-05 10:00:00,East Finchley,SSO,9,8
-2020-02-05 10:00:00,Edgware,SSO,17,19
-2020-02-05 10:00:00,Golders Green,SSO,19,14
-2020-02-05 10:00:00,North Finchley,SSO,6,7
-2020-02-05 10:00:00,Osidge,staffed,24,14
-2020-02-05 11:00:00,Chipping Barnet,SSO,0,0
-2020-02-05 11:00:00,Colindale,SSO,45,61
-2020-02-05 11:00:00,East Finchley,SSO,10,5
-2020-02-05 11:00:00,Edgware,SSO,18,20
-2020-02-05 11:00:00,Golders Green,SSO,16,19
-2020-02-05 11:00:00,North Finchley,SSO,15,11
-2020-02-05 11:00:00,Osidge,staffed,13,34
-2020-02-05 12:00:00,Chipping Barnet,SSO,0,0
-2020-02-05 12:00:00,Colindale,SSO,74,33
-2020-02-05 12:00:00,East Finchley,SSO,7,13
-2020-02-05 12:00:00,Edgware,SSO,37,29
-2020-02-05 12:00:00,Golders Green,SSO,11,20
-2020-02-05 12:00:00,North Finchley,SSO,2,2
-2020-02-05 12:00:00,Osidge,SSO,12,18
-2020-02-05 13:00:00,Chipping Barnet,SSO,0,0
-2020-02-05 13:00:00,Colindale,SSO,24,17
-2020-02-05 13:00:00,East Finchley,SSO,20,14
-2020-02-05 13:00:00,Edgware,SSO,29,29
-2020-02-05 13:00:00,Golders Green,SSO,9,6
-2020-02-05 13:00:00,North Finchley,SSO,10,7
-2020-02-05 13:00:00,Osidge,SSO,7,6
-2020-02-05 14:00:00,Chipping Barnet,staffed,0,0
-2020-02-05 14:00:00,Colindale,staffed,25,38
-2020-02-05 14:00:00,East Finchley,staffed,23,16
-2020-02-05 14:00:00,Edgware,SSO,27,44
-2020-02-05 14:00:00,Golders Green,SSO,23,27
-2020-02-05 14:00:00,North Finchley,SSO,10,5
-2020-02-05 14:00:00,Osidge,SSO,15,14
-2020-02-05 15:00:00,Chipping Barnet,staffed,0,0
-2020-02-05 15:00:00,Colindale,staffed,48,29
-2020-02-05 15:00:00,East Finchley,staffed,42,28
-2020-02-05 15:00:00,Edgware,SSO,32,60
-2020-02-05 15:00:00,Golders Green,SSO,60,30
-2020-02-05 15:00:00,North Finchley,SSO,13,17
-2020-02-05 15:00:00,Osidge,SSO,31,50
-2020-02-05 16:00:00,Chipping Barnet,staffed,0,0
-2020-02-05 16:00:00,Colindale,staffed,39,27
-2020-02-05 16:00:00,East Finchley,staffed,25,28
-2020-02-05 16:00:00,Edgware,SSO,20,19
-2020-02-05 16:00:00,Golders Green,SSO,17,24
-2020-02-05 16:00:00,North Finchley,SSO,20,20
-2020-02-05 16:00:00,Osidge,SSO,8,12
-2020-02-05 17:00:00,Chipping Barnet,staffed,0,0
-2020-02-05 17:00:00,Colindale,SSO,28,21
-2020-02-05 17:00:00,East Finchley,staffed,23,29
-2020-02-05 17:00:00,Edgware,SSO,36,39
-2020-02-05 17:00:00,Golders Green,SSO,25,40
-2020-02-05 17:00:00,North Finchley,SSO,10,5
-2020-02-05 17:00:00,Osidge,SSO,13,42
-2020-02-05 18:00:00,Chipping Barnet,staffed,0,0
-2020-02-05 18:00:00,Colindale,SSO,29,11
-2020-02-05 18:00:00,East Finchley,staffed,3,6
-2020-02-05 18:00:00,Edgware,SSO,47,41
-2020-02-05 18:00:00,Golders Green,SSO,0,0
-2020-02-05 18:00:00,North Finchley,SSO,15,12
-2020-02-05 18:00:00,Osidge,SSO,3,6
-2020-02-05 19:00:00,Chipping Barnet,staffed,0,0
-2020-02-05 19:00:00,Colindale,SSO,14,6
-2020-02-05 19:00:00,East Finchley,staffed,3,10
-2020-02-05 19:00:00,Edgware,SSO,25,28
-2020-02-05 19:00:00,Golders Green,SSO,2,13
-2020-02-05 19:00:00,North Finchley,SSO,11,12
-2020-02-05 19:00:00,Osidge,SSO,1,4
-2020-02-05 20:00:00,Chipping Barnet,SSO,0,0
-2020-02-05 20:00:00,Colindale,SSO,10,3
-2020-02-05 20:00:00,East Finchley,closed,1,2
-2020-02-05 20:00:00,Edgware,SSO,6,15
-2020-02-05 20:00:00,Golders Green,closed,6,4
-2020-02-05 20:00:00,North Finchley,closed,0,0
-2020-02-05 20:00:00,Osidge,closed,0,0
-2020-02-05 21:00:00,Chipping Barnet,SSO,0,0
-2020-02-05 21:00:00,Colindale,SSO,7,3
-2020-02-05 21:00:00,East Finchley,closed,0,0
-2020-02-05 21:00:00,Edgware,SSO,4,9
-2020-02-05 21:00:00,Golders Green,closed,4,2
-2020-02-05 21:00:00,North Finchley,closed,0,0
-2020-02-05 21:00:00,Osidge,closed,1,7
-2020-02-05 22:00:00,Chipping Barnet,closed,0,0
-2020-02-05 22:00:00,Colindale,closed,0,0
-2020-02-05 22:00:00,East Finchley,closed,0,0
-2020-02-05 22:00:00,Edgware,closed,3,33
-2020-02-05 22:00:00,Golders Green,closed,0,0
-2020-02-05 22:00:00,North Finchley,closed,0,0
-2020-02-05 22:00:00,Osidge,closed,0,0
-2020-02-05 23:00:00,Chipping Barnet,closed,0,0
-2020-02-05 23:00:00,Colindale,closed,0,0
-2020-02-05 23:00:00,East Finchley,closed,0,0
-2020-02-05 23:00:00,Edgware,closed,0,0
-2020-02-05 23:00:00,Golders Green,closed,1,12
-2020-02-05 23:00:00,North Finchley,closed,0,0
-2020-02-05 23:00:00,Osidge,closed,0,0
-2020-02-06 00:00:00,Chipping Barnet,closed,0,0
-2020-02-06 00:00:00,Colindale,closed,0,0
-2020-02-06 00:00:00,East Finchley,closed,0,0
-2020-02-06 00:00:00,Edgware,closed,0,0
-2020-02-06 00:00:00,Golders Green,closed,0,0
-2020-02-06 00:00:00,North Finchley,closed,0,0
-2020-02-06 00:00:00,Osidge,closed,0,0
-2020-02-06 01:00:00,Chipping Barnet,closed,0,0
-2020-02-06 01:00:00,Colindale,closed,0,0
-2020-02-06 01:00:00,East Finchley,closed,0,0
-2020-02-06 01:00:00,Edgware,closed,0,0
-2020-02-06 01:00:00,Golders Green,closed,0,0
-2020-02-06 01:00:00,North Finchley,closed,0,0
-2020-02-06 01:00:00,Osidge,closed,0,0
-2020-02-06 02:00:00,Chipping Barnet,closed,0,0
-2020-02-06 02:00:00,Colindale,closed,0,0
-2020-02-06 02:00:00,East Finchley,closed,0,0
-2020-02-06 02:00:00,Edgware,closed,0,0
-2020-02-06 02:00:00,Golders Green,closed,0,0
-2020-02-06 02:00:00,North Finchley,closed,0,0
-2020-02-06 02:00:00,Osidge,closed,0,0
-2020-02-06 03:00:00,Chipping Barnet,closed,0,0
-2020-02-06 03:00:00,Colindale,closed,0,0
-2020-02-06 03:00:00,East Finchley,closed,0,0
-2020-02-06 03:00:00,Edgware,closed,0,0
-2020-02-06 03:00:00,Golders Green,closed,0,0
-2020-02-06 03:00:00,North Finchley,closed,0,0
-2020-02-06 03:00:00,Osidge,closed,0,0
-2020-02-06 04:00:00,Chipping Barnet,closed,0,0
-2020-02-06 04:00:00,Colindale,closed,0,0
-2020-02-06 04:00:00,East Finchley,closed,0,0
-2020-02-06 04:00:00,Edgware,closed,0,0
-2020-02-06 04:00:00,Golders Green,closed,0,0
-2020-02-06 04:00:00,North Finchley,closed,0,0
-2020-02-06 04:00:00,Osidge,closed,0,0
-2020-02-06 05:00:00,Chipping Barnet,closed,0,0
-2020-02-06 05:00:00,Colindale,closed,0,0
-2020-02-06 05:00:00,East Finchley,closed,0,0
-2020-02-06 05:00:00,Edgware,closed,0,0
-2020-02-06 05:00:00,Golders Green,closed,0,0
-2020-02-06 05:00:00,North Finchley,closed,0,0
-2020-02-06 05:00:00,Osidge,closed,0,0
-2020-02-06 06:00:00,Chipping Barnet,closed,0,0
-2020-02-06 06:00:00,Colindale,closed,2,3
-2020-02-06 06:00:00,East Finchley,closed,13,11
-2020-02-06 06:00:00,Edgware,closed,0,0
-2020-02-06 06:00:00,Golders Green,closed,0,0
-2020-02-06 06:00:00,North Finchley,closed,0,0
-2020-02-06 06:00:00,Osidge,closed,0,0
-2020-02-06 07:00:00,Chipping Barnet,SSO,0,0
-2020-02-06 07:00:00,Colindale,SSO,15,11
-2020-02-06 07:00:00,East Finchley,closed,0,0
-2020-02-06 07:00:00,Edgware,SSO,9,9
-2020-02-06 07:00:00,Golders Green,closed,0,0
-2020-02-06 07:00:00,North Finchley,closed,0,0
-2020-02-06 07:00:00,Osidge,closed,0,0
-2020-02-06 08:00:00,Chipping Barnet,SSO,0,0
-2020-02-06 08:00:00,Colindale,SSO,7,12
-2020-02-06 08:00:00,East Finchley,SSO,4,3
-2020-02-06 08:00:00,Edgware,SSO,9,7
-2020-02-06 08:00:00,Golders Green,SSO,5,1
-2020-02-06 08:00:00,North Finchley,SSO,5,2
-2020-02-06 08:00:00,Osidge,SSO,3,2
-2020-02-06 09:00:00,Chipping Barnet,SSO,0,0
-2020-02-06 09:00:00,Colindale,staffed,14,30
-2020-02-06 09:00:00,East Finchley,SSO,4,2
-2020-02-06 09:00:00,Edgware,SSO,30,6
-2020-02-06 09:00:00,Golders Green,SSO,5,8
-2020-02-06 09:00:00,North Finchley,staffed,7,15
-2020-02-06 09:00:00,Osidge,SSO,18,9
-2020-02-06 10:00:00,Chipping Barnet,SSO,0,0
-2020-02-06 10:00:00,Colindale,staffed,41,27
-2020-02-06 10:00:00,East Finchley,SSO,4,5
-2020-02-06 10:00:00,Edgware,SSO,20,52
-2020-02-06 10:00:00,Golders Green,SSO,10,7
-2020-02-06 10:00:00,North Finchley,staffed,38,38
-2020-02-06 10:00:00,Osidge,SSO,7,9
-2020-02-06 11:00:00,Chipping Barnet,SSO,0,0
-2020-02-06 11:00:00,Colindale,staffed,47,27
-2020-02-06 11:00:00,East Finchley,SSO,10,9
-2020-02-06 11:00:00,Edgware,SSO,18,26
-2020-02-06 11:00:00,Golders Green,SSO,5,5
-2020-02-06 11:00:00,North Finchley,staffed,53,40
-2020-02-06 11:00:00,Osidge,SSO,4,16
-2020-02-06 12:00:00,Chipping Barnet,SSO,0,0
-2020-02-06 12:00:00,Colindale,SSO,74,51
-2020-02-06 12:00:00,East Finchley,SSO,5,5
-2020-02-06 12:00:00,Edgware,SSO,11,25
-2020-02-06 12:00:00,Golders Green,SSO,4,11
-2020-02-06 12:00:00,North Finchley,SSO,28,23
-2020-02-06 12:00:00,Osidge,SSO,9,15
-2020-02-06 13:00:00,Chipping Barnet,SSO,0,0
-2020-02-06 13:00:00,Colindale,SSO,41,12
-2020-02-06 13:00:00,East Finchley,SSO,11,5
-2020-02-06 13:00:00,Edgware,SSO,36,31
-2020-02-06 13:00:00,Golders Green,SSO,21,9
-2020-02-06 13:00:00,North Finchley,SSO,11,7
-2020-02-06 13:00:00,Osidge,SSO,24,15
-2020-02-06 14:00:00,Chipping Barnet,SSO,0,0
-2020-02-06 14:00:00,Colindale,SSO,22,16
-2020-02-06 14:00:00,East Finchley,staffed,18,19
-2020-02-06 14:00:00,Edgware,staffed,54,39
-2020-02-06 14:00:00,Golders Green,staffed,30,35
-2020-02-06 14:00:00,North Finchley,SSO,7,7
-2020-02-06 14:00:00,Osidge,staffed,96,62
-2020-02-06 15:00:00,Chipping Barnet,SSO,0,0
-2020-02-06 15:00:00,Colindale,SSO,19,18
-2020-02-06 15:00:00,East Finchley,staffed,26,21
-2020-02-06 15:00:00,Edgware,staffed,39,52
-2020-02-06 15:00:00,Golders Green,staffed,22,32
-2020-02-06 15:00:00,North Finchley,SSO,10,10
-2020-02-06 15:00:00,Osidge,staffed,47,80
-2020-02-06 16:00:00,Chipping Barnet,SSO,0,0
-2020-02-06 16:00:00,Colindale,SSO,23,17
-2020-02-06 16:00:00,East Finchley,staffed,16,24
-2020-02-06 16:00:00,Edgware,staffed,39,50
-2020-02-06 16:00:00,Golders Green,staffed,14,38
-2020-02-06 16:00:00,North Finchley,SSO,7,7
-2020-02-06 16:00:00,Osidge,staffed,17,15
-2020-02-06 17:00:00,Chipping Barnet,SSO,0,0
-2020-02-06 17:00:00,Colindale,SSO,34,22
-2020-02-06 17:00:00,East Finchley,SSO,13,25
-2020-02-06 17:00:00,Edgware,staffed,44,43
-2020-02-06 17:00:00,Golders Green,staffed,12,24
-2020-02-06 17:00:00,North Finchley,SSO,12,6
-2020-02-06 17:00:00,Osidge,SSO,11,18
-2020-02-06 18:00:00,Chipping Barnet,SSO,0,0
-2020-02-06 18:00:00,Colindale,SSO,32,21
-2020-02-06 18:00:00,East Finchley,SSO,47,29
-2020-02-06 18:00:00,Edgware,staffed,30,31
-2020-02-06 18:00:00,Golders Green,staffed,13,16
-2020-02-06 18:00:00,North Finchley,SSO,0,0
-2020-02-06 18:00:00,Osidge,SSO,2,12
-2020-02-06 19:00:00,Chipping Barnet,SSO,0,0
-2020-02-06 19:00:00,Colindale,SSO,36,15
-2020-02-06 19:00:00,East Finchley,SSO,12,19
-2020-02-06 19:00:00,Edgware,staffed,13,23
-2020-02-06 19:00:00,Golders Green,staffed,8,18
-2020-02-06 19:00:00,North Finchley,SSO,6,2
-2020-02-06 19:00:00,Osidge,SSO,0,0
-2020-02-06 20:00:00,Chipping Barnet,SSO,0,0
-2020-02-06 20:00:00,Colindale,SSO,21,15
-2020-02-06 20:00:00,East Finchley,closed,1,3
-2020-02-06 20:00:00,Edgware,SSO,9,17
-2020-02-06 20:00:00,Golders Green,closed,6,13
-2020-02-06 20:00:00,North Finchley,closed,4,1
-2020-02-06 20:00:00,Osidge,closed,0,0
-2020-02-06 21:00:00,Chipping Barnet,SSO,0,0
-2020-02-06 21:00:00,Colindale,SSO,16,2
-2020-02-06 21:00:00,East Finchley,closed,0,0
-2020-02-06 21:00:00,Edgware,SSO,4,16
-2020-02-06 21:00:00,Golders Green,closed,0,0
-2020-02-06 21:00:00,North Finchley,closed,0,0
-2020-02-06 21:00:00,Osidge,closed,8,10
-2020-02-06 22:00:00,Chipping Barnet,closed,0,0
-2020-02-06 22:00:00,Colindale,closed,0,0
-2020-02-06 22:00:00,East Finchley,closed,3,12
-2020-02-06 22:00:00,Edgware,closed,1,10
-2020-02-06 22:00:00,Golders Green,closed,0,0
-2020-02-06 22:00:00,North Finchley,closed,0,0
-2020-02-06 22:00:00,Osidge,closed,0,0
-2020-02-06 23:00:00,Chipping Barnet,closed,0,0
-2020-02-06 23:00:00,Colindale,closed,0,0
-2020-02-06 23:00:00,East Finchley,closed,0,0
-2020-02-06 23:00:00,Edgware,closed,0,0
-2020-02-06 23:00:00,Golders Green,closed,0,0
-2020-02-06 23:00:00,North Finchley,closed,0,0
-2020-02-06 23:00:00,Osidge,closed,0,0
-2020-02-07 00:00:00,Chipping Barnet,closed,0,0
-2020-02-07 00:00:00,Colindale,closed,0,0
-2020-02-07 00:00:00,East Finchley,closed,0,0
-2020-02-07 00:00:00,Edgware,closed,0,0
-2020-02-07 00:00:00,Golders Green,closed,0,0
-2020-02-07 00:00:00,North Finchley,closed,0,0
-2020-02-07 00:00:00,Osidge,closed,0,0
-2020-02-07 01:00:00,Chipping Barnet,closed,0,0
-2020-02-07 01:00:00,Colindale,closed,0,0
-2020-02-07 01:00:00,East Finchley,closed,0,0
-2020-02-07 01:00:00,Edgware,closed,0,0
-2020-02-07 01:00:00,Golders Green,closed,0,0
-2020-02-07 01:00:00,North Finchley,closed,0,0
-2020-02-07 01:00:00,Osidge,closed,0,0
-2020-02-07 02:00:00,Chipping Barnet,closed,0,0
-2020-02-07 02:00:00,Colindale,closed,0,0
-2020-02-07 02:00:00,East Finchley,closed,0,0
-2020-02-07 02:00:00,Edgware,closed,0,0
-2020-02-07 02:00:00,Golders Green,closed,0,0
-2020-02-07 02:00:00,North Finchley,closed,0,0
-2020-02-07 02:00:00,Osidge,closed,0,0
-2020-02-07 03:00:00,Chipping Barnet,closed,0,0
-2020-02-07 03:00:00,Colindale,closed,0,0
-2020-02-07 03:00:00,East Finchley,closed,0,0
-2020-02-07 03:00:00,Edgware,closed,0,0
-2020-02-07 03:00:00,Golders Green,closed,0,0
-2020-02-07 03:00:00,North Finchley,closed,0,0
-2020-02-07 03:00:00,Osidge,closed,0,0
-2020-02-07 04:00:00,Chipping Barnet,closed,0,0
-2020-02-07 04:00:00,Colindale,closed,0,0
-2020-02-07 04:00:00,East Finchley,closed,0,0
-2020-02-07 04:00:00,Edgware,closed,0,0
-2020-02-07 04:00:00,Golders Green,closed,0,0
-2020-02-07 04:00:00,North Finchley,closed,0,0
-2020-02-07 04:00:00,Osidge,closed,0,0
-2020-02-07 05:00:00,Chipping Barnet,closed,0,0
-2020-02-07 05:00:00,Colindale,closed,0,0
-2020-02-07 05:00:00,East Finchley,closed,0,0
-2020-02-07 05:00:00,Edgware,closed,0,0
-2020-02-07 05:00:00,Golders Green,closed,0,0
-2020-02-07 05:00:00,North Finchley,closed,0,0
-2020-02-07 05:00:00,Osidge,closed,0,0
-2020-02-07 06:00:00,Chipping Barnet,closed,0,0
-2020-02-07 06:00:00,Colindale,closed,7,5
-2020-02-07 06:00:00,East Finchley,closed,0,0
-2020-02-07 06:00:00,Edgware,closed,0,0
-2020-02-07 06:00:00,Golders Green,closed,0,0
-2020-02-07 06:00:00,North Finchley,closed,0,0
-2020-02-07 06:00:00,Osidge,closed,0,0
-2020-02-07 07:00:00,Chipping Barnet,SSO,0,0
-2020-02-07 07:00:00,Colindale,SSO,7,7
-2020-02-07 07:00:00,East Finchley,closed,0,0
-2020-02-07 07:00:00,Edgware,SSO,0,0
-2020-02-07 07:00:00,Golders Green,closed,0,0
-2020-02-07 07:00:00,North Finchley,closed,0,0
-2020-02-07 07:00:00,Osidge,closed,0,0
-2020-02-07 08:00:00,Chipping Barnet,SSO,0,0
-2020-02-07 08:00:00,Colindale,SSO,8,9
-2020-02-07 08:00:00,East Finchley,SSO,10,7
-2020-02-07 08:00:00,Edgware,SSO,7,5
-2020-02-07 08:00:00,Golders Green,SSO,4,3
-2020-02-07 08:00:00,North Finchley,SSO,0,0
-2020-02-07 08:00:00,Osidge,SSO,9,5
-2020-02-07 09:00:00,Chipping Barnet,SSO,0,0
-2020-02-07 09:00:00,Colindale,SSO,12,7
-2020-02-07 09:00:00,East Finchley,SSO,33,40
-2020-02-07 09:00:00,Edgware,SSO,18,18
-2020-02-07 09:00:00,Golders Green,staffed,17,11
-2020-02-07 09:00:00,North Finchley,SSO,8,6
-2020-02-07 09:00:00,Osidge,SSO,6,7
-2020-02-07 10:00:00,Chipping Barnet,SSO,0,0
-2020-02-07 10:00:00,Colindale,SSO,27,20
-2020-02-07 10:00:00,East Finchley,SSO,21,16
-2020-02-07 10:00:00,Edgware,SSO,23,19
-2020-02-07 10:00:00,Golders Green,staffed,22,40
-2020-02-07 10:00:00,North Finchley,SSO,9,10
-2020-02-07 10:00:00,Osidge,SSO,7,14
-2020-02-07 11:00:00,Chipping Barnet,SSO,0,0
-2020-02-07 11:00:00,Colindale,SSO,18,11
-2020-02-07 11:00:00,East Finchley,SSO,6,6
-2020-02-07 11:00:00,Edgware,SSO,36,33
-2020-02-07 11:00:00,Golders Green,staffed,19,31
-2020-02-07 11:00:00,North Finchley,SSO,23,14
-2020-02-07 11:00:00,Osidge,SSO,11,10
-2020-02-07 12:00:00,Chipping Barnet,SSO,0,0
-2020-02-07 12:00:00,Colindale,SSO,27,16
-2020-02-07 12:00:00,East Finchley,SSO,8,2
-2020-02-07 12:00:00,Edgware,SSO,38,48
-2020-02-07 12:00:00,Golders Green,SSO,15,25
-2020-02-07 12:00:00,North Finchley,SSO,23,10
-2020-02-07 12:00:00,Osidge,SSO,4,6
-2020-02-07 13:00:00,Chipping Barnet,SSO,0,0
-2020-02-07 13:00:00,Colindale,SSO,25,10
-2020-02-07 13:00:00,East Finchley,SSO,9,7
-2020-02-07 13:00:00,Edgware,SSO,47,42
-2020-02-07 13:00:00,Golders Green,SSO,16,22
-2020-02-07 13:00:00,North Finchley,SSO,15,17
-2020-02-07 13:00:00,Osidge,SSO,17,16
-2020-02-07 14:00:00,Chipping Barnet,staffed,0,0
-2020-02-07 14:00:00,Colindale,SSO,30,21
-2020-02-07 14:00:00,East Finchley,SSO,16,14
-2020-02-07 14:00:00,Edgware,SSO,37,52
-2020-02-07 14:00:00,Golders Green,SSO,14,15
-2020-02-07 14:00:00,North Finchley,staffed,18,20
-2020-02-07 14:00:00,Osidge,SSO,15,14
-2020-02-07 15:00:00,Chipping Barnet,staffed,0,0
-2020-02-07 15:00:00,Colindale,SSO,30,29
-2020-02-07 15:00:00,East Finchley,SSO,21,18
-2020-02-07 15:00:00,Edgware,SSO,30,48
-2020-02-07 15:00:00,Golders Green,SSO,14,14
-2020-02-07 15:00:00,North Finchley,staffed,19,17
-2020-02-07 15:00:00,Osidge,SSO,40,47
-2020-02-07 16:00:00,Chipping Barnet,staffed,0,0
-2020-02-07 16:00:00,Colindale,SSO,19,12
-2020-02-07 16:00:00,East Finchley,SSO,23,18
-2020-02-07 16:00:00,Edgware,SSO,26,33
-2020-02-07 16:00:00,Golders Green,SSO,4,14
-2020-02-07 16:00:00,North Finchley,staffed,19,13
-2020-02-07 16:00:00,Osidge,SSO,16,30
-2020-02-07 17:00:00,Chipping Barnet,SSO,0,0
-2020-02-07 17:00:00,Colindale,SSO,31,21
-2020-02-07 17:00:00,East Finchley,SSO,8,13
-2020-02-07 17:00:00,Edgware,SSO,18,24
-2020-02-07 17:00:00,Golders Green,SSO,6,8
-2020-02-07 17:00:00,North Finchley,SSO,17,10
-2020-02-07 17:00:00,Osidge,SSO,22,46
-2020-02-07 18:00:00,Chipping Barnet,SSO,0,0
-2020-02-07 18:00:00,Colindale,SSO,24,11
-2020-02-07 18:00:00,East Finchley,SSO,4,7
-2020-02-07 18:00:00,Edgware,SSO,23,34
-2020-02-07 18:00:00,Golders Green,SSO,1,2
-2020-02-07 18:00:00,North Finchley,SSO,12,5
-2020-02-07 18:00:00,Osidge,SSO,3,7
-2020-02-07 19:00:00,Chipping Barnet,SSO,0,0
-2020-02-07 19:00:00,Colindale,SSO,5,2
-2020-02-07 19:00:00,East Finchley,SSO,0,0
-2020-02-07 19:00:00,Edgware,SSO,16,32
-2020-02-07 19:00:00,Golders Green,SSO,0,0
-2020-02-07 19:00:00,North Finchley,SSO,20,13
-2020-02-07 19:00:00,Osidge,SSO,2,2
-2020-02-07 20:00:00,Chipping Barnet,SSO,0,0
-2020-02-07 20:00:00,Colindale,SSO,7,3
-2020-02-07 20:00:00,East Finchley,closed,0,0
-2020-02-07 20:00:00,Edgware,SSO,9,10
-2020-02-07 20:00:00,Golders Green,closed,2,4
-2020-02-07 20:00:00,North Finchley,closed,0,0
-2020-02-07 20:00:00,Osidge,closed,0,0
-2020-02-07 21:00:00,Chipping Barnet,SSO,0,0
-2020-02-07 21:00:00,Colindale,SSO,6,1
-2020-02-07 21:00:00,East Finchley,closed,0,0
-2020-02-07 21:00:00,Edgware,SSO,1,3
-2020-02-07 21:00:00,Golders Green,closed,0,0
-2020-02-07 21:00:00,North Finchley,closed,0,0
-2020-02-07 21:00:00,Osidge,closed,0,0
-2020-02-07 22:00:00,Chipping Barnet,closed,0,0
-2020-02-07 22:00:00,Colindale,closed,0,0
-2020-02-07 22:00:00,East Finchley,closed,0,0
-2020-02-07 22:00:00,Edgware,closed,4,13
-2020-02-07 22:00:00,Golders Green,closed,0,0
-2020-02-07 22:00:00,North Finchley,closed,0,0
-2020-02-07 22:00:00,Osidge,closed,0,0
-2020-02-07 23:00:00,Chipping Barnet,closed,0,0
-2020-02-07 23:00:00,Colindale,closed,0,0
-2020-02-07 23:00:00,East Finchley,closed,0,0
-2020-02-07 23:00:00,Edgware,closed,0,0
-2020-02-07 23:00:00,Golders Green,closed,0,0
-2020-02-07 23:00:00,North Finchley,closed,0,0
-2020-02-07 23:00:00,Osidge,closed,12,22
-2020-02-08 00:00:00,Chipping Barnet,closed,0,0
-2020-02-08 00:00:00,Colindale,closed,0,0
-2020-02-08 00:00:00,East Finchley,closed,0,0
-2020-02-08 00:00:00,Edgware,closed,0,0
-2020-02-08 00:00:00,Golders Green,closed,0,0
-2020-02-08 00:00:00,North Finchley,closed,0,0
-2020-02-08 00:00:00,Osidge,closed,0,0
-2020-02-08 01:00:00,Chipping Barnet,closed,0,0
-2020-02-08 01:00:00,Colindale,closed,0,0
-2020-02-08 01:00:00,East Finchley,closed,0,0
-2020-02-08 01:00:00,Edgware,closed,0,0
-2020-02-08 01:00:00,Golders Green,closed,0,0
-2020-02-08 01:00:00,North Finchley,closed,0,0
-2020-02-08 01:00:00,Osidge,closed,0,0
-2020-02-08 02:00:00,Chipping Barnet,closed,0,0
-2020-02-08 02:00:00,Colindale,closed,0,0
-2020-02-08 02:00:00,East Finchley,closed,0,0
-2020-02-08 02:00:00,Edgware,closed,0,0
-2020-02-08 02:00:00,Golders Green,closed,0,0
-2020-02-08 02:00:00,North Finchley,closed,0,0
-2020-02-08 02:00:00,Osidge,closed,0,0
-2020-02-08 03:00:00,Chipping Barnet,closed,0,0
-2020-02-08 03:00:00,Colindale,closed,0,0
-2020-02-08 03:00:00,East Finchley,closed,0,0
-2020-02-08 03:00:00,Edgware,closed,0,0
-2020-02-08 03:00:00,Golders Green,closed,0,0
-2020-02-08 03:00:00,North Finchley,closed,0,0
-2020-02-08 03:00:00,Osidge,closed,0,0
-2020-02-08 04:00:00,Chipping Barnet,closed,0,0
-2020-02-08 04:00:00,Colindale,closed,0,0
-2020-02-08 04:00:00,East Finchley,closed,0,0
-2020-02-08 04:00:00,Edgware,closed,0,0
-2020-02-08 04:00:00,Golders Green,closed,0,0
-2020-02-08 04:00:00,North Finchley,closed,0,0
-2020-02-08 04:00:00,Osidge,closed,0,0
-2020-02-08 05:00:00,Chipping Barnet,closed,0,0
-2020-02-08 05:00:00,Colindale,closed,0,0
-2020-02-08 05:00:00,East Finchley,closed,0,0
-2020-02-08 05:00:00,Edgware,closed,0,0
-2020-02-08 05:00:00,Golders Green,closed,0,0
-2020-02-08 05:00:00,North Finchley,closed,0,0
-2020-02-08 05:00:00,Osidge,closed,0,0
-2020-02-08 06:00:00,Chipping Barnet,closed,0,0
-2020-02-08 06:00:00,Colindale,closed,0,0
-2020-02-08 06:00:00,East Finchley,closed,1,18
-2020-02-08 06:00:00,Edgware,closed,0,0
-2020-02-08 06:00:00,Golders Green,closed,0,0
-2020-02-08 06:00:00,North Finchley,closed,0,0
-2020-02-08 06:00:00,Osidge,closed,0,0
-2020-02-08 07:00:00,Chipping Barnet,SSO,0,0
-2020-02-08 07:00:00,Colindale,SSO,2,1
-2020-02-08 07:00:00,East Finchley,closed,16,11
-2020-02-08 07:00:00,Edgware,SSO,0,0
-2020-02-08 07:00:00,Golders Green,closed,0,0
-2020-02-08 07:00:00,North Finchley,closed,0,0
-2020-02-08 07:00:00,Osidge,closed,0,0
-2020-02-08 08:00:00,Chipping Barnet,SSO,0,0
-2020-02-08 08:00:00,Colindale,SSO,3,8
-2020-02-08 08:00:00,East Finchley,SSO,2,2
-2020-02-08 08:00:00,Edgware,SSO,6,2
-2020-02-08 08:00:00,Golders Green,closed,0,0
-2020-02-08 08:00:00,North Finchley,SSO,5,1
-2020-02-08 08:00:00,Osidge,SSO,0,0
-2020-02-08 09:00:00,Chipping Barnet,staffed,0,0
-2020-02-08 09:00:00,Colindale,staffed,15,10
-2020-02-08 09:00:00,East Finchley,staffed,34,14
-2020-02-08 09:00:00,Edgware,staffed,19,11
-2020-02-08 09:00:00,Golders Green,closed,0,0
-2020-02-08 09:00:00,North Finchley,SSO,1,3
-2020-02-08 09:00:00,Osidge,SSO,5,2
-2020-02-08 10:00:00,Chipping Barnet,staffed,0,0
-2020-02-08 10:00:00,Colindale,staffed,17,18
-2020-02-08 10:00:00,East Finchley,staffed,34,30
-2020-02-08 10:00:00,Edgware,staffed,29,18
-2020-02-08 10:00:00,Golders Green,closed,0,0
-2020-02-08 10:00:00,North Finchley,SSO,11,20
-2020-02-08 10:00:00,Osidge,SSO,10,4
-2020-02-08 11:00:00,Chipping Barnet,staffed,0,0
-2020-02-08 11:00:00,Colindale,staffed,22,27
-2020-02-08 11:00:00,East Finchley,staffed,15,22
-2020-02-08 11:00:00,Edgware,staffed,30,27
-2020-02-08 11:00:00,Golders Green,SSO,21,35
-2020-02-08 11:00:00,North Finchley,SSO,18,29
-2020-02-08 11:00:00,Osidge,SSO,13,12
-2020-02-08 12:00:00,Chipping Barnet,staffed,0,0
-2020-02-08 12:00:00,Colindale,staffed,46,27
-2020-02-08 12:00:00,East Finchley,SSO,34,19
-2020-02-08 12:00:00,Edgware,staffed,37,42
-2020-02-08 12:00:00,Golders Green,SSO,8,4
-2020-02-08 12:00:00,North Finchley,SSO,35,28
-2020-02-08 12:00:00,Osidge,SSO,14,19
-2020-02-08 13:00:00,Chipping Barnet,staffed,0,0
-2020-02-08 13:00:00,Colindale,staffed,49,32
-2020-02-08 13:00:00,East Finchley,SSO,27,35
-2020-02-08 13:00:00,Edgware,staffed,46,45
-2020-02-08 13:00:00,Golders Green,SSO,4,1
-2020-02-08 13:00:00,North Finchley,SSO,19,24
-2020-02-08 13:00:00,Osidge,SSO,20,17
-2020-02-08 14:00:00,Chipping Barnet,staffed,0,0
-2020-02-08 14:00:00,Colindale,staffed,29,36
-2020-02-08 14:00:00,East Finchley,SSO,24,14
-2020-02-08 14:00:00,Edgware,staffed,52,52
-2020-02-08 14:00:00,Golders Green,SSO,7,10
-2020-02-08 14:00:00,North Finchley,staffed,24,22
-2020-02-08 14:00:00,Osidge,staffed,29,25
-2020-02-08 15:00:00,Chipping Barnet,staffed,0,0
-2020-02-08 15:00:00,Colindale,staffed,41,15
-2020-02-08 15:00:00,East Finchley,SSO,27,31
-2020-02-08 15:00:00,Edgware,staffed,29,42
-2020-02-08 15:00:00,Golders Green,SSO,3,6
-2020-02-08 15:00:00,North Finchley,staffed,36,32
-2020-02-08 15:00:00,Osidge,staffed,20,25
-2020-02-08 16:00:00,Chipping Barnet,staffed,0,0
-2020-02-08 16:00:00,Colindale,staffed,46,19
-2020-02-08 16:00:00,East Finchley,SSO,5,13
-2020-02-08 16:00:00,Edgware,staffed,23,57
-2020-02-08 16:00:00,Golders Green,SSO,1,5
-2020-02-08 16:00:00,North Finchley,staffed,44,27
-2020-02-08 16:00:00,Osidge,staffed,23,29
-2020-02-08 17:00:00,Chipping Barnet,closed,0,0
-2020-02-08 17:00:00,Colindale,closed,0,0
-2020-02-08 17:00:00,East Finchley,closed,3,9
-2020-02-08 17:00:00,Edgware,closed,1,4
-2020-02-08 17:00:00,Golders Green,closed,0,0
-2020-02-08 17:00:00,North Finchley,closed,13,1
-2020-02-08 17:00:00,Osidge,closed,0,0
-2020-02-08 18:00:00,Chipping Barnet,closed,0,0
-2020-02-08 18:00:00,Colindale,closed,0,0
-2020-02-08 18:00:00,East Finchley,closed,12,20
-2020-02-08 18:00:00,Edgware,closed,0,0
-2020-02-08 18:00:00,Golders Green,closed,0,0
-2020-02-08 18:00:00,North Finchley,closed,0,0
-2020-02-08 18:00:00,Osidge,closed,0,0
-2020-02-08 19:00:00,Chipping Barnet,closed,0,0
-2020-02-08 19:00:00,Colindale,closed,0,0
-2020-02-08 19:00:00,East Finchley,closed,1,4
-2020-02-08 19:00:00,Edgware,closed,0,0
-2020-02-08 19:00:00,Golders Green,closed,0,0
-2020-02-08 19:00:00,North Finchley,closed,0,0
-2020-02-08 19:00:00,Osidge,closed,0,0
-2020-02-08 20:00:00,Chipping Barnet,closed,0,0
-2020-02-08 20:00:00,Colindale,closed,0,0
-2020-02-08 20:00:00,East Finchley,closed,0,0
-2020-02-08 20:00:00,Edgware,closed,0,0
-2020-02-08 20:00:00,Golders Green,closed,0,0
-2020-02-08 20:00:00,North Finchley,closed,0,0
-2020-02-08 20:00:00,Osidge,closed,0,0
-2020-02-08 21:00:00,Chipping Barnet,closed,0,0
-2020-02-08 21:00:00,Colindale,closed,0,0
-2020-02-08 21:00:00,East Finchley,closed,0,0
-2020-02-08 21:00:00,Edgware,closed,0,0
-2020-02-08 21:00:00,Golders Green,closed,0,0
-2020-02-08 21:00:00,North Finchley,closed,0,0
-2020-02-08 21:00:00,Osidge,closed,0,0
-2020-02-08 22:00:00,Chipping Barnet,closed,0,0
-2020-02-08 22:00:00,Colindale,closed,0,0
-2020-02-08 22:00:00,East Finchley,closed,0,0
-2020-02-08 22:00:00,Edgware,closed,0,0
-2020-02-08 22:00:00,Golders Green,closed,0,0
-2020-02-08 22:00:00,North Finchley,closed,0,0
-2020-02-08 22:00:00,Osidge,closed,0,0
-2020-02-08 23:00:00,Chipping Barnet,closed,0,0
-2020-02-08 23:00:00,Colindale,closed,0,0
-2020-02-08 23:00:00,East Finchley,closed,0,0
-2020-02-08 23:00:00,Edgware,closed,0,0
-2020-02-08 23:00:00,Golders Green,closed,0,0
-2020-02-08 23:00:00,North Finchley,closed,0,0
-2020-02-08 23:00:00,Osidge,closed,0,0
-2020-02-09 00:00:00,Chipping Barnet,closed,0,0
-2020-02-09 00:00:00,Colindale,closed,0,0
-2020-02-09 00:00:00,East Finchley,closed,0,0
-2020-02-09 00:00:00,Edgware,closed,0,0
-2020-02-09 00:00:00,Golders Green,closed,0,0
-2020-02-09 00:00:00,North Finchley,closed,0,0
-2020-02-09 00:00:00,Osidge,closed,0,0
-2020-02-09 01:00:00,Chipping Barnet,closed,0,0
-2020-02-09 01:00:00,Colindale,closed,0,0
-2020-02-09 01:00:00,East Finchley,closed,0,0
-2020-02-09 01:00:00,Edgware,closed,0,0
-2020-02-09 01:00:00,Golders Green,closed,0,0
-2020-02-09 01:00:00,North Finchley,closed,0,0
-2020-02-09 01:00:00,Osidge,closed,0,0
-2020-02-09 02:00:00,Chipping Barnet,closed,0,0
-2020-02-09 02:00:00,Colindale,closed,0,0
-2020-02-09 02:00:00,East Finchley,closed,0,0
-2020-02-09 02:00:00,Edgware,closed,0,0
-2020-02-09 02:00:00,Golders Green,closed,0,0
-2020-02-09 02:00:00,North Finchley,closed,0,0
-2020-02-09 02:00:00,Osidge,closed,0,0
-2020-02-09 03:00:00,Chipping Barnet,closed,0,0
-2020-02-09 03:00:00,Colindale,closed,0,0
-2020-02-09 03:00:00,East Finchley,closed,0,0
-2020-02-09 03:00:00,Edgware,closed,0,0
-2020-02-09 03:00:00,Golders Green,closed,0,0
-2020-02-09 03:00:00,North Finchley,closed,0,0
-2020-02-09 03:00:00,Osidge,closed,0,0
-2020-02-09 04:00:00,Chipping Barnet,closed,0,0
-2020-02-09 04:00:00,Colindale,closed,0,0
-2020-02-09 04:00:00,East Finchley,closed,0,0
-2020-02-09 04:00:00,Edgware,closed,0,0
-2020-02-09 04:00:00,Golders Green,closed,0,0
-2020-02-09 04:00:00,North Finchley,closed,0,0
-2020-02-09 04:00:00,Osidge,closed,0,0
-2020-02-09 05:00:00,Chipping Barnet,closed,0,0
-2020-02-09 05:00:00,Colindale,closed,0,0
-2020-02-09 05:00:00,East Finchley,closed,0,0
-2020-02-09 05:00:00,Edgware,closed,0,0
-2020-02-09 05:00:00,Golders Green,closed,0,0
-2020-02-09 05:00:00,North Finchley,closed,0,0
-2020-02-09 05:00:00,Osidge,closed,0,0
-2020-02-09 06:00:00,Chipping Barnet,closed,0,0
-2020-02-09 06:00:00,Colindale,closed,0,0
-2020-02-09 06:00:00,East Finchley,closed,0,0
-2020-02-09 06:00:00,Edgware,closed,0,0
-2020-02-09 06:00:00,Golders Green,closed,0,0
-2020-02-09 06:00:00,North Finchley,closed,0,0
-2020-02-09 06:00:00,Osidge,closed,0,0
-2020-02-09 07:00:00,Chipping Barnet,closed,0,0
-2020-02-09 07:00:00,Colindale,closed,0,0
-2020-02-09 07:00:00,East Finchley,closed,0,0
-2020-02-09 07:00:00,Edgware,closed,0,0
-2020-02-09 07:00:00,Golders Green,closed,0,0
-2020-02-09 07:00:00,North Finchley,closed,0,0
-2020-02-09 07:00:00,Osidge,closed,0,0
-2020-02-09 08:00:00,Chipping Barnet,closed,0,0
-2020-02-09 08:00:00,Colindale,closed,0,0
-2020-02-09 08:00:00,East Finchley,closed,0,0
-2020-02-09 08:00:00,Edgware,closed,0,0
-2020-02-09 08:00:00,Golders Green,closed,0,0
-2020-02-09 08:00:00,North Finchley,closed,0,0
-2020-02-09 08:00:00,Osidge,closed,0,0
-2020-02-09 09:00:00,Chipping Barnet,closed,0,0
-2020-02-09 09:00:00,Colindale,closed,1,2
-2020-02-09 09:00:00,East Finchley,closed,23,21
-2020-02-09 09:00:00,Edgware,closed,0,0
-2020-02-09 09:00:00,Golders Green,closed,0,0
-2020-02-09 09:00:00,North Finchley,closed,0,0
-2020-02-09 09:00:00,Osidge,closed,0,0
-2020-02-09 10:00:00,Chipping Barnet,SSO,0,0
-2020-02-09 10:00:00,Colindale,SSO,5,7
-2020-02-09 10:00:00,East Finchley,closed,5,5
-2020-02-09 10:00:00,Edgware,SSO,31,11
-2020-02-09 10:00:00,Golders Green,closed,0,0
-2020-02-09 10:00:00,North Finchley,closed,0,0
-2020-02-09 10:00:00,Osidge,closed,0,0
-2020-02-09 11:00:00,Chipping Barnet,SSO,0,0
-2020-02-09 11:00:00,Colindale,SSO,12,14
-2020-02-09 11:00:00,East Finchley,closed,0,0
-2020-02-09 11:00:00,Edgware,SSO,22,24
-2020-02-09 11:00:00,Golders Green,closed,0,0
-2020-02-09 11:00:00,North Finchley,closed,0,0
-2020-02-09 11:00:00,Osidge,closed,0,0
-2020-02-09 12:00:00,Chipping Barnet,SSO,0,0
-2020-02-09 12:00:00,Colindale,SSO,18,17
-2020-02-09 12:00:00,East Finchley,closed,3,5
-2020-02-09 12:00:00,Edgware,SSO,14,22
-2020-02-09 12:00:00,Golders Green,closed,0,0
-2020-02-09 12:00:00,North Finchley,closed,0,0
-2020-02-09 12:00:00,Osidge,closed,0,0
-2020-02-09 13:00:00,Chipping Barnet,SSO,0,0
-2020-02-09 13:00:00,Colindale,SSO,21,30
-2020-02-09 13:00:00,East Finchley,closed,4,2
-2020-02-09 13:00:00,Edgware,SSO,28,27
-2020-02-09 13:00:00,Golders Green,closed,4,6
-2020-02-09 13:00:00,North Finchley,closed,0,0
-2020-02-09 13:00:00,Osidge,closed,0,0
-2020-02-09 14:00:00,Chipping Barnet,staffed,0,0
-2020-02-09 14:00:00,Colindale,staffed,12,29
-2020-02-09 14:00:00,East Finchley,closed,0,0
-2020-02-09 14:00:00,Edgware,staffed,46,48
-2020-02-09 14:00:00,Golders Green,staffed,33,41
-2020-02-09 14:00:00,North Finchley,closed,0,0
-2020-02-09 14:00:00,Osidge,closed,0,0
-2020-02-09 15:00:00,Chipping Barnet,staffed,0,0
-2020-02-09 15:00:00,Colindale,staffed,46,35
-2020-02-09 15:00:00,East Finchley,closed,0,0
-2020-02-09 15:00:00,Edgware,staffed,29,29
-2020-02-09 15:00:00,Golders Green,staffed,28,37
-2020-02-09 15:00:00,North Finchley,closed,0,0
-2020-02-09 15:00:00,Osidge,closed,0,0
-2020-02-09 16:00:00,Chipping Barnet,staffed,0,0
-2020-02-09 16:00:00,Colindale,staffed,51,11
-2020-02-09 16:00:00,East Finchley,closed,0,0
-2020-02-09 16:00:00,Edgware,staffed,31,43
-2020-02-09 16:00:00,Golders Green,staffed,17,27
-2020-02-09 16:00:00,North Finchley,closed,0,0
-2020-02-09 16:00:00,Osidge,closed,0,0
-2020-02-09 17:00:00,Chipping Barnet,closed,0,0
-2020-02-09 17:00:00,Colindale,closed,0,0
-2020-02-09 17:00:00,East Finchley,closed,4,13
-2020-02-09 17:00:00,Edgware,closed,13,38
-2020-02-09 17:00:00,Golders Green,closed,4,17
-2020-02-09 17:00:00,North Finchley,closed,0,0
-2020-02-09 17:00:00,Osidge,closed,0,0
-2020-02-09 18:00:00,Chipping Barnet,closed,0,0
-2020-02-09 18:00:00,Colindale,closed,0,0
-2020-02-09 18:00:00,East Finchley,closed,1,3
-2020-02-09 18:00:00,Edgware,closed,0,0
-2020-02-09 18:00:00,Golders Green,closed,0,0
-2020-02-09 18:00:00,North Finchley,closed,0,0
-2020-02-09 18:00:00,Osidge,closed,0,0
-2020-02-09 19:00:00,Chipping Barnet,closed,0,0
-2020-02-09 19:00:00,Colindale,closed,0,0
-2020-02-09 19:00:00,East Finchley,closed,1,3
-2020-02-09 19:00:00,Edgware,closed,7,5
-2020-02-09 19:00:00,Golders Green,closed,0,0
-2020-02-09 19:00:00,North Finchley,closed,0,0
-2020-02-09 19:00:00,Osidge,closed,0,0
-2020-02-09 20:00:00,Chipping Barnet,closed,0,0
-2020-02-09 20:00:00,Colindale,closed,0,0
-2020-02-09 20:00:00,East Finchley,closed,0,0
-2020-02-09 20:00:00,Edgware,closed,0,0
-2020-02-09 20:00:00,Golders Green,closed,0,0
-2020-02-09 20:00:00,North Finchley,closed,0,0
-2020-02-09 20:00:00,Osidge,closed,0,0
-2020-02-09 21:00:00,Chipping Barnet,closed,0,0
-2020-02-09 21:00:00,Colindale,closed,0,0
-2020-02-09 21:00:00,East Finchley,closed,0,0
-2020-02-09 21:00:00,Edgware,closed,0,0
-2020-02-09 21:00:00,Golders Green,closed,0,0
-2020-02-09 21:00:00,North Finchley,closed,0,0
-2020-02-09 21:00:00,Osidge,closed,0,0
-2020-02-09 22:00:00,Chipping Barnet,closed,0,0
-2020-02-09 22:00:00,Colindale,closed,0,0
-2020-02-09 22:00:00,East Finchley,closed,0,0
-2020-02-09 22:00:00,Edgware,closed,0,0
-2020-02-09 22:00:00,Golders Green,closed,0,0
-2020-02-09 22:00:00,North Finchley,closed,0,0
-2020-02-09 22:00:00,Osidge,closed,0,0
-2020-02-09 23:00:00,Chipping Barnet,closed,0,0
-2020-02-09 23:00:00,Colindale,closed,0,0
-2020-02-09 23:00:00,East Finchley,closed,0,0
-2020-02-09 23:00:00,Edgware,closed,0,0
-2020-02-09 23:00:00,Golders Green,closed,0,0
-2020-02-09 23:00:00,North Finchley,closed,0,0
-2020-02-09 23:00:00,Osidge,closed,0,0
+2020-02-24 00:00:00,Chipping Barnet,closed,0,0
+2020-02-24 00:00:00,Colindale,closed,0,0
+2020-02-24 00:00:00,Edgware,closed,0,0
+2020-02-24 00:00:00,Golders Green,closed,0,0
+2020-02-24 00:00:00,North Finchley,closed,0,0
+2020-02-24 00:00:00,Osidge,closed,0,0
+2020-02-24 01:00:00,Chipping Barnet,closed,0,0
+2020-02-24 01:00:00,Colindale,closed,0,0
+2020-02-24 01:00:00,Edgware,closed,0,0
+2020-02-24 01:00:00,Golders Green,closed,0,0
+2020-02-24 01:00:00,North Finchley,closed,0,0
+2020-02-24 01:00:00,Osidge,closed,0,0
+2020-02-24 02:00:00,Chipping Barnet,closed,0,0
+2020-02-24 02:00:00,Colindale,closed,0,0
+2020-02-24 02:00:00,Edgware,closed,0,0
+2020-02-24 02:00:00,Golders Green,closed,0,0
+2020-02-24 02:00:00,North Finchley,closed,0,0
+2020-02-24 02:00:00,Osidge,closed,0,0
+2020-02-24 03:00:00,Chipping Barnet,closed,0,0
+2020-02-24 03:00:00,Colindale,closed,0,0
+2020-02-24 03:00:00,Edgware,closed,0,0
+2020-02-24 03:00:00,Golders Green,closed,0,0
+2020-02-24 03:00:00,North Finchley,closed,0,0
+2020-02-24 03:00:00,Osidge,closed,0,0
+2020-02-24 04:00:00,Chipping Barnet,closed,0,0
+2020-02-24 04:00:00,Colindale,closed,0,0
+2020-02-24 04:00:00,Edgware,closed,0,0
+2020-02-24 04:00:00,Golders Green,closed,0,0
+2020-02-24 04:00:00,North Finchley,closed,0,0
+2020-02-24 04:00:00,Osidge,closed,0,0
+2020-02-24 05:00:00,Chipping Barnet,closed,0,0
+2020-02-24 05:00:00,Colindale,closed,0,0
+2020-02-24 05:00:00,Edgware,closed,0,0
+2020-02-24 05:00:00,Golders Green,closed,0,0
+2020-02-24 05:00:00,North Finchley,closed,0,0
+2020-02-24 05:00:00,Osidge,closed,0,0
+2020-02-24 06:00:00,Chipping Barnet,closed,0,0
+2020-02-24 06:00:00,Colindale,closed,3,2
+2020-02-24 06:00:00,Edgware,closed,0,0
+2020-02-24 06:00:00,Golders Green,closed,0,0
+2020-02-24 06:00:00,North Finchley,closed,0,0
+2020-02-24 06:00:00,Osidge,closed,0,0
+2020-02-24 07:00:00,Chipping Barnet,SSO,0,0
+2020-02-24 07:00:00,Colindale,SSO,0,0
+2020-02-24 07:00:00,Edgware,SSO,2,4
+2020-02-24 07:00:00,Golders Green,closed,0,0
+2020-02-24 07:00:00,North Finchley,closed,0,0
+2020-02-24 07:00:00,Osidge,closed,6,1
+2020-02-24 08:00:00,Chipping Barnet,SSO,0,0
+2020-02-24 08:00:00,Colindale,SSO,9,8
+2020-02-24 08:00:00,Edgware,SSO,6,6
+2020-02-24 08:00:00,Golders Green,SSO,3,2
+2020-02-24 08:00:00,North Finchley,SSO,2,4
+2020-02-24 08:00:00,Osidge,SSO,7,2
+2020-02-24 09:00:00,Chipping Barnet,SSO,0,0
+2020-02-24 09:00:00,Colindale,SSO,5,7
+2020-02-24 09:00:00,Edgware,staffed,39,9
+2020-02-24 09:00:00,Golders Green,SSO,3,4
+2020-02-24 09:00:00,North Finchley,SSO,3,5
+2020-02-24 09:00:00,Osidge,SSO,4,3
+2020-02-24 10:00:00,Chipping Barnet,SSO,0,0
+2020-02-24 10:00:00,Colindale,SSO,6,9
+2020-02-24 10:00:00,Edgware,staffed,43,71
+2020-02-24 10:00:00,Golders Green,SSO,1,2
+2020-02-24 10:00:00,North Finchley,SSO,11,9
+2020-02-24 10:00:00,Osidge,SSO,11,12
+2020-02-24 11:00:00,Chipping Barnet,SSO,0,0
+2020-02-24 11:00:00,Colindale,SSO,11,6
+2020-02-24 11:00:00,Edgware,staffed,31,48
+2020-02-24 11:00:00,Golders Green,SSO,12,8
+2020-02-24 11:00:00,North Finchley,SSO,15,12
+2020-02-24 11:00:00,Osidge,SSO,10,6
+2020-02-24 12:00:00,Chipping Barnet,SSO,0,0
+2020-02-24 12:00:00,Colindale,SSO,18,17
+2020-02-24 12:00:00,Edgware,SSO,19,42
+2020-02-24 12:00:00,Golders Green,SSO,15,14
+2020-02-24 12:00:00,North Finchley,SSO,15,11
+2020-02-24 12:00:00,Osidge,SSO,16,22
+2020-02-24 13:00:00,Chipping Barnet,SSO,0,0
+2020-02-24 13:00:00,Colindale,SSO,15,10
+2020-02-24 13:00:00,Edgware,SSO,20,29
+2020-02-24 13:00:00,Golders Green,SSO,11,21
+2020-02-24 13:00:00,North Finchley,SSO,17,8
+2020-02-24 13:00:00,Osidge,SSO,10,11
+2020-02-24 14:00:00,Chipping Barnet,SSO,0,0
+2020-02-24 14:00:00,Colindale,SSO,14,6
+2020-02-24 14:00:00,Edgware,SSO,22,24
+2020-02-24 14:00:00,Golders Green,SSO,24,24
+2020-02-24 14:00:00,North Finchley,SSO,15,12
+2020-02-24 14:00:00,Osidge,SSO,10,14
+2020-02-24 15:00:00,Chipping Barnet,SSO,0,0
+2020-02-24 15:00:00,Colindale,SSO,20,22
+2020-02-24 15:00:00,Edgware,SSO,52,34
+2020-02-24 15:00:00,Golders Green,SSO,22,17
+2020-02-24 15:00:00,North Finchley,SSO,29,22
+2020-02-24 15:00:00,Osidge,SSO,29,53
+2020-02-24 16:00:00,Chipping Barnet,SSO,0,0
+2020-02-24 16:00:00,Colindale,SSO,30,26
+2020-02-24 16:00:00,Edgware,SSO,68,86
+2020-02-24 16:00:00,Golders Green,SSO,16,25
+2020-02-24 16:00:00,North Finchley,SSO,16,11
+2020-02-24 16:00:00,Osidge,SSO,10,17
+2020-02-24 17:00:00,Chipping Barnet,SSO,0,0
+2020-02-24 17:00:00,Colindale,SSO,47,19
+2020-02-24 17:00:00,Edgware,SSO,29,66
+2020-02-24 17:00:00,Golders Green,SSO,9,14
+2020-02-24 17:00:00,North Finchley,SSO,18,21
+2020-02-24 17:00:00,Osidge,SSO,6,10
+2020-02-24 18:00:00,Chipping Barnet,SSO,0,0
+2020-02-24 18:00:00,Colindale,SSO,22,16
+2020-02-24 18:00:00,Edgware,SSO,27,42
+2020-02-24 18:00:00,Golders Green,SSO,9,9
+2020-02-24 18:00:00,North Finchley,SSO,45,43
+2020-02-24 18:00:00,Osidge,SSO,4,7
+2020-02-24 19:00:00,Chipping Barnet,SSO,0,0
+2020-02-24 19:00:00,Colindale,SSO,18,8
+2020-02-24 19:00:00,Edgware,SSO,18,30
+2020-02-24 19:00:00,Golders Green,SSO,2,8
+2020-02-24 19:00:00,North Finchley,SSO,40,42
+2020-02-24 19:00:00,Osidge,SSO,4,10
+2020-02-24 20:00:00,Chipping Barnet,SSO,0,0
+2020-02-24 20:00:00,Colindale,SSO,11,5
+2020-02-24 20:00:00,Edgware,SSO,12,28
+2020-02-24 20:00:00,Golders Green,closed,1,3
+2020-02-24 20:00:00,North Finchley,closed,6,1
+2020-02-24 20:00:00,Osidge,closed,0,0
+2020-02-24 21:00:00,Chipping Barnet,SSO,0,0
+2020-02-24 21:00:00,Colindale,SSO,11,2
+2020-02-24 21:00:00,Edgware,SSO,7,20
+2020-02-24 21:00:00,Golders Green,closed,0,0
+2020-02-24 21:00:00,North Finchley,closed,0,0
+2020-02-24 21:00:00,Osidge,closed,0,0
+2020-02-24 22:00:00,Chipping Barnet,closed,0,0
+2020-02-24 22:00:00,Colindale,closed,0,0
+2020-02-24 22:00:00,Edgware,closed,4,33
+2020-02-24 22:00:00,Golders Green,closed,0,0
+2020-02-24 22:00:00,North Finchley,closed,0,0
+2020-02-24 22:00:00,Osidge,closed,0,0
+2020-02-24 23:00:00,Chipping Barnet,closed,0,0
+2020-02-24 23:00:00,Colindale,closed,0,0
+2020-02-24 23:00:00,Edgware,closed,0,0
+2020-02-24 23:00:00,Golders Green,closed,0,0
+2020-02-24 23:00:00,North Finchley,closed,0,0
+2020-02-24 23:00:00,Osidge,closed,0,0
+2020-02-25 00:00:00,Chipping Barnet,closed,0,0
+2020-02-25 00:00:00,Colindale,closed,0,0
+2020-02-25 00:00:00,Edgware,closed,0,0
+2020-02-25 00:00:00,Golders Green,closed,0,0
+2020-02-25 00:00:00,North Finchley,closed,0,0
+2020-02-25 00:00:00,Osidge,closed,0,0
+2020-02-25 01:00:00,Chipping Barnet,closed,0,0
+2020-02-25 01:00:00,Colindale,closed,0,0
+2020-02-25 01:00:00,Edgware,closed,0,0
+2020-02-25 01:00:00,Golders Green,closed,0,0
+2020-02-25 01:00:00,North Finchley,closed,0,0
+2020-02-25 01:00:00,Osidge,closed,0,0
+2020-02-25 02:00:00,Chipping Barnet,closed,0,0
+2020-02-25 02:00:00,Colindale,closed,0,0
+2020-02-25 02:00:00,Edgware,closed,0,0
+2020-02-25 02:00:00,Golders Green,closed,0,0
+2020-02-25 02:00:00,North Finchley,closed,0,0
+2020-02-25 02:00:00,Osidge,closed,0,0
+2020-02-25 03:00:00,Chipping Barnet,closed,0,0
+2020-02-25 03:00:00,Colindale,closed,0,0
+2020-02-25 03:00:00,Edgware,closed,0,0
+2020-02-25 03:00:00,Golders Green,closed,0,0
+2020-02-25 03:00:00,North Finchley,closed,0,0
+2020-02-25 03:00:00,Osidge,closed,0,0
+2020-02-25 04:00:00,Chipping Barnet,closed,0,0
+2020-02-25 04:00:00,Colindale,closed,0,0
+2020-02-25 04:00:00,Edgware,closed,0,0
+2020-02-25 04:00:00,Golders Green,closed,0,0
+2020-02-25 04:00:00,North Finchley,closed,0,0
+2020-02-25 04:00:00,Osidge,closed,0,0
+2020-02-25 05:00:00,Chipping Barnet,closed,0,0
+2020-02-25 05:00:00,Colindale,closed,0,0
+2020-02-25 05:00:00,Edgware,closed,0,0
+2020-02-25 05:00:00,Golders Green,closed,0,0
+2020-02-25 05:00:00,North Finchley,closed,0,0
+2020-02-25 05:00:00,Osidge,closed,0,0
+2020-02-25 06:00:00,Chipping Barnet,closed,0,0
+2020-02-25 06:00:00,Colindale,closed,2,2
+2020-02-25 06:00:00,Edgware,closed,0,0
+2020-02-25 06:00:00,Golders Green,closed,0,0
+2020-02-25 06:00:00,North Finchley,closed,0,0
+2020-02-25 06:00:00,Osidge,closed,0,0
+2020-02-25 07:00:00,Chipping Barnet,SSO,0,0
+2020-02-25 07:00:00,Colindale,SSO,0,0
+2020-02-25 07:00:00,Edgware,SSO,0,0
+2020-02-25 07:00:00,Golders Green,closed,0,0
+2020-02-25 07:00:00,North Finchley,closed,0,0
+2020-02-25 07:00:00,Osidge,closed,1,1
+2020-02-25 08:00:00,Chipping Barnet,SSO,0,0
+2020-02-25 08:00:00,Colindale,SSO,13,4
+2020-02-25 08:00:00,Edgware,SSO,8,6
+2020-02-25 08:00:00,Golders Green,SSO,2,1
+2020-02-25 08:00:00,North Finchley,SSO,3,3
+2020-02-25 08:00:00,Osidge,SSO,10,7
+2020-02-25 09:00:00,Chipping Barnet,staffed,0,0
+2020-02-25 09:00:00,Colindale,SSO,16,15
+2020-02-25 09:00:00,Edgware,SSO,16,14
+2020-02-25 09:00:00,Golders Green,SSO,7,6
+2020-02-25 09:00:00,North Finchley,SSO,4,5
+2020-02-25 09:00:00,Osidge,SSO,4,4
+2020-02-25 10:00:00,Chipping Barnet,staffed,0,0
+2020-02-25 10:00:00,Colindale,SSO,12,17
+2020-02-25 10:00:00,Edgware,SSO,39,44
+2020-02-25 10:00:00,Golders Green,SSO,6,12
+2020-02-25 10:00:00,North Finchley,SSO,9,6
+2020-02-25 10:00:00,Osidge,SSO,10,4
+2020-02-25 11:00:00,Chipping Barnet,staffed,0,0
+2020-02-25 11:00:00,Colindale,SSO,19,8
+2020-02-25 11:00:00,Edgware,SSO,26,29
+2020-02-25 11:00:00,Golders Green,SSO,10,17
+2020-02-25 11:00:00,North Finchley,SSO,27,23
+2020-02-25 11:00:00,Osidge,SSO,9,4
+2020-02-25 12:00:00,Chipping Barnet,SSO,0,0
+2020-02-25 12:00:00,Colindale,SSO,22,18
+2020-02-25 12:00:00,Edgware,SSO,13,22
+2020-02-25 12:00:00,Golders Green,SSO,4,4
+2020-02-25 12:00:00,North Finchley,SSO,11,6
+2020-02-25 12:00:00,Osidge,SSO,14,21
+2020-02-25 13:00:00,Chipping Barnet,SSO,0,0
+2020-02-25 13:00:00,Colindale,SSO,18,14
+2020-02-25 13:00:00,Edgware,SSO,40,28
+2020-02-25 13:00:00,Golders Green,SSO,16,9
+2020-02-25 13:00:00,North Finchley,SSO,10,17
+2020-02-25 13:00:00,Osidge,SSO,20,18
+2020-02-25 14:00:00,Chipping Barnet,SSO,0,0
+2020-02-25 14:00:00,Colindale,staffed,24,67
+2020-02-25 14:00:00,Edgware,staffed,46,33
+2020-02-25 14:00:00,Golders Green,staffed,22,24
+2020-02-25 14:00:00,North Finchley,staffed,23,22
+2020-02-25 14:00:00,Osidge,staffed,26,34
+2020-02-25 15:00:00,Chipping Barnet,SSO,0,0
+2020-02-25 15:00:00,Colindale,staffed,69,35
+2020-02-25 15:00:00,Edgware,staffed,58,44
+2020-02-25 15:00:00,Golders Green,staffed,13,21
+2020-02-25 15:00:00,North Finchley,staffed,16,14
+2020-02-25 15:00:00,Osidge,staffed,45,32
+2020-02-25 16:00:00,Chipping Barnet,SSO,0,0
+2020-02-25 16:00:00,Colindale,staffed,41,37
+2020-02-25 16:00:00,Edgware,staffed,37,75
+2020-02-25 16:00:00,Golders Green,staffed,23,34
+2020-02-25 16:00:00,North Finchley,staffed,12,11
+2020-02-25 16:00:00,Osidge,staffed,16,31
+2020-02-25 17:00:00,Chipping Barnet,SSO,0,0
+2020-02-25 17:00:00,Colindale,staffed,48,32
+2020-02-25 17:00:00,Edgware,SSO,28,40
+2020-02-25 17:00:00,Golders Green,SSO,6,20
+2020-02-25 17:00:00,North Finchley,staffed,20,19
+2020-02-25 17:00:00,Osidge,staffed,14,13
+2020-02-25 18:00:00,Chipping Barnet,SSO,0,0
+2020-02-25 18:00:00,Colindale,staffed,27,18
+2020-02-25 18:00:00,Edgware,SSO,18,24
+2020-02-25 18:00:00,Golders Green,SSO,1,1
+2020-02-25 18:00:00,North Finchley,staffed,21,18
+2020-02-25 18:00:00,Osidge,staffed,6,11
+2020-02-25 19:00:00,Chipping Barnet,SSO,0,0
+2020-02-25 19:00:00,Colindale,staffed,36,22
+2020-02-25 19:00:00,Edgware,SSO,16,18
+2020-02-25 19:00:00,Golders Green,SSO,0,0
+2020-02-25 19:00:00,North Finchley,staffed,19,14
+2020-02-25 19:00:00,Osidge,staffed,6,10
+2020-02-25 20:00:00,Chipping Barnet,SSO,0,0
+2020-02-25 20:00:00,Colindale,SSO,15,2
+2020-02-25 20:00:00,Edgware,SSO,9,12
+2020-02-25 20:00:00,Golders Green,closed,1,7
+2020-02-25 20:00:00,North Finchley,closed,8,1
+2020-02-25 20:00:00,Osidge,closed,0,0
+2020-02-25 21:00:00,Chipping Barnet,SSO,0,0
+2020-02-25 21:00:00,Colindale,SSO,24,3
+2020-02-25 21:00:00,Edgware,SSO,5,28
+2020-02-25 21:00:00,Golders Green,closed,4,6
+2020-02-25 21:00:00,North Finchley,closed,0,0
+2020-02-25 21:00:00,Osidge,closed,0,0
+2020-02-25 22:00:00,Chipping Barnet,closed,0,0
+2020-02-25 22:00:00,Colindale,closed,0,0
+2020-02-25 22:00:00,Edgware,closed,5,22
+2020-02-25 22:00:00,Golders Green,closed,0,0
+2020-02-25 22:00:00,North Finchley,closed,0,0
+2020-02-25 22:00:00,Osidge,closed,0,0
+2020-02-25 23:00:00,Chipping Barnet,closed,0,0
+2020-02-25 23:00:00,Colindale,closed,0,0
+2020-02-25 23:00:00,Edgware,closed,0,0
+2020-02-25 23:00:00,Golders Green,closed,0,0
+2020-02-25 23:00:00,North Finchley,closed,0,0
+2020-02-25 23:00:00,Osidge,closed,0,0
+2020-02-26 00:00:00,Chipping Barnet,closed,0,0
+2020-02-26 00:00:00,Colindale,closed,0,0
+2020-02-26 00:00:00,Edgware,closed,0,0
+2020-02-26 00:00:00,Golders Green,closed,0,0
+2020-02-26 00:00:00,North Finchley,closed,0,0
+2020-02-26 00:00:00,Osidge,closed,0,0
+2020-02-26 01:00:00,Chipping Barnet,closed,0,0
+2020-02-26 01:00:00,Colindale,closed,0,0
+2020-02-26 01:00:00,Edgware,closed,0,0
+2020-02-26 01:00:00,Golders Green,closed,0,0
+2020-02-26 01:00:00,North Finchley,closed,0,0
+2020-02-26 01:00:00,Osidge,closed,0,0
+2020-02-26 02:00:00,Chipping Barnet,closed,0,0
+2020-02-26 02:00:00,Colindale,closed,0,0
+2020-02-26 02:00:00,Edgware,closed,0,0
+2020-02-26 02:00:00,Golders Green,closed,0,0
+2020-02-26 02:00:00,North Finchley,closed,0,0
+2020-02-26 02:00:00,Osidge,closed,0,0
+2020-02-26 03:00:00,Chipping Barnet,closed,0,0
+2020-02-26 03:00:00,Colindale,closed,0,0
+2020-02-26 03:00:00,Edgware,closed,0,0
+2020-02-26 03:00:00,Golders Green,closed,0,0
+2020-02-26 03:00:00,North Finchley,closed,0,0
+2020-02-26 03:00:00,Osidge,closed,0,0
+2020-02-26 04:00:00,Chipping Barnet,closed,0,0
+2020-02-26 04:00:00,Colindale,closed,0,0
+2020-02-26 04:00:00,Edgware,closed,0,0
+2020-02-26 04:00:00,Golders Green,closed,0,0
+2020-02-26 04:00:00,North Finchley,closed,0,0
+2020-02-26 04:00:00,Osidge,closed,0,0
+2020-02-26 05:00:00,Chipping Barnet,closed,0,0
+2020-02-26 05:00:00,Colindale,closed,1,1
+2020-02-26 05:00:00,Edgware,closed,0,0
+2020-02-26 05:00:00,Golders Green,closed,0,0
+2020-02-26 05:00:00,North Finchley,closed,0,0
+2020-02-26 05:00:00,Osidge,closed,0,0
+2020-02-26 06:00:00,Chipping Barnet,closed,0,0
+2020-02-26 06:00:00,Colindale,closed,0,0
+2020-02-26 06:00:00,Edgware,closed,0,0
+2020-02-26 06:00:00,Golders Green,closed,0,0
+2020-02-26 06:00:00,North Finchley,closed,0,0
+2020-02-26 06:00:00,Osidge,closed,0,0
+2020-02-26 07:00:00,Chipping Barnet,SSO,0,0
+2020-02-26 07:00:00,Colindale,SSO,1,1
+2020-02-26 07:00:00,Edgware,SSO,6,5
+2020-02-26 07:00:00,Golders Green,closed,0,0
+2020-02-26 07:00:00,North Finchley,closed,0,0
+2020-02-26 07:00:00,Osidge,closed,0,0
+2020-02-26 08:00:00,Chipping Barnet,SSO,0,0
+2020-02-26 08:00:00,Colindale,SSO,17,12
+2020-02-26 08:00:00,Edgware,SSO,2,5
+2020-02-26 08:00:00,Golders Green,SSO,1,2
+2020-02-26 08:00:00,North Finchley,SSO,2,4
+2020-02-26 08:00:00,Osidge,SSO,10,8
+2020-02-26 09:00:00,Chipping Barnet,SSO,0,0
+2020-02-26 09:00:00,Colindale,SSO,12,32
+2020-02-26 09:00:00,Edgware,SSO,14,6
+2020-02-26 09:00:00,Golders Green,SSO,4,1
+2020-02-26 09:00:00,North Finchley,SSO,5,7
+2020-02-26 09:00:00,Osidge,staffed,17,7
+2020-02-26 10:00:00,Chipping Barnet,SSO,0,0
+2020-02-26 10:00:00,Colindale,SSO,52,18
+2020-02-26 10:00:00,Edgware,SSO,21,24
+2020-02-26 10:00:00,Golders Green,SSO,3,7
+2020-02-26 10:00:00,North Finchley,SSO,14,13
+2020-02-26 10:00:00,Osidge,staffed,28,28
+2020-02-26 11:00:00,Chipping Barnet,SSO,0,0
+2020-02-26 11:00:00,Colindale,SSO,48,66
+2020-02-26 11:00:00,Edgware,SSO,22,17
+2020-02-26 11:00:00,Golders Green,SSO,2,7
+2020-02-26 11:00:00,North Finchley,SSO,11,7
+2020-02-26 11:00:00,Osidge,staffed,18,24
+2020-02-26 12:00:00,Chipping Barnet,SSO,0,0
+2020-02-26 12:00:00,Colindale,SSO,86,18
+2020-02-26 12:00:00,Edgware,SSO,35,25
+2020-02-26 12:00:00,Golders Green,SSO,9,7
+2020-02-26 12:00:00,North Finchley,SSO,10,8
+2020-02-26 12:00:00,Osidge,SSO,17,20
+2020-02-26 13:00:00,Chipping Barnet,SSO,0,0
+2020-02-26 13:00:00,Colindale,SSO,27,15
+2020-02-26 13:00:00,Edgware,SSO,29,44
+2020-02-26 13:00:00,Golders Green,SSO,1,6
+2020-02-26 13:00:00,North Finchley,SSO,12,11
+2020-02-26 13:00:00,Osidge,SSO,8,22
+2020-02-26 14:00:00,Chipping Barnet,staffed,0,0
+2020-02-26 14:00:00,Colindale,staffed,39,38
+2020-02-26 14:00:00,Edgware,SSO,32,47
+2020-02-26 14:00:00,Golders Green,SSO,9,15
+2020-02-26 14:00:00,North Finchley,SSO,16,9
+2020-02-26 14:00:00,Osidge,SSO,19,19
+2020-02-26 15:00:00,Chipping Barnet,staffed,0,0
+2020-02-26 15:00:00,Colindale,staffed,39,23
+2020-02-26 15:00:00,Edgware,SSO,25,40
+2020-02-26 15:00:00,Golders Green,SSO,13,19
+2020-02-26 15:00:00,North Finchley,SSO,17,25
+2020-02-26 15:00:00,Osidge,SSO,35,25
+2020-02-26 16:00:00,Chipping Barnet,staffed,0,0
+2020-02-26 16:00:00,Colindale,staffed,53,33
+2020-02-26 16:00:00,Edgware,SSO,99,84
+2020-02-26 16:00:00,Golders Green,SSO,15,11
+2020-02-26 16:00:00,North Finchley,SSO,31,22
+2020-02-26 16:00:00,Osidge,SSO,16,24
+2020-02-26 17:00:00,Chipping Barnet,staffed,0,0
+2020-02-26 17:00:00,Colindale,SSO,56,36
+2020-02-26 17:00:00,Edgware,SSO,35,69
+2020-02-26 17:00:00,Golders Green,SSO,18,14
+2020-02-26 17:00:00,North Finchley,SSO,60,51
+2020-02-26 17:00:00,Osidge,SSO,14,38
+2020-02-26 18:00:00,Chipping Barnet,staffed,0,0
+2020-02-26 18:00:00,Colindale,SSO,73,34
+2020-02-26 18:00:00,Edgware,SSO,26,42
+2020-02-26 18:00:00,Golders Green,SSO,1,3
+2020-02-26 18:00:00,North Finchley,SSO,43,38
+2020-02-26 18:00:00,Osidge,SSO,7,7
+2020-02-26 19:00:00,Chipping Barnet,staffed,0,0
+2020-02-26 19:00:00,Colindale,SSO,29,15
+2020-02-26 19:00:00,Edgware,SSO,20,34
+2020-02-26 19:00:00,Golders Green,SSO,1,4
+2020-02-26 19:00:00,North Finchley,SSO,46,39
+2020-02-26 19:00:00,Osidge,SSO,5,10
+2020-02-26 20:00:00,Chipping Barnet,SSO,0,0
+2020-02-26 20:00:00,Colindale,SSO,15,3
+2020-02-26 20:00:00,Edgware,SSO,5,21
+2020-02-26 20:00:00,Golders Green,closed,3,8
+2020-02-26 20:00:00,North Finchley,closed,23,17
+2020-02-26 20:00:00,Osidge,closed,0,0
+2020-02-26 21:00:00,Chipping Barnet,SSO,0,0
+2020-02-26 21:00:00,Colindale,SSO,22,3
+2020-02-26 21:00:00,Edgware,SSO,5,32
+2020-02-26 21:00:00,Golders Green,closed,1,3
+2020-02-26 21:00:00,North Finchley,closed,18,7
+2020-02-26 21:00:00,Osidge,closed,0,0
+2020-02-26 22:00:00,Chipping Barnet,closed,0,0
+2020-02-26 22:00:00,Colindale,closed,0,0
+2020-02-26 22:00:00,Edgware,closed,2,9
+2020-02-26 22:00:00,Golders Green,closed,0,0
+2020-02-26 22:00:00,North Finchley,closed,0,0
+2020-02-26 22:00:00,Osidge,closed,0,0
+2020-02-26 23:00:00,Chipping Barnet,closed,0,0
+2020-02-26 23:00:00,Colindale,closed,0,0
+2020-02-26 23:00:00,Edgware,closed,0,0
+2020-02-26 23:00:00,Golders Green,closed,0,0
+2020-02-26 23:00:00,North Finchley,closed,0,0
+2020-02-26 23:00:00,Osidge,closed,0,0
+2020-02-27 00:00:00,Chipping Barnet,closed,0,0
+2020-02-27 00:00:00,Colindale,closed,0,0
+2020-02-27 00:00:00,Edgware,closed,0,0
+2020-02-27 00:00:00,Golders Green,closed,0,0
+2020-02-27 00:00:00,North Finchley,closed,0,0
+2020-02-27 00:00:00,Osidge,closed,0,0
+2020-02-27 01:00:00,Chipping Barnet,closed,0,0
+2020-02-27 01:00:00,Colindale,closed,0,0
+2020-02-27 01:00:00,Edgware,closed,0,0
+2020-02-27 01:00:00,Golders Green,closed,0,0
+2020-02-27 01:00:00,North Finchley,closed,0,0
+2020-02-27 01:00:00,Osidge,closed,0,0
+2020-02-27 02:00:00,Chipping Barnet,closed,0,0
+2020-02-27 02:00:00,Colindale,closed,0,0
+2020-02-27 02:00:00,Edgware,closed,0,0
+2020-02-27 02:00:00,Golders Green,closed,0,0
+2020-02-27 02:00:00,North Finchley,closed,0,0
+2020-02-27 02:00:00,Osidge,closed,0,0
+2020-02-27 03:00:00,Chipping Barnet,closed,0,0
+2020-02-27 03:00:00,Colindale,closed,0,0
+2020-02-27 03:00:00,Edgware,closed,0,0
+2020-02-27 03:00:00,Golders Green,closed,0,0
+2020-02-27 03:00:00,North Finchley,closed,0,0
+2020-02-27 03:00:00,Osidge,closed,0,0
+2020-02-27 04:00:00,Chipping Barnet,closed,0,0
+2020-02-27 04:00:00,Colindale,closed,0,0
+2020-02-27 04:00:00,Edgware,closed,0,0
+2020-02-27 04:00:00,Golders Green,closed,0,0
+2020-02-27 04:00:00,North Finchley,closed,0,0
+2020-02-27 04:00:00,Osidge,closed,0,0
+2020-02-27 05:00:00,Chipping Barnet,closed,0,0
+2020-02-27 05:00:00,Colindale,closed,0,0
+2020-02-27 05:00:00,Edgware,closed,0,0
+2020-02-27 05:00:00,Golders Green,closed,0,0
+2020-02-27 05:00:00,North Finchley,closed,0,0
+2020-02-27 05:00:00,Osidge,closed,0,0
+2020-02-27 06:00:00,Chipping Barnet,closed,0,0
+2020-02-27 06:00:00,Colindale,closed,3,3
+2020-02-27 06:00:00,Edgware,closed,0,0
+2020-02-27 06:00:00,Golders Green,closed,0,0
+2020-02-27 06:00:00,North Finchley,closed,0,0
+2020-02-27 06:00:00,Osidge,closed,0,0
+2020-02-27 07:00:00,Chipping Barnet,SSO,0,0
+2020-02-27 07:00:00,Colindale,SSO,0,0
+2020-02-27 07:00:00,Edgware,SSO,5,1
+2020-02-27 07:00:00,Golders Green,closed,0,0
+2020-02-27 07:00:00,North Finchley,closed,0,0
+2020-02-27 07:00:00,Osidge,closed,0,0
+2020-02-27 08:00:00,Chipping Barnet,SSO,0,0
+2020-02-27 08:00:00,Colindale,SSO,13,9
+2020-02-27 08:00:00,Edgware,SSO,9,7
+2020-02-27 08:00:00,Golders Green,SSO,0,0
+2020-02-27 08:00:00,North Finchley,SSO,2,7
+2020-02-27 08:00:00,Osidge,SSO,6,7
+2020-02-27 09:00:00,Chipping Barnet,SSO,0,0
+2020-02-27 09:00:00,Colindale,staffed,11,22
+2020-02-27 09:00:00,Edgware,SSO,30,10
+2020-02-27 09:00:00,Golders Green,SSO,4,1
+2020-02-27 09:00:00,North Finchley,staffed,15,21
+2020-02-27 09:00:00,Osidge,SSO,0,0
+2020-02-27 10:00:00,Chipping Barnet,SSO,0,0
+2020-02-27 10:00:00,Colindale,staffed,34,23
+2020-02-27 10:00:00,Edgware,SSO,22,33
+2020-02-27 10:00:00,Golders Green,SSO,5,11
+2020-02-27 10:00:00,North Finchley,staffed,29,30
+2020-02-27 10:00:00,Osidge,SSO,11,13
+2020-02-27 11:00:00,Chipping Barnet,SSO,0,0
+2020-02-27 11:00:00,Colindale,staffed,32,26
+2020-02-27 11:00:00,Edgware,SSO,29,39
+2020-02-27 11:00:00,Golders Green,SSO,6,6
+2020-02-27 11:00:00,North Finchley,staffed,26,14
+2020-02-27 11:00:00,Osidge,SSO,14,14
+2020-02-27 12:00:00,Chipping Barnet,SSO,0,0
+2020-02-27 12:00:00,Colindale,SSO,65,23
+2020-02-27 12:00:00,Edgware,SSO,8,29
+2020-02-27 12:00:00,Golders Green,SSO,9,7
+2020-02-27 12:00:00,North Finchley,SSO,17,11
+2020-02-27 12:00:00,Osidge,SSO,5,15
+2020-02-27 13:00:00,Chipping Barnet,SSO,0,0
+2020-02-27 13:00:00,Colindale,SSO,35,20
+2020-02-27 13:00:00,Edgware,SSO,36,28
+2020-02-27 13:00:00,Golders Green,SSO,6,10
+2020-02-27 13:00:00,North Finchley,SSO,12,12
+2020-02-27 13:00:00,Osidge,SSO,18,6
+2020-02-27 14:00:00,Chipping Barnet,SSO,0,0
+2020-02-27 14:00:00,Colindale,SSO,22,13
+2020-02-27 14:00:00,Edgware,staffed,55,40
+2020-02-27 14:00:00,Golders Green,staffed,9,17
+2020-02-27 14:00:00,North Finchley,SSO,28,20
+2020-02-27 14:00:00,Osidge,staffed,55,24
+2020-02-27 15:00:00,Chipping Barnet,SSO,0,0
+2020-02-27 15:00:00,Colindale,SSO,15,5
+2020-02-27 15:00:00,Edgware,staffed,38,58
+2020-02-27 15:00:00,Golders Green,staffed,8,13
+2020-02-27 15:00:00,North Finchley,SSO,16,15
+2020-02-27 15:00:00,Osidge,staffed,26,56
+2020-02-27 16:00:00,Chipping Barnet,SSO,0,0
+2020-02-27 16:00:00,Colindale,SSO,31,16
+2020-02-27 16:00:00,Edgware,staffed,46,61
+2020-02-27 16:00:00,Golders Green,staffed,2,4
+2020-02-27 16:00:00,North Finchley,SSO,37,24
+2020-02-27 16:00:00,Osidge,staffed,18,22
+2020-02-27 17:00:00,Chipping Barnet,SSO,0,0
+2020-02-27 17:00:00,Colindale,SSO,31,20
+2020-02-27 17:00:00,Edgware,staffed,56,43
+2020-02-27 17:00:00,Golders Green,staffed,7,22
+2020-02-27 17:00:00,North Finchley,SSO,19,17
+2020-02-27 17:00:00,Osidge,SSO,10,30
+2020-02-27 18:00:00,Chipping Barnet,SSO,0,0
+2020-02-27 18:00:00,Colindale,SSO,39,13
+2020-02-27 18:00:00,Edgware,staffed,45,68
+2020-02-27 18:00:00,Golders Green,staffed,9,12
+2020-02-27 18:00:00,North Finchley,SSO,9,8
+2020-02-27 18:00:00,Osidge,SSO,0,0
+2020-02-27 19:00:00,Chipping Barnet,SSO,0,0
+2020-02-27 19:00:00,Colindale,SSO,39,13
+2020-02-27 19:00:00,Edgware,staffed,20,22
+2020-02-27 19:00:00,Golders Green,staffed,3,12
+2020-02-27 19:00:00,North Finchley,SSO,21,17
+2020-02-27 19:00:00,Osidge,SSO,3,8
+2020-02-27 20:00:00,Chipping Barnet,SSO,0,0
+2020-02-27 20:00:00,Colindale,SSO,17,8
+2020-02-27 20:00:00,Edgware,SSO,9,28
+2020-02-27 20:00:00,Golders Green,closed,2,15
+2020-02-27 20:00:00,North Finchley,closed,0,0
+2020-02-27 20:00:00,Osidge,closed,5,22
+2020-02-27 21:00:00,Chipping Barnet,SSO,0,0
+2020-02-27 21:00:00,Colindale,SSO,11,4
+2020-02-27 21:00:00,Edgware,SSO,4,10
+2020-02-27 21:00:00,Golders Green,closed,0,0
+2020-02-27 21:00:00,North Finchley,closed,0,0
+2020-02-27 21:00:00,Osidge,closed,0,0
+2020-02-27 22:00:00,Chipping Barnet,closed,0,0
+2020-02-27 22:00:00,Colindale,closed,0,0
+2020-02-27 22:00:00,Edgware,closed,6,20
+2020-02-27 22:00:00,Golders Green,closed,0,0
+2020-02-27 22:00:00,North Finchley,closed,0,0
+2020-02-27 22:00:00,Osidge,closed,0,0
+2020-02-27 23:00:00,Chipping Barnet,closed,0,0
+2020-02-27 23:00:00,Colindale,closed,0,0
+2020-02-27 23:00:00,Edgware,closed,0,0
+2020-02-27 23:00:00,Golders Green,closed,0,0
+2020-02-27 23:00:00,North Finchley,closed,0,0
+2020-02-27 23:00:00,Osidge,closed,0,0
+2020-02-28 00:00:00,Chipping Barnet,closed,0,0
+2020-02-28 00:00:00,Colindale,closed,0,0
+2020-02-28 00:00:00,Edgware,closed,0,0
+2020-02-28 00:00:00,Golders Green,closed,0,0
+2020-02-28 00:00:00,North Finchley,closed,0,0
+2020-02-28 00:00:00,Osidge,closed,0,0
+2020-02-28 01:00:00,Chipping Barnet,closed,0,0
+2020-02-28 01:00:00,Colindale,closed,0,0
+2020-02-28 01:00:00,Edgware,closed,0,0
+2020-02-28 01:00:00,Golders Green,closed,0,0
+2020-02-28 01:00:00,North Finchley,closed,0,0
+2020-02-28 01:00:00,Osidge,closed,0,0
+2020-02-28 02:00:00,Chipping Barnet,closed,0,0
+2020-02-28 02:00:00,Colindale,closed,0,0
+2020-02-28 02:00:00,Edgware,closed,0,0
+2020-02-28 02:00:00,Golders Green,closed,0,0
+2020-02-28 02:00:00,North Finchley,closed,0,0
+2020-02-28 02:00:00,Osidge,closed,0,0
+2020-02-28 03:00:00,Chipping Barnet,closed,0,0
+2020-02-28 03:00:00,Colindale,closed,0,0
+2020-02-28 03:00:00,Edgware,closed,0,0
+2020-02-28 03:00:00,Golders Green,closed,0,0
+2020-02-28 03:00:00,North Finchley,closed,0,0
+2020-02-28 03:00:00,Osidge,closed,0,0
+2020-02-28 04:00:00,Chipping Barnet,closed,0,0
+2020-02-28 04:00:00,Colindale,closed,0,0
+2020-02-28 04:00:00,Edgware,closed,0,0
+2020-02-28 04:00:00,Golders Green,closed,0,0
+2020-02-28 04:00:00,North Finchley,closed,0,0
+2020-02-28 04:00:00,Osidge,closed,0,0
+2020-02-28 05:00:00,Chipping Barnet,closed,0,0
+2020-02-28 05:00:00,Colindale,closed,1,1
+2020-02-28 05:00:00,Edgware,closed,0,0
+2020-02-28 05:00:00,Golders Green,closed,0,0
+2020-02-28 05:00:00,North Finchley,closed,0,0
+2020-02-28 05:00:00,Osidge,closed,0,0
+2020-02-28 06:00:00,Chipping Barnet,closed,0,0
+2020-02-28 06:00:00,Colindale,closed,1,1
+2020-02-28 06:00:00,Edgware,closed,0,0
+2020-02-28 06:00:00,Golders Green,closed,0,0
+2020-02-28 06:00:00,North Finchley,closed,0,0
+2020-02-28 06:00:00,Osidge,closed,0,0
+2020-02-28 07:00:00,Chipping Barnet,SSO,0,0
+2020-02-28 07:00:00,Colindale,SSO,3,9
+2020-02-28 07:00:00,Edgware,SSO,2,1
+2020-02-28 07:00:00,Golders Green,closed,0,0
+2020-02-28 07:00:00,North Finchley,closed,0,0
+2020-02-28 07:00:00,Osidge,closed,0,0
+2020-02-28 08:00:00,Chipping Barnet,SSO,0,0
+2020-02-28 08:00:00,Colindale,SSO,3,5
+2020-02-28 08:00:00,Edgware,SSO,12,7
+2020-02-28 08:00:00,Golders Green,SSO,4,2
+2020-02-28 08:00:00,North Finchley,SSO,7,7
+2020-02-28 08:00:00,Osidge,SSO,7,6
+2020-02-28 09:00:00,Chipping Barnet,SSO,0,0
+2020-02-28 09:00:00,Colindale,SSO,20,14
+2020-02-28 09:00:00,Edgware,SSO,9,22
+2020-02-28 09:00:00,Golders Green,staffed,12,12
+2020-02-28 09:00:00,North Finchley,SSO,14,12
+2020-02-28 09:00:00,Osidge,SSO,1,2
+2020-02-28 10:00:00,Chipping Barnet,SSO,0,0
+2020-02-28 10:00:00,Colindale,SSO,9,5
+2020-02-28 10:00:00,Edgware,SSO,15,17
+2020-02-28 10:00:00,Golders Green,staffed,21,18
+2020-02-28 10:00:00,North Finchley,SSO,18,8
+2020-02-28 10:00:00,Osidge,SSO,4,5
+2020-02-28 11:00:00,Chipping Barnet,SSO,0,0
+2020-02-28 11:00:00,Colindale,SSO,15,11
+2020-02-28 11:00:00,Edgware,SSO,31,15
+2020-02-28 11:00:00,Golders Green,staffed,18,34
+2020-02-28 11:00:00,North Finchley,SSO,12,9
+2020-02-28 11:00:00,Osidge,SSO,0,0
+2020-02-28 12:00:00,Chipping Barnet,SSO,0,0
+2020-02-28 12:00:00,Colindale,SSO,19,5
+2020-02-28 12:00:00,Edgware,SSO,15,26
+2020-02-28 12:00:00,Golders Green,SSO,7,18
+2020-02-28 12:00:00,North Finchley,SSO,8,9
+2020-02-28 12:00:00,Osidge,SSO,10,10
+2020-02-28 13:00:00,Chipping Barnet,SSO,0,0
+2020-02-28 13:00:00,Colindale,SSO,15,12
+2020-02-28 13:00:00,Edgware,SSO,20,25
+2020-02-28 13:00:00,Golders Green,SSO,4,6
+2020-02-28 13:00:00,North Finchley,SSO,18,15
+2020-02-28 13:00:00,Osidge,SSO,5,6
+2020-02-28 14:00:00,Chipping Barnet,staffed,39,46
+2020-02-28 14:00:00,Colindale,SSO,15,6
+2020-02-28 14:00:00,Edgware,SSO,44,51
+2020-02-28 14:00:00,Golders Green,SSO,15,29
+2020-02-28 14:00:00,North Finchley,staffed,21,18
+2020-02-28 14:00:00,Osidge,SSO,18,22
+2020-02-28 15:00:00,Chipping Barnet,staffed,35,41
+2020-02-28 15:00:00,Colindale,SSO,15,11
+2020-02-28 15:00:00,Edgware,SSO,13,15
+2020-02-28 15:00:00,Golders Green,SSO,10,17
+2020-02-28 15:00:00,North Finchley,staffed,14,18
+2020-02-28 15:00:00,Osidge,SSO,56,43
+2020-02-28 16:00:00,Chipping Barnet,staffed,28,39
+2020-02-28 16:00:00,Colindale,SSO,13,7
+2020-02-28 16:00:00,Edgware,SSO,20,20
+2020-02-28 16:00:00,Golders Green,SSO,3,6
+2020-02-28 16:00:00,North Finchley,staffed,28,19
+2020-02-28 16:00:00,Osidge,SSO,28,46
+2020-02-28 17:00:00,Chipping Barnet,SSO,33,46
+2020-02-28 17:00:00,Colindale,SSO,13,13
+2020-02-28 17:00:00,Edgware,SSO,22,20
+2020-02-28 17:00:00,Golders Green,SSO,2,7
+2020-02-28 17:00:00,North Finchley,SSO,22,11
+2020-02-28 17:00:00,Osidge,SSO,30,66
+2020-02-28 18:00:00,Chipping Barnet,SSO,31,21
+2020-02-28 18:00:00,Colindale,SSO,21,7
+2020-02-28 18:00:00,Edgware,SSO,15,16
+2020-02-28 18:00:00,Golders Green,SSO,2,6
+2020-02-28 18:00:00,North Finchley,SSO,12,7
+2020-02-28 18:00:00,Osidge,SSO,3,1
+2020-02-28 19:00:00,Chipping Barnet,SSO,7,9
+2020-02-28 19:00:00,Colindale,SSO,10,3
+2020-02-28 19:00:00,Edgware,SSO,16,26
+2020-02-28 19:00:00,Golders Green,SSO,0,0
+2020-02-28 19:00:00,North Finchley,SSO,15,8
+2020-02-28 19:00:00,Osidge,SSO,1,2
+2020-02-28 20:00:00,Chipping Barnet,SSO,7,10
+2020-02-28 20:00:00,Colindale,SSO,7,3
+2020-02-28 20:00:00,Edgware,SSO,10,18
+2020-02-28 20:00:00,Golders Green,closed,1,3
+2020-02-28 20:00:00,North Finchley,closed,0,0
+2020-02-28 20:00:00,Osidge,closed,0,0
+2020-02-28 21:00:00,Chipping Barnet,SSO,12,9
+2020-02-28 21:00:00,Colindale,SSO,8,3
+2020-02-28 21:00:00,Edgware,SSO,3,4
+2020-02-28 21:00:00,Golders Green,closed,1,1
+2020-02-28 21:00:00,North Finchley,closed,0,0
+2020-02-28 21:00:00,Osidge,closed,0,0
+2020-02-28 22:00:00,Chipping Barnet,closed,2,5
+2020-02-28 22:00:00,Colindale,closed,0,0
+2020-02-28 22:00:00,Edgware,closed,3,19
+2020-02-28 22:00:00,Golders Green,closed,0,0
+2020-02-28 22:00:00,North Finchley,closed,0,0
+2020-02-28 22:00:00,Osidge,closed,0,0
+2020-02-28 23:00:00,Chipping Barnet,closed,0,0
+2020-02-28 23:00:00,Colindale,closed,0,0
+2020-02-28 23:00:00,Edgware,closed,0,0
+2020-02-28 23:00:00,Golders Green,closed,0,0
+2020-02-28 23:00:00,North Finchley,closed,0,0
+2020-02-28 23:00:00,Osidge,closed,0,0
+2020-02-29 00:00:00,Chipping Barnet,closed,0,0
+2020-02-29 00:00:00,Colindale,closed,0,0
+2020-02-29 00:00:00,Edgware,closed,0,0
+2020-02-29 00:00:00,Golders Green,closed,0,0
+2020-02-29 00:00:00,North Finchley,closed,0,0
+2020-02-29 00:00:00,Osidge,closed,0,0
+2020-02-29 01:00:00,Chipping Barnet,closed,0,0
+2020-02-29 01:00:00,Colindale,closed,0,0
+2020-02-29 01:00:00,Edgware,closed,0,0
+2020-02-29 01:00:00,Golders Green,closed,0,0
+2020-02-29 01:00:00,North Finchley,closed,0,0
+2020-02-29 01:00:00,Osidge,closed,0,0
+2020-02-29 02:00:00,Chipping Barnet,closed,0,0
+2020-02-29 02:00:00,Colindale,closed,0,0
+2020-02-29 02:00:00,Edgware,closed,0,0
+2020-02-29 02:00:00,Golders Green,closed,0,0
+2020-02-29 02:00:00,North Finchley,closed,0,0
+2020-02-29 02:00:00,Osidge,closed,0,0
+2020-02-29 03:00:00,Chipping Barnet,closed,0,0
+2020-02-29 03:00:00,Colindale,closed,0,0
+2020-02-29 03:00:00,Edgware,closed,0,0
+2020-02-29 03:00:00,Golders Green,closed,0,0
+2020-02-29 03:00:00,North Finchley,closed,0,0
+2020-02-29 03:00:00,Osidge,closed,0,0
+2020-02-29 04:00:00,Chipping Barnet,closed,0,0
+2020-02-29 04:00:00,Colindale,closed,0,0
+2020-02-29 04:00:00,Edgware,closed,0,0
+2020-02-29 04:00:00,Golders Green,closed,0,0
+2020-02-29 04:00:00,North Finchley,closed,0,0
+2020-02-29 04:00:00,Osidge,closed,0,0
+2020-02-29 05:00:00,Chipping Barnet,closed,0,0
+2020-02-29 05:00:00,Colindale,closed,0,0
+2020-02-29 05:00:00,Edgware,closed,0,0
+2020-02-29 05:00:00,Golders Green,closed,0,0
+2020-02-29 05:00:00,North Finchley,closed,0,0
+2020-02-29 05:00:00,Osidge,closed,0,0
+2020-02-29 06:00:00,Chipping Barnet,closed,0,0
+2020-02-29 06:00:00,Colindale,closed,0,0
+2020-02-29 06:00:00,Edgware,closed,0,0
+2020-02-29 06:00:00,Golders Green,closed,0,0
+2020-02-29 06:00:00,North Finchley,closed,0,0
+2020-02-29 06:00:00,Osidge,closed,0,0
+2020-02-29 07:00:00,Chipping Barnet,SSO,0,0
+2020-02-29 07:00:00,Colindale,SSO,1,1
+2020-02-29 07:00:00,Edgware,SSO,0,0
+2020-02-29 07:00:00,Golders Green,closed,0,0
+2020-02-29 07:00:00,North Finchley,closed,0,0
+2020-02-29 07:00:00,Osidge,closed,0,0
+2020-02-29 08:00:00,Chipping Barnet,SSO,2,9
+2020-02-29 08:00:00,Colindale,SSO,5,11
+2020-02-29 08:00:00,Edgware,SSO,7,1
+2020-02-29 08:00:00,Golders Green,closed,0,0
+2020-02-29 08:00:00,North Finchley,SSO,3,2
+2020-02-29 08:00:00,Osidge,SSO,2,5
+2020-02-29 09:00:00,Chipping Barnet,staffed,25,44
+2020-02-29 09:00:00,Colindale,staffed,12,11
+2020-02-29 09:00:00,Edgware,staffed,21,9
+2020-02-29 09:00:00,Golders Green,closed,0,0
+2020-02-29 09:00:00,North Finchley,SSO,8,14
+2020-02-29 09:00:00,Osidge,SSO,4,6
+2020-02-29 10:00:00,Chipping Barnet,staffed,43,59
+2020-02-29 10:00:00,Colindale,staffed,21,19
+2020-02-29 10:00:00,Edgware,staffed,89,32
+2020-02-29 10:00:00,Golders Green,closed,0,0
+2020-02-29 10:00:00,North Finchley,SSO,25,24
+2020-02-29 10:00:00,Osidge,SSO,10,10
+2020-02-29 11:00:00,Chipping Barnet,staffed,53,68
+2020-02-29 11:00:00,Colindale,staffed,36,20
+2020-02-29 11:00:00,Edgware,staffed,78,99
+2020-02-29 11:00:00,Golders Green,SSO,2,4
+2020-02-29 11:00:00,North Finchley,SSO,33,30
+2020-02-29 11:00:00,Osidge,SSO,14,11
+2020-02-29 12:00:00,Chipping Barnet,staffed,58,80
+2020-02-29 12:00:00,Colindale,staffed,45,36
+2020-02-29 12:00:00,Edgware,staffed,37,97
+2020-02-29 12:00:00,Golders Green,SSO,4,5
+2020-02-29 12:00:00,North Finchley,SSO,31,22
+2020-02-29 12:00:00,Osidge,SSO,14,25
+2020-02-29 13:00:00,Chipping Barnet,staffed,46,54
+2020-02-29 13:00:00,Colindale,staffed,28,12
+2020-02-29 13:00:00,Edgware,staffed,56,55
+2020-02-29 13:00:00,Golders Green,SSO,4,2
+2020-02-29 13:00:00,North Finchley,SSO,43,37
+2020-02-29 13:00:00,Osidge,SSO,17,15
+2020-02-29 14:00:00,Chipping Barnet,staffed,51,79
+2020-02-29 14:00:00,Colindale,staffed,29,34
+2020-02-29 14:00:00,Edgware,staffed,45,45
+2020-02-29 14:00:00,Golders Green,SSO,3,9
+2020-02-29 14:00:00,North Finchley,staffed,33,37
+2020-02-29 14:00:00,Osidge,staffed,19,30
+2020-02-29 15:00:00,Chipping Barnet,staffed,36,21
+2020-02-29 15:00:00,Colindale,staffed,61,29
+2020-02-29 15:00:00,Edgware,staffed,34,46
+2020-02-29 15:00:00,Golders Green,SSO,7,7
+2020-02-29 15:00:00,North Finchley,staffed,24,28
+2020-02-29 15:00:00,Osidge,staffed,16,17
+2020-02-29 16:00:00,Chipping Barnet,staffed,41,12
+2020-02-29 16:00:00,Colindale,staffed,42,16
+2020-02-29 16:00:00,Edgware,staffed,32,41
+2020-02-29 16:00:00,Golders Green,SSO,6,19
+2020-02-29 16:00:00,North Finchley,staffed,62,23
+2020-02-29 16:00:00,Osidge,staffed,39,38
+2020-02-29 17:00:00,Chipping Barnet,closed,16,6
+2020-02-29 17:00:00,Colindale,closed,23,8
+2020-02-29 17:00:00,Edgware,closed,7,33
+2020-02-29 17:00:00,Golders Green,closed,0,0
+2020-02-29 17:00:00,North Finchley,closed,6,2
+2020-02-29 17:00:00,Osidge,closed,0,0
+2020-02-29 18:00:00,Chipping Barnet,closed,0,0
+2020-02-29 18:00:00,Colindale,closed,0,0
+2020-02-29 18:00:00,Edgware,closed,0,0
+2020-02-29 18:00:00,Golders Green,closed,0,0
+2020-02-29 18:00:00,North Finchley,closed,0,0
+2020-02-29 18:00:00,Osidge,closed,0,0
+2020-02-29 19:00:00,Chipping Barnet,closed,0,0
+2020-02-29 19:00:00,Colindale,closed,0,0
+2020-02-29 19:00:00,Edgware,closed,0,0
+2020-02-29 19:00:00,Golders Green,closed,0,0
+2020-02-29 19:00:00,North Finchley,closed,0,0
+2020-02-29 19:00:00,Osidge,closed,0,0
+2020-02-29 20:00:00,Chipping Barnet,closed,0,0
+2020-02-29 20:00:00,Colindale,closed,0,0
+2020-02-29 20:00:00,Edgware,closed,0,0
+2020-02-29 20:00:00,Golders Green,closed,0,0
+2020-02-29 20:00:00,North Finchley,closed,0,0
+2020-02-29 20:00:00,Osidge,closed,0,0
+2020-02-29 21:00:00,Chipping Barnet,closed,0,0
+2020-02-29 21:00:00,Colindale,closed,0,0
+2020-02-29 21:00:00,Edgware,closed,0,0
+2020-02-29 21:00:00,Golders Green,closed,0,0
+2020-02-29 21:00:00,North Finchley,closed,0,0
+2020-02-29 21:00:00,Osidge,closed,0,0
+2020-02-29 22:00:00,Chipping Barnet,closed,0,0
+2020-02-29 22:00:00,Colindale,closed,0,0
+2020-02-29 22:00:00,Edgware,closed,0,0
+2020-02-29 22:00:00,Golders Green,closed,0,0
+2020-02-29 22:00:00,North Finchley,closed,0,0
+2020-02-29 22:00:00,Osidge,closed,0,0
+2020-02-29 23:00:00,Chipping Barnet,closed,0,0
+2020-02-29 23:00:00,Colindale,closed,0,0
+2020-02-29 23:00:00,Edgware,closed,0,0
+2020-02-29 23:00:00,Golders Green,closed,0,0
+2020-02-29 23:00:00,North Finchley,closed,0,0
+2020-02-29 23:00:00,Osidge,closed,0,0
+2020-03-01 00:00:00,Chipping Barnet,closed,0,0
+2020-03-01 00:00:00,Colindale,closed,0,0
+2020-03-01 00:00:00,Edgware,closed,0,0
+2020-03-01 00:00:00,Golders Green,closed,0,0
+2020-03-01 00:00:00,North Finchley,closed,0,0
+2020-03-01 00:00:00,Osidge,closed,0,0
+2020-03-01 01:00:00,Chipping Barnet,closed,0,0
+2020-03-01 01:00:00,Colindale,closed,0,0
+2020-03-01 01:00:00,Edgware,closed,0,0
+2020-03-01 01:00:00,Golders Green,closed,0,0
+2020-03-01 01:00:00,North Finchley,closed,0,0
+2020-03-01 01:00:00,Osidge,closed,0,0
+2020-03-01 02:00:00,Chipping Barnet,closed,0,0
+2020-03-01 02:00:00,Colindale,closed,0,0
+2020-03-01 02:00:00,Edgware,closed,0,0
+2020-03-01 02:00:00,Golders Green,closed,0,0
+2020-03-01 02:00:00,North Finchley,closed,0,0
+2020-03-01 02:00:00,Osidge,closed,0,0
+2020-03-01 03:00:00,Chipping Barnet,closed,0,0
+2020-03-01 03:00:00,Colindale,closed,0,0
+2020-03-01 03:00:00,Edgware,closed,0,0
+2020-03-01 03:00:00,Golders Green,closed,0,0
+2020-03-01 03:00:00,North Finchley,closed,0,0
+2020-03-01 03:00:00,Osidge,closed,0,0
+2020-03-01 04:00:00,Chipping Barnet,closed,0,0
+2020-03-01 04:00:00,Colindale,closed,0,0
+2020-03-01 04:00:00,Edgware,closed,0,0
+2020-03-01 04:00:00,Golders Green,closed,0,0
+2020-03-01 04:00:00,North Finchley,closed,0,0
+2020-03-01 04:00:00,Osidge,closed,0,0
+2020-03-01 05:00:00,Chipping Barnet,closed,0,0
+2020-03-01 05:00:00,Colindale,closed,0,0
+2020-03-01 05:00:00,Edgware,closed,0,0
+2020-03-01 05:00:00,Golders Green,closed,0,0
+2020-03-01 05:00:00,North Finchley,closed,0,0
+2020-03-01 05:00:00,Osidge,closed,0,0
+2020-03-01 06:00:00,Chipping Barnet,closed,0,0
+2020-03-01 06:00:00,Colindale,closed,0,0
+2020-03-01 06:00:00,Edgware,closed,0,0
+2020-03-01 06:00:00,Golders Green,closed,0,0
+2020-03-01 06:00:00,North Finchley,closed,0,0
+2020-03-01 06:00:00,Osidge,closed,0,0
+2020-03-01 07:00:00,Chipping Barnet,closed,0,0
+2020-03-01 07:00:00,Colindale,closed,0,0
+2020-03-01 07:00:00,Edgware,closed,0,0
+2020-03-01 07:00:00,Golders Green,closed,0,0
+2020-03-01 07:00:00,North Finchley,closed,0,0
+2020-03-01 07:00:00,Osidge,closed,0,0
+2020-03-01 08:00:00,Chipping Barnet,closed,0,0
+2020-03-01 08:00:00,Colindale,closed,0,0
+2020-03-01 08:00:00,Edgware,closed,0,0
+2020-03-01 08:00:00,Golders Green,closed,0,0
+2020-03-01 08:00:00,North Finchley,closed,0,0
+2020-03-01 08:00:00,Osidge,closed,0,0
+2020-03-01 09:00:00,Chipping Barnet,closed,0,0
+2020-03-01 09:00:00,Colindale,closed,0,0
+2020-03-01 09:00:00,Edgware,closed,0,0
+2020-03-01 09:00:00,Golders Green,closed,0,0
+2020-03-01 09:00:00,North Finchley,closed,0,0
+2020-03-01 09:00:00,Osidge,closed,0,0
+2020-03-01 10:00:00,Chipping Barnet,SSO,13,43
+2020-03-01 10:00:00,Colindale,SSO,13,18
+2020-03-01 10:00:00,Edgware,SSO,34,22
+2020-03-01 10:00:00,Golders Green,closed,0,0
+2020-03-01 10:00:00,North Finchley,closed,0,0
+2020-03-01 10:00:00,Osidge,closed,0,0
+2020-03-01 11:00:00,Chipping Barnet,SSO,34,40
+2020-03-01 11:00:00,Colindale,SSO,34,19
+2020-03-01 11:00:00,Edgware,SSO,20,20
+2020-03-01 11:00:00,Golders Green,closed,0,0
+2020-03-01 11:00:00,North Finchley,closed,0,0
+2020-03-01 11:00:00,Osidge,closed,0,0
+2020-03-01 12:00:00,Chipping Barnet,SSO,27,31
+2020-03-01 12:00:00,Colindale,SSO,49,29
+2020-03-01 12:00:00,Edgware,SSO,30,39
+2020-03-01 12:00:00,Golders Green,closed,0,0
+2020-03-01 12:00:00,North Finchley,closed,0,0
+2020-03-01 12:00:00,Osidge,closed,0,0
+2020-03-01 13:00:00,Chipping Barnet,SSO,31,39
+2020-03-01 13:00:00,Colindale,SSO,38,40
+2020-03-01 13:00:00,Edgware,SSO,23,18
+2020-03-01 13:00:00,Golders Green,closed,5,6
+2020-03-01 13:00:00,North Finchley,closed,0,0
+2020-03-01 13:00:00,Osidge,closed,0,0
+2020-03-01 14:00:00,Chipping Barnet,staffed,61,85
+2020-03-01 14:00:00,Colindale,staffed,44,49
+2020-03-01 14:00:00,Edgware,staffed,46,54
+2020-03-01 14:00:00,Golders Green,staffed,7,12
+2020-03-01 14:00:00,North Finchley,closed,0,0
+2020-03-01 14:00:00,Osidge,closed,0,0
+2020-03-01 15:00:00,Chipping Barnet,staffed,64,81
+2020-03-01 15:00:00,Colindale,staffed,55,36
+2020-03-01 15:00:00,Edgware,staffed,61,50
+2020-03-01 15:00:00,Golders Green,staffed,17,22
+2020-03-01 15:00:00,North Finchley,closed,0,0
+2020-03-01 15:00:00,Osidge,closed,0,0
+2020-03-01 16:00:00,Chipping Barnet,staffed,71,45
+2020-03-01 16:00:00,Colindale,staffed,62,23
+2020-03-01 16:00:00,Edgware,staffed,40,75
+2020-03-01 16:00:00,Golders Green,staffed,12,38
+2020-03-01 16:00:00,North Finchley,closed,0,0
+2020-03-01 16:00:00,Osidge,closed,0,0
+2020-03-01 17:00:00,Chipping Barnet,closed,26,9
+2020-03-01 17:00:00,Colindale,closed,6,3
+2020-03-01 17:00:00,Edgware,closed,9,37
+2020-03-01 17:00:00,Golders Green,closed,2,3
+2020-03-01 17:00:00,North Finchley,closed,0,0
+2020-03-01 17:00:00,Osidge,closed,0,0
+2020-03-01 18:00:00,Chipping Barnet,closed,2,5
+2020-03-01 18:00:00,Colindale,closed,0,0
+2020-03-01 18:00:00,Edgware,closed,7,10
+2020-03-01 18:00:00,Golders Green,closed,0,0
+2020-03-01 18:00:00,North Finchley,closed,0,0
+2020-03-01 18:00:00,Osidge,closed,0,0
+2020-03-01 19:00:00,Chipping Barnet,closed,5,5
+2020-03-01 19:00:00,Colindale,closed,0,0
+2020-03-01 19:00:00,Edgware,closed,0,0
+2020-03-01 19:00:00,Golders Green,closed,0,0
+2020-03-01 19:00:00,North Finchley,closed,0,0
+2020-03-01 19:00:00,Osidge,closed,0,0
+2020-03-01 20:00:00,Chipping Barnet,closed,0,0
+2020-03-01 20:00:00,Colindale,closed,0,0
+2020-03-01 20:00:00,Edgware,closed,0,0
+2020-03-01 20:00:00,Golders Green,closed,0,0
+2020-03-01 20:00:00,North Finchley,closed,0,0
+2020-03-01 20:00:00,Osidge,closed,0,0
+2020-03-01 21:00:00,Chipping Barnet,closed,0,0
+2020-03-01 21:00:00,Colindale,closed,0,0
+2020-03-01 21:00:00,Edgware,closed,0,0
+2020-03-01 21:00:00,Golders Green,closed,0,0
+2020-03-01 21:00:00,North Finchley,closed,0,0
+2020-03-01 21:00:00,Osidge,closed,0,0
+2020-03-01 22:00:00,Chipping Barnet,closed,0,0
+2020-03-01 22:00:00,Colindale,closed,0,0
+2020-03-01 22:00:00,Edgware,closed,0,0
+2020-03-01 22:00:00,Golders Green,closed,0,0
+2020-03-01 22:00:00,North Finchley,closed,0,0
+2020-03-01 22:00:00,Osidge,closed,0,0
+2020-03-01 23:00:00,Chipping Barnet,closed,0,0
+2020-03-01 23:00:00,Colindale,closed,0,0
+2020-03-01 23:00:00,Edgware,closed,0,0
+2020-03-01 23:00:00,Golders Green,closed,0,0
+2020-03-01 23:00:00,North Finchley,closed,0,0
+2020-03-01 23:00:00,Osidge,closed,0,0
+2020-02-24 00:00:00,Chipping Barnet,closed,0,0
+2020-02-24 00:00:00,Colindale,closed,0,0
+2020-02-24 00:00:00,Edgware,closed,0,0
+2020-02-24 00:00:00,Golders Green,closed,0,0
+2020-02-24 00:00:00,North Finchley,closed,0,0
+2020-02-24 00:00:00,Osidge,closed,0,0
+2020-02-24 01:00:00,Chipping Barnet,closed,0,0
+2020-02-24 01:00:00,Colindale,closed,0,0
+2020-02-24 01:00:00,Edgware,closed,0,0
+2020-02-24 01:00:00,Golders Green,closed,0,0
+2020-02-24 01:00:00,North Finchley,closed,0,0
+2020-02-24 01:00:00,Osidge,closed,0,0
+2020-02-24 02:00:00,Chipping Barnet,closed,0,0
+2020-02-24 02:00:00,Colindale,closed,0,0
+2020-02-24 02:00:00,Edgware,closed,0,0
+2020-02-24 02:00:00,Golders Green,closed,0,0
+2020-02-24 02:00:00,North Finchley,closed,0,0
+2020-02-24 02:00:00,Osidge,closed,0,0
+2020-02-24 03:00:00,Chipping Barnet,closed,0,0
+2020-02-24 03:00:00,Colindale,closed,0,0
+2020-02-24 03:00:00,Edgware,closed,0,0
+2020-02-24 03:00:00,Golders Green,closed,0,0
+2020-02-24 03:00:00,North Finchley,closed,0,0
+2020-02-24 03:00:00,Osidge,closed,0,0
+2020-02-24 04:00:00,Chipping Barnet,closed,0,0
+2020-02-24 04:00:00,Colindale,closed,0,0
+2020-02-24 04:00:00,Edgware,closed,0,0
+2020-02-24 04:00:00,Golders Green,closed,0,0
+2020-02-24 04:00:00,North Finchley,closed,0,0
+2020-02-24 04:00:00,Osidge,closed,0,0
+2020-02-24 05:00:00,Chipping Barnet,closed,0,0
+2020-02-24 05:00:00,Colindale,closed,0,0
+2020-02-24 05:00:00,Edgware,closed,0,0
+2020-02-24 05:00:00,Golders Green,closed,0,0
+2020-02-24 05:00:00,North Finchley,closed,0,0
+2020-02-24 05:00:00,Osidge,closed,0,0
+2020-02-24 06:00:00,Chipping Barnet,closed,0,0
+2020-02-24 06:00:00,Colindale,closed,3,2
+2020-02-24 06:00:00,Edgware,closed,0,0
+2020-02-24 06:00:00,Golders Green,closed,0,0
+2020-02-24 06:00:00,North Finchley,closed,0,0
+2020-02-24 06:00:00,Osidge,closed,0,0
+2020-02-24 07:00:00,Chipping Barnet,SSO,0,0
+2020-02-24 07:00:00,Colindale,SSO,0,0
+2020-02-24 07:00:00,Edgware,SSO,2,4
+2020-02-24 07:00:00,Golders Green,closed,0,0
+2020-02-24 07:00:00,North Finchley,closed,0,0
+2020-02-24 07:00:00,Osidge,closed,6,1
+2020-02-24 08:00:00,Chipping Barnet,SSO,0,0
+2020-02-24 08:00:00,Colindale,SSO,9,8
+2020-02-24 08:00:00,Edgware,SSO,6,6
+2020-02-24 08:00:00,Golders Green,SSO,3,2
+2020-02-24 08:00:00,North Finchley,SSO,2,4
+2020-02-24 08:00:00,Osidge,SSO,7,2
+2020-02-24 09:00:00,Chipping Barnet,SSO,0,0
+2020-02-24 09:00:00,Colindale,SSO,5,7
+2020-02-24 09:00:00,Edgware,staffed,39,9
+2020-02-24 09:00:00,Golders Green,SSO,3,4
+2020-02-24 09:00:00,North Finchley,SSO,3,5
+2020-02-24 09:00:00,Osidge,SSO,4,3
+2020-02-24 10:00:00,Chipping Barnet,SSO,0,0
+2020-02-24 10:00:00,Colindale,SSO,6,9
+2020-02-24 10:00:00,Edgware,staffed,43,71
+2020-02-24 10:00:00,Golders Green,SSO,1,2
+2020-02-24 10:00:00,North Finchley,SSO,11,9
+2020-02-24 10:00:00,Osidge,SSO,11,12
+2020-02-24 11:00:00,Chipping Barnet,SSO,0,0
+2020-02-24 11:00:00,Colindale,SSO,11,6
+2020-02-24 11:00:00,Edgware,staffed,31,48
+2020-02-24 11:00:00,Golders Green,SSO,12,8
+2020-02-24 11:00:00,North Finchley,SSO,15,12
+2020-02-24 11:00:00,Osidge,SSO,10,6
+2020-02-24 12:00:00,Chipping Barnet,SSO,0,0
+2020-02-24 12:00:00,Colindale,SSO,18,17
+2020-02-24 12:00:00,Edgware,SSO,19,42
+2020-02-24 12:00:00,Golders Green,SSO,15,14
+2020-02-24 12:00:00,North Finchley,SSO,15,11
+2020-02-24 12:00:00,Osidge,SSO,16,22
+2020-02-24 13:00:00,Chipping Barnet,SSO,0,0
+2020-02-24 13:00:00,Colindale,SSO,15,10
+2020-02-24 13:00:00,Edgware,SSO,20,29
+2020-02-24 13:00:00,Golders Green,SSO,11,21
+2020-02-24 13:00:00,North Finchley,SSO,17,8
+2020-02-24 13:00:00,Osidge,SSO,10,11
+2020-02-24 14:00:00,Chipping Barnet,SSO,0,0
+2020-02-24 14:00:00,Colindale,SSO,14,6
+2020-02-24 14:00:00,Edgware,SSO,22,24
+2020-02-24 14:00:00,Golders Green,SSO,24,24
+2020-02-24 14:00:00,North Finchley,SSO,15,12
+2020-02-24 14:00:00,Osidge,SSO,10,14
+2020-02-24 15:00:00,Chipping Barnet,SSO,0,0
+2020-02-24 15:00:00,Colindale,SSO,20,22
+2020-02-24 15:00:00,Edgware,SSO,52,34
+2020-02-24 15:00:00,Golders Green,SSO,22,17
+2020-02-24 15:00:00,North Finchley,SSO,29,22
+2020-02-24 15:00:00,Osidge,SSO,29,53
+2020-02-24 16:00:00,Chipping Barnet,SSO,0,0
+2020-02-24 16:00:00,Colindale,SSO,30,26
+2020-02-24 16:00:00,Edgware,SSO,68,86
+2020-02-24 16:00:00,Golders Green,SSO,16,25
+2020-02-24 16:00:00,North Finchley,SSO,16,11
+2020-02-24 16:00:00,Osidge,SSO,10,17
+2020-02-24 17:00:00,Chipping Barnet,SSO,0,0
+2020-02-24 17:00:00,Colindale,SSO,47,19
+2020-02-24 17:00:00,Edgware,SSO,29,66
+2020-02-24 17:00:00,Golders Green,SSO,9,14
+2020-02-24 17:00:00,North Finchley,SSO,18,21
+2020-02-24 17:00:00,Osidge,SSO,6,10
+2020-02-24 18:00:00,Chipping Barnet,SSO,0,0
+2020-02-24 18:00:00,Colindale,SSO,22,16
+2020-02-24 18:00:00,Edgware,SSO,27,42
+2020-02-24 18:00:00,Golders Green,SSO,9,9
+2020-02-24 18:00:00,North Finchley,SSO,45,43
+2020-02-24 18:00:00,Osidge,SSO,4,7
+2020-02-24 19:00:00,Chipping Barnet,SSO,0,0
+2020-02-24 19:00:00,Colindale,SSO,18,8
+2020-02-24 19:00:00,Edgware,SSO,18,30
+2020-02-24 19:00:00,Golders Green,SSO,2,8
+2020-02-24 19:00:00,North Finchley,SSO,40,42
+2020-02-24 19:00:00,Osidge,SSO,4,10
+2020-02-24 20:00:00,Chipping Barnet,SSO,0,0
+2020-02-24 20:00:00,Colindale,SSO,11,5
+2020-02-24 20:00:00,Edgware,SSO,12,28
+2020-02-24 20:00:00,Golders Green,closed,1,3
+2020-02-24 20:00:00,North Finchley,closed,6,1
+2020-02-24 20:00:00,Osidge,closed,0,0
+2020-02-24 21:00:00,Chipping Barnet,SSO,0,0
+2020-02-24 21:00:00,Colindale,SSO,11,2
+2020-02-24 21:00:00,Edgware,SSO,7,20
+2020-02-24 21:00:00,Golders Green,closed,0,0
+2020-02-24 21:00:00,North Finchley,closed,0,0
+2020-02-24 21:00:00,Osidge,closed,0,0
+2020-02-24 22:00:00,Chipping Barnet,closed,0,0
+2020-02-24 22:00:00,Colindale,closed,0,0
+2020-02-24 22:00:00,Edgware,closed,4,33
+2020-02-24 22:00:00,Golders Green,closed,0,0
+2020-02-24 22:00:00,North Finchley,closed,0,0
+2020-02-24 22:00:00,Osidge,closed,0,0
+2020-02-24 23:00:00,Chipping Barnet,closed,0,0
+2020-02-24 23:00:00,Colindale,closed,0,0
+2020-02-24 23:00:00,Edgware,closed,0,0
+2020-02-24 23:00:00,Golders Green,closed,0,0
+2020-02-24 23:00:00,North Finchley,closed,0,0
+2020-02-24 23:00:00,Osidge,closed,0,0
+2020-02-25 00:00:00,Chipping Barnet,closed,0,0
+2020-02-25 00:00:00,Colindale,closed,0,0
+2020-02-25 00:00:00,Edgware,closed,0,0
+2020-02-25 00:00:00,Golders Green,closed,0,0
+2020-02-25 00:00:00,North Finchley,closed,0,0
+2020-02-25 00:00:00,Osidge,closed,0,0
+2020-02-25 01:00:00,Chipping Barnet,closed,0,0
+2020-02-25 01:00:00,Colindale,closed,0,0
+2020-02-25 01:00:00,Edgware,closed,0,0
+2020-02-25 01:00:00,Golders Green,closed,0,0
+2020-02-25 01:00:00,North Finchley,closed,0,0
+2020-02-25 01:00:00,Osidge,closed,0,0
+2020-02-25 02:00:00,Chipping Barnet,closed,0,0
+2020-02-25 02:00:00,Colindale,closed,0,0
+2020-02-25 02:00:00,Edgware,closed,0,0
+2020-02-25 02:00:00,Golders Green,closed,0,0
+2020-02-25 02:00:00,North Finchley,closed,0,0
+2020-02-25 02:00:00,Osidge,closed,0,0
+2020-02-25 03:00:00,Chipping Barnet,closed,0,0
+2020-02-25 03:00:00,Colindale,closed,0,0
+2020-02-25 03:00:00,Edgware,closed,0,0
+2020-02-25 03:00:00,Golders Green,closed,0,0
+2020-02-25 03:00:00,North Finchley,closed,0,0
+2020-02-25 03:00:00,Osidge,closed,0,0
+2020-02-25 04:00:00,Chipping Barnet,closed,0,0
+2020-02-25 04:00:00,Colindale,closed,0,0
+2020-02-25 04:00:00,Edgware,closed,0,0
+2020-02-25 04:00:00,Golders Green,closed,0,0
+2020-02-25 04:00:00,North Finchley,closed,0,0
+2020-02-25 04:00:00,Osidge,closed,0,0
+2020-02-25 05:00:00,Chipping Barnet,closed,0,0
+2020-02-25 05:00:00,Colindale,closed,0,0
+2020-02-25 05:00:00,Edgware,closed,0,0
+2020-02-25 05:00:00,Golders Green,closed,0,0
+2020-02-25 05:00:00,North Finchley,closed,0,0
+2020-02-25 05:00:00,Osidge,closed,0,0
+2020-02-25 06:00:00,Chipping Barnet,closed,0,0
+2020-02-25 06:00:00,Colindale,closed,2,2
+2020-02-25 06:00:00,Edgware,closed,0,0
+2020-02-25 06:00:00,Golders Green,closed,0,0
+2020-02-25 06:00:00,North Finchley,closed,0,0
+2020-02-25 06:00:00,Osidge,closed,0,0
+2020-02-25 07:00:00,Chipping Barnet,SSO,0,0
+2020-02-25 07:00:00,Colindale,SSO,0,0
+2020-02-25 07:00:00,Edgware,SSO,0,0
+2020-02-25 07:00:00,Golders Green,closed,0,0
+2020-02-25 07:00:00,North Finchley,closed,0,0
+2020-02-25 07:00:00,Osidge,closed,1,1
+2020-02-25 08:00:00,Chipping Barnet,SSO,0,0
+2020-02-25 08:00:00,Colindale,SSO,13,4
+2020-02-25 08:00:00,Edgware,SSO,8,6
+2020-02-25 08:00:00,Golders Green,SSO,2,1
+2020-02-25 08:00:00,North Finchley,SSO,3,3
+2020-02-25 08:00:00,Osidge,SSO,10,7
+2020-02-25 09:00:00,Chipping Barnet,staffed,0,0
+2020-02-25 09:00:00,Colindale,SSO,16,15
+2020-02-25 09:00:00,Edgware,SSO,16,14
+2020-02-25 09:00:00,Golders Green,SSO,7,6
+2020-02-25 09:00:00,North Finchley,SSO,4,5
+2020-02-25 09:00:00,Osidge,SSO,4,4
+2020-02-25 10:00:00,Chipping Barnet,staffed,0,0
+2020-02-25 10:00:00,Colindale,SSO,12,17
+2020-02-25 10:00:00,Edgware,SSO,39,44
+2020-02-25 10:00:00,Golders Green,SSO,6,12
+2020-02-25 10:00:00,North Finchley,SSO,9,6
+2020-02-25 10:00:00,Osidge,SSO,10,4
+2020-02-25 11:00:00,Chipping Barnet,staffed,0,0
+2020-02-25 11:00:00,Colindale,SSO,19,8
+2020-02-25 11:00:00,Edgware,SSO,26,29
+2020-02-25 11:00:00,Golders Green,SSO,10,17
+2020-02-25 11:00:00,North Finchley,SSO,27,23
+2020-02-25 11:00:00,Osidge,SSO,9,4
+2020-02-25 12:00:00,Chipping Barnet,SSO,0,0
+2020-02-25 12:00:00,Colindale,SSO,22,18
+2020-02-25 12:00:00,Edgware,SSO,13,22
+2020-02-25 12:00:00,Golders Green,SSO,4,4
+2020-02-25 12:00:00,North Finchley,SSO,11,6
+2020-02-25 12:00:00,Osidge,SSO,14,21
+2020-02-25 13:00:00,Chipping Barnet,SSO,0,0
+2020-02-25 13:00:00,Colindale,SSO,18,14
+2020-02-25 13:00:00,Edgware,SSO,40,28
+2020-02-25 13:00:00,Golders Green,SSO,16,9
+2020-02-25 13:00:00,North Finchley,SSO,10,17
+2020-02-25 13:00:00,Osidge,SSO,20,18
+2020-02-25 14:00:00,Chipping Barnet,SSO,0,0
+2020-02-25 14:00:00,Colindale,staffed,24,67
+2020-02-25 14:00:00,Edgware,staffed,46,33
+2020-02-25 14:00:00,Golders Green,staffed,22,24
+2020-02-25 14:00:00,North Finchley,staffed,23,22
+2020-02-25 14:00:00,Osidge,staffed,26,34
+2020-02-25 15:00:00,Chipping Barnet,SSO,0,0
+2020-02-25 15:00:00,Colindale,staffed,69,35
+2020-02-25 15:00:00,Edgware,staffed,58,44
+2020-02-25 15:00:00,Golders Green,staffed,13,21
+2020-02-25 15:00:00,North Finchley,staffed,16,14
+2020-02-25 15:00:00,Osidge,staffed,45,32
+2020-02-25 16:00:00,Chipping Barnet,SSO,0,0
+2020-02-25 16:00:00,Colindale,staffed,41,37
+2020-02-25 16:00:00,Edgware,staffed,37,75
+2020-02-25 16:00:00,Golders Green,staffed,23,34
+2020-02-25 16:00:00,North Finchley,staffed,12,11
+2020-02-25 16:00:00,Osidge,staffed,16,31
+2020-02-25 17:00:00,Chipping Barnet,SSO,0,0
+2020-02-25 17:00:00,Colindale,staffed,48,32
+2020-02-25 17:00:00,Edgware,SSO,28,40
+2020-02-25 17:00:00,Golders Green,SSO,6,20
+2020-02-25 17:00:00,North Finchley,staffed,20,19
+2020-02-25 17:00:00,Osidge,staffed,14,13
+2020-02-25 18:00:00,Chipping Barnet,SSO,0,0
+2020-02-25 18:00:00,Colindale,staffed,27,18
+2020-02-25 18:00:00,Edgware,SSO,18,24
+2020-02-25 18:00:00,Golders Green,SSO,1,1
+2020-02-25 18:00:00,North Finchley,staffed,21,18
+2020-02-25 18:00:00,Osidge,staffed,6,11
+2020-02-25 19:00:00,Chipping Barnet,SSO,0,0
+2020-02-25 19:00:00,Colindale,staffed,36,22
+2020-02-25 19:00:00,Edgware,SSO,16,18
+2020-02-25 19:00:00,Golders Green,SSO,0,0
+2020-02-25 19:00:00,North Finchley,staffed,19,14
+2020-02-25 19:00:00,Osidge,staffed,6,10
+2020-02-25 20:00:00,Chipping Barnet,SSO,0,0
+2020-02-25 20:00:00,Colindale,SSO,15,2
+2020-02-25 20:00:00,Edgware,SSO,9,12
+2020-02-25 20:00:00,Golders Green,closed,1,7
+2020-02-25 20:00:00,North Finchley,closed,8,1
+2020-02-25 20:00:00,Osidge,closed,0,0
+2020-02-25 21:00:00,Chipping Barnet,SSO,0,0
+2020-02-25 21:00:00,Colindale,SSO,24,3
+2020-02-25 21:00:00,Edgware,SSO,5,28
+2020-02-25 21:00:00,Golders Green,closed,4,6
+2020-02-25 21:00:00,North Finchley,closed,0,0
+2020-02-25 21:00:00,Osidge,closed,0,0
+2020-02-25 22:00:00,Chipping Barnet,closed,0,0
+2020-02-25 22:00:00,Colindale,closed,0,0
+2020-02-25 22:00:00,Edgware,closed,5,22
+2020-02-25 22:00:00,Golders Green,closed,0,0
+2020-02-25 22:00:00,North Finchley,closed,0,0
+2020-02-25 22:00:00,Osidge,closed,0,0
+2020-02-25 23:00:00,Chipping Barnet,closed,0,0
+2020-02-25 23:00:00,Colindale,closed,0,0
+2020-02-25 23:00:00,Edgware,closed,0,0
+2020-02-25 23:00:00,Golders Green,closed,0,0
+2020-02-25 23:00:00,North Finchley,closed,0,0
+2020-02-25 23:00:00,Osidge,closed,0,0
+2020-02-26 00:00:00,Chipping Barnet,closed,0,0
+2020-02-26 00:00:00,Colindale,closed,0,0
+2020-02-26 00:00:00,Edgware,closed,0,0
+2020-02-26 00:00:00,Golders Green,closed,0,0
+2020-02-26 00:00:00,North Finchley,closed,0,0
+2020-02-26 00:00:00,Osidge,closed,0,0
+2020-02-26 01:00:00,Chipping Barnet,closed,0,0
+2020-02-26 01:00:00,Colindale,closed,0,0
+2020-02-26 01:00:00,Edgware,closed,0,0
+2020-02-26 01:00:00,Golders Green,closed,0,0
+2020-02-26 01:00:00,North Finchley,closed,0,0
+2020-02-26 01:00:00,Osidge,closed,0,0
+2020-02-26 02:00:00,Chipping Barnet,closed,0,0
+2020-02-26 02:00:00,Colindale,closed,0,0
+2020-02-26 02:00:00,Edgware,closed,0,0
+2020-02-26 02:00:00,Golders Green,closed,0,0
+2020-02-26 02:00:00,North Finchley,closed,0,0
+2020-02-26 02:00:00,Osidge,closed,0,0
+2020-02-26 03:00:00,Chipping Barnet,closed,0,0
+2020-02-26 03:00:00,Colindale,closed,0,0
+2020-02-26 03:00:00,Edgware,closed,0,0
+2020-02-26 03:00:00,Golders Green,closed,0,0
+2020-02-26 03:00:00,North Finchley,closed,0,0
+2020-02-26 03:00:00,Osidge,closed,0,0
+2020-02-26 04:00:00,Chipping Barnet,closed,0,0
+2020-02-26 04:00:00,Colindale,closed,0,0
+2020-02-26 04:00:00,Edgware,closed,0,0
+2020-02-26 04:00:00,Golders Green,closed,0,0
+2020-02-26 04:00:00,North Finchley,closed,0,0
+2020-02-26 04:00:00,Osidge,closed,0,0
+2020-02-26 05:00:00,Chipping Barnet,closed,0,0
+2020-02-26 05:00:00,Colindale,closed,1,1
+2020-02-26 05:00:00,Edgware,closed,0,0
+2020-02-26 05:00:00,Golders Green,closed,0,0
+2020-02-26 05:00:00,North Finchley,closed,0,0
+2020-02-26 05:00:00,Osidge,closed,0,0
+2020-02-26 06:00:00,Chipping Barnet,closed,0,0
+2020-02-26 06:00:00,Colindale,closed,0,0
+2020-02-26 06:00:00,Edgware,closed,0,0
+2020-02-26 06:00:00,Golders Green,closed,0,0
+2020-02-26 06:00:00,North Finchley,closed,0,0
+2020-02-26 06:00:00,Osidge,closed,0,0
+2020-02-26 07:00:00,Chipping Barnet,SSO,0,0
+2020-02-26 07:00:00,Colindale,SSO,1,1
+2020-02-26 07:00:00,Edgware,SSO,6,5
+2020-02-26 07:00:00,Golders Green,closed,0,0
+2020-02-26 07:00:00,North Finchley,closed,0,0
+2020-02-26 07:00:00,Osidge,closed,0,0
+2020-02-26 08:00:00,Chipping Barnet,SSO,0,0
+2020-02-26 08:00:00,Colindale,SSO,17,12
+2020-02-26 08:00:00,Edgware,SSO,2,5
+2020-02-26 08:00:00,Golders Green,SSO,1,2
+2020-02-26 08:00:00,North Finchley,SSO,2,4
+2020-02-26 08:00:00,Osidge,SSO,10,8
+2020-02-26 09:00:00,Chipping Barnet,SSO,0,0
+2020-02-26 09:00:00,Colindale,SSO,12,32
+2020-02-26 09:00:00,Edgware,SSO,14,6
+2020-02-26 09:00:00,Golders Green,SSO,4,1
+2020-02-26 09:00:00,North Finchley,SSO,5,7
+2020-02-26 09:00:00,Osidge,staffed,17,7
+2020-02-26 10:00:00,Chipping Barnet,SSO,0,0
+2020-02-26 10:00:00,Colindale,SSO,52,18
+2020-02-26 10:00:00,Edgware,SSO,21,24
+2020-02-26 10:00:00,Golders Green,SSO,3,7
+2020-02-26 10:00:00,North Finchley,SSO,14,13
+2020-02-26 10:00:00,Osidge,staffed,28,28
+2020-02-26 11:00:00,Chipping Barnet,SSO,0,0
+2020-02-26 11:00:00,Colindale,SSO,48,66
+2020-02-26 11:00:00,Edgware,SSO,22,17
+2020-02-26 11:00:00,Golders Green,SSO,2,7
+2020-02-26 11:00:00,North Finchley,SSO,11,7
+2020-02-26 11:00:00,Osidge,staffed,18,24
+2020-02-26 12:00:00,Chipping Barnet,SSO,0,0
+2020-02-26 12:00:00,Colindale,SSO,86,18
+2020-02-26 12:00:00,Edgware,SSO,35,25
+2020-02-26 12:00:00,Golders Green,SSO,9,7
+2020-02-26 12:00:00,North Finchley,SSO,10,8
+2020-02-26 12:00:00,Osidge,SSO,17,20
+2020-02-26 13:00:00,Chipping Barnet,SSO,0,0
+2020-02-26 13:00:00,Colindale,SSO,27,15
+2020-02-26 13:00:00,Edgware,SSO,29,44
+2020-02-26 13:00:00,Golders Green,SSO,1,6
+2020-02-26 13:00:00,North Finchley,SSO,12,11
+2020-02-26 13:00:00,Osidge,SSO,8,22
+2020-02-26 14:00:00,Chipping Barnet,staffed,0,0
+2020-02-26 14:00:00,Colindale,staffed,39,38
+2020-02-26 14:00:00,Edgware,SSO,32,47
+2020-02-26 14:00:00,Golders Green,SSO,9,15
+2020-02-26 14:00:00,North Finchley,SSO,16,9
+2020-02-26 14:00:00,Osidge,SSO,19,19
+2020-02-26 15:00:00,Chipping Barnet,staffed,0,0
+2020-02-26 15:00:00,Colindale,staffed,39,23
+2020-02-26 15:00:00,Edgware,SSO,25,40
+2020-02-26 15:00:00,Golders Green,SSO,13,19
+2020-02-26 15:00:00,North Finchley,SSO,17,25
+2020-02-26 15:00:00,Osidge,SSO,35,25
+2020-02-26 16:00:00,Chipping Barnet,staffed,0,0
+2020-02-26 16:00:00,Colindale,staffed,53,33
+2020-02-26 16:00:00,Edgware,SSO,99,84
+2020-02-26 16:00:00,Golders Green,SSO,15,11
+2020-02-26 16:00:00,North Finchley,SSO,31,22
+2020-02-26 16:00:00,Osidge,SSO,16,24
+2020-02-26 17:00:00,Chipping Barnet,staffed,0,0
+2020-02-26 17:00:00,Colindale,SSO,56,36
+2020-02-26 17:00:00,Edgware,SSO,35,69
+2020-02-26 17:00:00,Golders Green,SSO,18,14
+2020-02-26 17:00:00,North Finchley,SSO,60,51
+2020-02-26 17:00:00,Osidge,SSO,14,38
+2020-02-26 18:00:00,Chipping Barnet,staffed,0,0
+2020-02-26 18:00:00,Colindale,SSO,73,34
+2020-02-26 18:00:00,Edgware,SSO,26,42
+2020-02-26 18:00:00,Golders Green,SSO,1,3
+2020-02-26 18:00:00,North Finchley,SSO,43,38
+2020-02-26 18:00:00,Osidge,SSO,7,7
+2020-02-26 19:00:00,Chipping Barnet,staffed,0,0
+2020-02-26 19:00:00,Colindale,SSO,29,15
+2020-02-26 19:00:00,Edgware,SSO,20,34
+2020-02-26 19:00:00,Golders Green,SSO,1,4
+2020-02-26 19:00:00,North Finchley,SSO,46,39
+2020-02-26 19:00:00,Osidge,SSO,5,10
+2020-02-26 20:00:00,Chipping Barnet,SSO,0,0
+2020-02-26 20:00:00,Colindale,SSO,15,3
+2020-02-26 20:00:00,Edgware,SSO,5,21
+2020-02-26 20:00:00,Golders Green,closed,3,8
+2020-02-26 20:00:00,North Finchley,closed,23,17
+2020-02-26 20:00:00,Osidge,closed,0,0
+2020-02-26 21:00:00,Chipping Barnet,SSO,0,0
+2020-02-26 21:00:00,Colindale,SSO,22,3
+2020-02-26 21:00:00,Edgware,SSO,5,32
+2020-02-26 21:00:00,Golders Green,closed,1,3
+2020-02-26 21:00:00,North Finchley,closed,18,7
+2020-02-26 21:00:00,Osidge,closed,0,0
+2020-02-26 22:00:00,Chipping Barnet,closed,0,0
+2020-02-26 22:00:00,Colindale,closed,0,0
+2020-02-26 22:00:00,Edgware,closed,2,9
+2020-02-26 22:00:00,Golders Green,closed,0,0
+2020-02-26 22:00:00,North Finchley,closed,0,0
+2020-02-26 22:00:00,Osidge,closed,0,0
+2020-02-26 23:00:00,Chipping Barnet,closed,0,0
+2020-02-26 23:00:00,Colindale,closed,0,0
+2020-02-26 23:00:00,Edgware,closed,0,0
+2020-02-26 23:00:00,Golders Green,closed,0,0
+2020-02-26 23:00:00,North Finchley,closed,0,0
+2020-02-26 23:00:00,Osidge,closed,0,0
+2020-02-27 00:00:00,Chipping Barnet,closed,0,0
+2020-02-27 00:00:00,Colindale,closed,0,0
+2020-02-27 00:00:00,Edgware,closed,0,0
+2020-02-27 00:00:00,Golders Green,closed,0,0
+2020-02-27 00:00:00,North Finchley,closed,0,0
+2020-02-27 00:00:00,Osidge,closed,0,0
+2020-02-27 01:00:00,Chipping Barnet,closed,0,0
+2020-02-27 01:00:00,Colindale,closed,0,0
+2020-02-27 01:00:00,Edgware,closed,0,0
+2020-02-27 01:00:00,Golders Green,closed,0,0
+2020-02-27 01:00:00,North Finchley,closed,0,0
+2020-02-27 01:00:00,Osidge,closed,0,0
+2020-02-27 02:00:00,Chipping Barnet,closed,0,0
+2020-02-27 02:00:00,Colindale,closed,0,0
+2020-02-27 02:00:00,Edgware,closed,0,0
+2020-02-27 02:00:00,Golders Green,closed,0,0
+2020-02-27 02:00:00,North Finchley,closed,0,0
+2020-02-27 02:00:00,Osidge,closed,0,0
+2020-02-27 03:00:00,Chipping Barnet,closed,0,0
+2020-02-27 03:00:00,Colindale,closed,0,0
+2020-02-27 03:00:00,Edgware,closed,0,0
+2020-02-27 03:00:00,Golders Green,closed,0,0
+2020-02-27 03:00:00,North Finchley,closed,0,0
+2020-02-27 03:00:00,Osidge,closed,0,0
+2020-02-27 04:00:00,Chipping Barnet,closed,0,0
+2020-02-27 04:00:00,Colindale,closed,0,0
+2020-02-27 04:00:00,Edgware,closed,0,0
+2020-02-27 04:00:00,Golders Green,closed,0,0
+2020-02-27 04:00:00,North Finchley,closed,0,0
+2020-02-27 04:00:00,Osidge,closed,0,0
+2020-02-27 05:00:00,Chipping Barnet,closed,0,0
+2020-02-27 05:00:00,Colindale,closed,0,0
+2020-02-27 05:00:00,Edgware,closed,0,0
+2020-02-27 05:00:00,Golders Green,closed,0,0
+2020-02-27 05:00:00,North Finchley,closed,0,0
+2020-02-27 05:00:00,Osidge,closed,0,0
+2020-02-27 06:00:00,Chipping Barnet,closed,0,0
+2020-02-27 06:00:00,Colindale,closed,3,3
+2020-02-27 06:00:00,Edgware,closed,0,0
+2020-02-27 06:00:00,Golders Green,closed,0,0
+2020-02-27 06:00:00,North Finchley,closed,0,0
+2020-02-27 06:00:00,Osidge,closed,0,0
+2020-02-27 07:00:00,Chipping Barnet,SSO,0,0
+2020-02-27 07:00:00,Colindale,SSO,0,0
+2020-02-27 07:00:00,Edgware,SSO,5,1
+2020-02-27 07:00:00,Golders Green,closed,0,0
+2020-02-27 07:00:00,North Finchley,closed,0,0
+2020-02-27 07:00:00,Osidge,closed,0,0
+2020-02-27 08:00:00,Chipping Barnet,SSO,0,0
+2020-02-27 08:00:00,Colindale,SSO,13,9
+2020-02-27 08:00:00,Edgware,SSO,9,7
+2020-02-27 08:00:00,Golders Green,SSO,0,0
+2020-02-27 08:00:00,North Finchley,SSO,2,7
+2020-02-27 08:00:00,Osidge,SSO,6,7
+2020-02-27 09:00:00,Chipping Barnet,SSO,0,0
+2020-02-27 09:00:00,Colindale,staffed,11,22
+2020-02-27 09:00:00,Edgware,SSO,30,10
+2020-02-27 09:00:00,Golders Green,SSO,4,1
+2020-02-27 09:00:00,North Finchley,staffed,15,21
+2020-02-27 09:00:00,Osidge,SSO,0,0
+2020-02-27 10:00:00,Chipping Barnet,SSO,0,0
+2020-02-27 10:00:00,Colindale,staffed,34,23
+2020-02-27 10:00:00,Edgware,SSO,22,33
+2020-02-27 10:00:00,Golders Green,SSO,5,11
+2020-02-27 10:00:00,North Finchley,staffed,29,30
+2020-02-27 10:00:00,Osidge,SSO,11,13
+2020-02-27 11:00:00,Chipping Barnet,SSO,0,0
+2020-02-27 11:00:00,Colindale,staffed,32,26
+2020-02-27 11:00:00,Edgware,SSO,29,39
+2020-02-27 11:00:00,Golders Green,SSO,6,6
+2020-02-27 11:00:00,North Finchley,staffed,26,14
+2020-02-27 11:00:00,Osidge,SSO,14,14
+2020-02-27 12:00:00,Chipping Barnet,SSO,0,0
+2020-02-27 12:00:00,Colindale,SSO,65,23
+2020-02-27 12:00:00,Edgware,SSO,8,29
+2020-02-27 12:00:00,Golders Green,SSO,9,7
+2020-02-27 12:00:00,North Finchley,SSO,17,11
+2020-02-27 12:00:00,Osidge,SSO,5,15
+2020-02-27 13:00:00,Chipping Barnet,SSO,0,0
+2020-02-27 13:00:00,Colindale,SSO,35,20
+2020-02-27 13:00:00,Edgware,SSO,36,28
+2020-02-27 13:00:00,Golders Green,SSO,6,10
+2020-02-27 13:00:00,North Finchley,SSO,12,12
+2020-02-27 13:00:00,Osidge,SSO,18,6
+2020-02-27 14:00:00,Chipping Barnet,SSO,0,0
+2020-02-27 14:00:00,Colindale,SSO,22,13
+2020-02-27 14:00:00,Edgware,staffed,55,40
+2020-02-27 14:00:00,Golders Green,staffed,9,17
+2020-02-27 14:00:00,North Finchley,SSO,28,20
+2020-02-27 14:00:00,Osidge,staffed,55,24
+2020-02-27 15:00:00,Chipping Barnet,SSO,0,0
+2020-02-27 15:00:00,Colindale,SSO,15,5
+2020-02-27 15:00:00,Edgware,staffed,38,58
+2020-02-27 15:00:00,Golders Green,staffed,8,13
+2020-02-27 15:00:00,North Finchley,SSO,16,15
+2020-02-27 15:00:00,Osidge,staffed,26,56
+2020-02-27 16:00:00,Chipping Barnet,SSO,0,0
+2020-02-27 16:00:00,Colindale,SSO,31,16
+2020-02-27 16:00:00,Edgware,staffed,46,61
+2020-02-27 16:00:00,Golders Green,staffed,2,4
+2020-02-27 16:00:00,North Finchley,SSO,37,24
+2020-02-27 16:00:00,Osidge,staffed,18,22
+2020-02-27 17:00:00,Chipping Barnet,SSO,0,0
+2020-02-27 17:00:00,Colindale,SSO,31,20
+2020-02-27 17:00:00,Edgware,staffed,56,43
+2020-02-27 17:00:00,Golders Green,staffed,7,22
+2020-02-27 17:00:00,North Finchley,SSO,19,17
+2020-02-27 17:00:00,Osidge,SSO,10,30
+2020-02-27 18:00:00,Chipping Barnet,SSO,0,0
+2020-02-27 18:00:00,Colindale,SSO,39,13
+2020-02-27 18:00:00,Edgware,staffed,45,68
+2020-02-27 18:00:00,Golders Green,staffed,9,12
+2020-02-27 18:00:00,North Finchley,SSO,9,8
+2020-02-27 18:00:00,Osidge,SSO,0,0
+2020-02-27 19:00:00,Chipping Barnet,SSO,0,0
+2020-02-27 19:00:00,Colindale,SSO,39,13
+2020-02-27 19:00:00,Edgware,staffed,20,22
+2020-02-27 19:00:00,Golders Green,staffed,3,12
+2020-02-27 19:00:00,North Finchley,SSO,21,17
+2020-02-27 19:00:00,Osidge,SSO,3,8
+2020-02-27 20:00:00,Chipping Barnet,SSO,0,0
+2020-02-27 20:00:00,Colindale,SSO,17,8
+2020-02-27 20:00:00,Edgware,SSO,9,28
+2020-02-27 20:00:00,Golders Green,closed,2,15
+2020-02-27 20:00:00,North Finchley,closed,0,0
+2020-02-27 20:00:00,Osidge,closed,5,22
+2020-02-27 21:00:00,Chipping Barnet,SSO,0,0
+2020-02-27 21:00:00,Colindale,SSO,11,4
+2020-02-27 21:00:00,Edgware,SSO,4,10
+2020-02-27 21:00:00,Golders Green,closed,0,0
+2020-02-27 21:00:00,North Finchley,closed,0,0
+2020-02-27 21:00:00,Osidge,closed,0,0
+2020-02-27 22:00:00,Chipping Barnet,closed,0,0
+2020-02-27 22:00:00,Colindale,closed,0,0
+2020-02-27 22:00:00,Edgware,closed,6,20
+2020-02-27 22:00:00,Golders Green,closed,0,0
+2020-02-27 22:00:00,North Finchley,closed,0,0
+2020-02-27 22:00:00,Osidge,closed,0,0
+2020-02-27 23:00:00,Chipping Barnet,closed,0,0
+2020-02-27 23:00:00,Colindale,closed,0,0
+2020-02-27 23:00:00,Edgware,closed,0,0
+2020-02-27 23:00:00,Golders Green,closed,0,0
+2020-02-27 23:00:00,North Finchley,closed,0,0
+2020-02-27 23:00:00,Osidge,closed,0,0
+2020-02-28 00:00:00,Chipping Barnet,closed,0,0
+2020-02-28 00:00:00,Colindale,closed,0,0
+2020-02-28 00:00:00,Edgware,closed,0,0
+2020-02-28 00:00:00,Golders Green,closed,0,0
+2020-02-28 00:00:00,North Finchley,closed,0,0
+2020-02-28 00:00:00,Osidge,closed,0,0
+2020-02-28 01:00:00,Chipping Barnet,closed,0,0
+2020-02-28 01:00:00,Colindale,closed,0,0
+2020-02-28 01:00:00,Edgware,closed,0,0
+2020-02-28 01:00:00,Golders Green,closed,0,0
+2020-02-28 01:00:00,North Finchley,closed,0,0
+2020-02-28 01:00:00,Osidge,closed,0,0
+2020-02-28 02:00:00,Chipping Barnet,closed,0,0
+2020-02-28 02:00:00,Colindale,closed,0,0
+2020-02-28 02:00:00,Edgware,closed,0,0
+2020-02-28 02:00:00,Golders Green,closed,0,0
+2020-02-28 02:00:00,North Finchley,closed,0,0
+2020-02-28 02:00:00,Osidge,closed,0,0
+2020-02-28 03:00:00,Chipping Barnet,closed,0,0
+2020-02-28 03:00:00,Colindale,closed,0,0
+2020-02-28 03:00:00,Edgware,closed,0,0
+2020-02-28 03:00:00,Golders Green,closed,0,0
+2020-02-28 03:00:00,North Finchley,closed,0,0
+2020-02-28 03:00:00,Osidge,closed,0,0
+2020-02-28 04:00:00,Chipping Barnet,closed,0,0
+2020-02-28 04:00:00,Colindale,closed,0,0
+2020-02-28 04:00:00,Edgware,closed,0,0
+2020-02-28 04:00:00,Golders Green,closed,0,0
+2020-02-28 04:00:00,North Finchley,closed,0,0
+2020-02-28 04:00:00,Osidge,closed,0,0
+2020-02-28 05:00:00,Chipping Barnet,closed,0,0
+2020-02-28 05:00:00,Colindale,closed,1,1
+2020-02-28 05:00:00,Edgware,closed,0,0
+2020-02-28 05:00:00,Golders Green,closed,0,0
+2020-02-28 05:00:00,North Finchley,closed,0,0
+2020-02-28 05:00:00,Osidge,closed,0,0
+2020-02-28 06:00:00,Chipping Barnet,closed,0,0
+2020-02-28 06:00:00,Colindale,closed,1,1
+2020-02-28 06:00:00,Edgware,closed,0,0
+2020-02-28 06:00:00,Golders Green,closed,0,0
+2020-02-28 06:00:00,North Finchley,closed,0,0
+2020-02-28 06:00:00,Osidge,closed,0,0
+2020-02-28 07:00:00,Chipping Barnet,SSO,0,0
+2020-02-28 07:00:00,Colindale,SSO,3,9
+2020-02-28 07:00:00,Edgware,SSO,2,1
+2020-02-28 07:00:00,Golders Green,closed,0,0
+2020-02-28 07:00:00,North Finchley,closed,0,0
+2020-02-28 07:00:00,Osidge,closed,0,0
+2020-02-28 08:00:00,Chipping Barnet,SSO,0,0
+2020-02-28 08:00:00,Colindale,SSO,3,5
+2020-02-28 08:00:00,Edgware,SSO,12,7
+2020-02-28 08:00:00,Golders Green,SSO,4,2
+2020-02-28 08:00:00,North Finchley,SSO,7,7
+2020-02-28 08:00:00,Osidge,SSO,7,6
+2020-02-28 09:00:00,Chipping Barnet,SSO,0,0
+2020-02-28 09:00:00,Colindale,SSO,20,14
+2020-02-28 09:00:00,Edgware,SSO,9,22
+2020-02-28 09:00:00,Golders Green,staffed,12,12
+2020-02-28 09:00:00,North Finchley,SSO,14,12
+2020-02-28 09:00:00,Osidge,SSO,1,2
+2020-02-28 10:00:00,Chipping Barnet,SSO,0,0
+2020-02-28 10:00:00,Colindale,SSO,9,5
+2020-02-28 10:00:00,Edgware,SSO,15,17
+2020-02-28 10:00:00,Golders Green,staffed,21,18
+2020-02-28 10:00:00,North Finchley,SSO,18,8
+2020-02-28 10:00:00,Osidge,SSO,4,5
+2020-02-28 11:00:00,Chipping Barnet,SSO,0,0
+2020-02-28 11:00:00,Colindale,SSO,15,11
+2020-02-28 11:00:00,Edgware,SSO,31,15
+2020-02-28 11:00:00,Golders Green,staffed,18,34
+2020-02-28 11:00:00,North Finchley,SSO,12,9
+2020-02-28 11:00:00,Osidge,SSO,0,0
+2020-02-28 12:00:00,Chipping Barnet,SSO,0,0
+2020-02-28 12:00:00,Colindale,SSO,19,5
+2020-02-28 12:00:00,Edgware,SSO,15,26
+2020-02-28 12:00:00,Golders Green,SSO,7,18
+2020-02-28 12:00:00,North Finchley,SSO,8,9
+2020-02-28 12:00:00,Osidge,SSO,10,10
+2020-02-28 13:00:00,Chipping Barnet,SSO,0,0
+2020-02-28 13:00:00,Colindale,SSO,15,12
+2020-02-28 13:00:00,Edgware,SSO,20,25
+2020-02-28 13:00:00,Golders Green,SSO,4,6
+2020-02-28 13:00:00,North Finchley,SSO,18,15
+2020-02-28 13:00:00,Osidge,SSO,5,6
+2020-02-28 14:00:00,Chipping Barnet,staffed,39,46
+2020-02-28 14:00:00,Colindale,SSO,15,6
+2020-02-28 14:00:00,Edgware,SSO,44,51
+2020-02-28 14:00:00,Golders Green,SSO,15,29
+2020-02-28 14:00:00,North Finchley,staffed,21,18
+2020-02-28 14:00:00,Osidge,SSO,18,22
+2020-02-28 15:00:00,Chipping Barnet,staffed,35,41
+2020-02-28 15:00:00,Colindale,SSO,15,11
+2020-02-28 15:00:00,Edgware,SSO,13,15
+2020-02-28 15:00:00,Golders Green,SSO,10,17
+2020-02-28 15:00:00,North Finchley,staffed,14,18
+2020-02-28 15:00:00,Osidge,SSO,56,43
+2020-02-28 16:00:00,Chipping Barnet,staffed,28,39
+2020-02-28 16:00:00,Colindale,SSO,13,7
+2020-02-28 16:00:00,Edgware,SSO,20,20
+2020-02-28 16:00:00,Golders Green,SSO,3,6
+2020-02-28 16:00:00,North Finchley,staffed,28,19
+2020-02-28 16:00:00,Osidge,SSO,28,46
+2020-02-28 17:00:00,Chipping Barnet,SSO,33,46
+2020-02-28 17:00:00,Colindale,SSO,13,13
+2020-02-28 17:00:00,Edgware,SSO,22,20
+2020-02-28 17:00:00,Golders Green,SSO,2,7
+2020-02-28 17:00:00,North Finchley,SSO,22,11
+2020-02-28 17:00:00,Osidge,SSO,30,66
+2020-02-28 18:00:00,Chipping Barnet,SSO,31,21
+2020-02-28 18:00:00,Colindale,SSO,21,7
+2020-02-28 18:00:00,Edgware,SSO,15,16
+2020-02-28 18:00:00,Golders Green,SSO,2,6
+2020-02-28 18:00:00,North Finchley,SSO,12,7
+2020-02-28 18:00:00,Osidge,SSO,3,1
+2020-02-28 19:00:00,Chipping Barnet,SSO,7,9
+2020-02-28 19:00:00,Colindale,SSO,10,3
+2020-02-28 19:00:00,Edgware,SSO,16,26
+2020-02-28 19:00:00,Golders Green,SSO,0,0
+2020-02-28 19:00:00,North Finchley,SSO,15,8
+2020-02-28 19:00:00,Osidge,SSO,1,2
+2020-02-28 20:00:00,Chipping Barnet,SSO,7,10
+2020-02-28 20:00:00,Colindale,SSO,7,3
+2020-02-28 20:00:00,Edgware,SSO,10,18
+2020-02-28 20:00:00,Golders Green,closed,1,3
+2020-02-28 20:00:00,North Finchley,closed,0,0
+2020-02-28 20:00:00,Osidge,closed,0,0
+2020-02-28 21:00:00,Chipping Barnet,SSO,12,9
+2020-02-28 21:00:00,Colindale,SSO,8,3
+2020-02-28 21:00:00,Edgware,SSO,3,4
+2020-02-28 21:00:00,Golders Green,closed,1,1
+2020-02-28 21:00:00,North Finchley,closed,0,0
+2020-02-28 21:00:00,Osidge,closed,0,0
+2020-02-28 22:00:00,Chipping Barnet,closed,2,5
+2020-02-28 22:00:00,Colindale,closed,0,0
+2020-02-28 22:00:00,Edgware,closed,3,19
+2020-02-28 22:00:00,Golders Green,closed,0,0
+2020-02-28 22:00:00,North Finchley,closed,0,0
+2020-02-28 22:00:00,Osidge,closed,0,0
+2020-02-28 23:00:00,Chipping Barnet,closed,0,0
+2020-02-28 23:00:00,Colindale,closed,0,0
+2020-02-28 23:00:00,Edgware,closed,0,0
+2020-02-28 23:00:00,Golders Green,closed,0,0
+2020-02-28 23:00:00,North Finchley,closed,0,0
+2020-02-28 23:00:00,Osidge,closed,0,0
+2020-02-29 00:00:00,Chipping Barnet,closed,0,0
+2020-02-29 00:00:00,Colindale,closed,0,0
+2020-02-29 00:00:00,Edgware,closed,0,0
+2020-02-29 00:00:00,Golders Green,closed,0,0
+2020-02-29 00:00:00,North Finchley,closed,0,0
+2020-02-29 00:00:00,Osidge,closed,0,0
+2020-02-29 01:00:00,Chipping Barnet,closed,0,0
+2020-02-29 01:00:00,Colindale,closed,0,0
+2020-02-29 01:00:00,Edgware,closed,0,0
+2020-02-29 01:00:00,Golders Green,closed,0,0
+2020-02-29 01:00:00,North Finchley,closed,0,0
+2020-02-29 01:00:00,Osidge,closed,0,0
+2020-02-29 02:00:00,Chipping Barnet,closed,0,0
+2020-02-29 02:00:00,Colindale,closed,0,0
+2020-02-29 02:00:00,Edgware,closed,0,0
+2020-02-29 02:00:00,Golders Green,closed,0,0
+2020-02-29 02:00:00,North Finchley,closed,0,0
+2020-02-29 02:00:00,Osidge,closed,0,0
+2020-02-29 03:00:00,Chipping Barnet,closed,0,0
+2020-02-29 03:00:00,Colindale,closed,0,0
+2020-02-29 03:00:00,Edgware,closed,0,0
+2020-02-29 03:00:00,Golders Green,closed,0,0
+2020-02-29 03:00:00,North Finchley,closed,0,0
+2020-02-29 03:00:00,Osidge,closed,0,0
+2020-02-29 04:00:00,Chipping Barnet,closed,0,0
+2020-02-29 04:00:00,Colindale,closed,0,0
+2020-02-29 04:00:00,Edgware,closed,0,0
+2020-02-29 04:00:00,Golders Green,closed,0,0
+2020-02-29 04:00:00,North Finchley,closed,0,0
+2020-02-29 04:00:00,Osidge,closed,0,0
+2020-02-29 05:00:00,Chipping Barnet,closed,0,0
+2020-02-29 05:00:00,Colindale,closed,0,0
+2020-02-29 05:00:00,Edgware,closed,0,0
+2020-02-29 05:00:00,Golders Green,closed,0,0
+2020-02-29 05:00:00,North Finchley,closed,0,0
+2020-02-29 05:00:00,Osidge,closed,0,0
+2020-02-29 06:00:00,Chipping Barnet,closed,0,0
+2020-02-29 06:00:00,Colindale,closed,0,0
+2020-02-29 06:00:00,Edgware,closed,0,0
+2020-02-29 06:00:00,Golders Green,closed,0,0
+2020-02-29 06:00:00,North Finchley,closed,0,0
+2020-02-29 06:00:00,Osidge,closed,0,0
+2020-02-29 07:00:00,Chipping Barnet,SSO,0,0
+2020-02-29 07:00:00,Colindale,SSO,1,1
+2020-02-29 07:00:00,Edgware,SSO,0,0
+2020-02-29 07:00:00,Golders Green,closed,0,0
+2020-02-29 07:00:00,North Finchley,closed,0,0
+2020-02-29 07:00:00,Osidge,closed,0,0
+2020-02-29 08:00:00,Chipping Barnet,SSO,2,9
+2020-02-29 08:00:00,Colindale,SSO,5,11
+2020-02-29 08:00:00,Edgware,SSO,7,1
+2020-02-29 08:00:00,Golders Green,closed,0,0
+2020-02-29 08:00:00,North Finchley,SSO,3,2
+2020-02-29 08:00:00,Osidge,SSO,2,5
+2020-02-29 09:00:00,Chipping Barnet,staffed,25,44
+2020-02-29 09:00:00,Colindale,staffed,12,11
+2020-02-29 09:00:00,Edgware,staffed,21,9
+2020-02-29 09:00:00,Golders Green,closed,0,0
+2020-02-29 09:00:00,North Finchley,SSO,8,14
+2020-02-29 09:00:00,Osidge,SSO,4,6
+2020-02-29 10:00:00,Chipping Barnet,staffed,43,59
+2020-02-29 10:00:00,Colindale,staffed,21,19
+2020-02-29 10:00:00,Edgware,staffed,89,32
+2020-02-29 10:00:00,Golders Green,closed,0,0
+2020-02-29 10:00:00,North Finchley,SSO,25,24
+2020-02-29 10:00:00,Osidge,SSO,10,10
+2020-02-29 11:00:00,Chipping Barnet,staffed,53,68
+2020-02-29 11:00:00,Colindale,staffed,36,20
+2020-02-29 11:00:00,Edgware,staffed,78,99
+2020-02-29 11:00:00,Golders Green,SSO,2,4
+2020-02-29 11:00:00,North Finchley,SSO,33,30
+2020-02-29 11:00:00,Osidge,SSO,14,11
+2020-02-29 12:00:00,Chipping Barnet,staffed,58,80
+2020-02-29 12:00:00,Colindale,staffed,45,36
+2020-02-29 12:00:00,Edgware,staffed,37,97
+2020-02-29 12:00:00,Golders Green,SSO,4,5
+2020-02-29 12:00:00,North Finchley,SSO,31,22
+2020-02-29 12:00:00,Osidge,SSO,14,25
+2020-02-29 13:00:00,Chipping Barnet,staffed,46,54
+2020-02-29 13:00:00,Colindale,staffed,28,12
+2020-02-29 13:00:00,Edgware,staffed,56,55
+2020-02-29 13:00:00,Golders Green,SSO,4,2
+2020-02-29 13:00:00,North Finchley,SSO,43,37
+2020-02-29 13:00:00,Osidge,SSO,17,15
+2020-02-29 14:00:00,Chipping Barnet,staffed,51,79
+2020-02-29 14:00:00,Colindale,staffed,29,34
+2020-02-29 14:00:00,Edgware,staffed,45,45
+2020-02-29 14:00:00,Golders Green,SSO,3,9
+2020-02-29 14:00:00,North Finchley,staffed,33,37
+2020-02-29 14:00:00,Osidge,staffed,19,30
+2020-02-29 15:00:00,Chipping Barnet,staffed,36,21
+2020-02-29 15:00:00,Colindale,staffed,61,29
+2020-02-29 15:00:00,Edgware,staffed,34,46
+2020-02-29 15:00:00,Golders Green,SSO,7,7
+2020-02-29 15:00:00,North Finchley,staffed,24,28
+2020-02-29 15:00:00,Osidge,staffed,16,17
+2020-02-29 16:00:00,Chipping Barnet,staffed,41,12
+2020-02-29 16:00:00,Colindale,staffed,42,16
+2020-02-29 16:00:00,Edgware,staffed,32,41
+2020-02-29 16:00:00,Golders Green,SSO,6,19
+2020-02-29 16:00:00,North Finchley,staffed,62,23
+2020-02-29 16:00:00,Osidge,staffed,39,38
+2020-02-29 17:00:00,Chipping Barnet,closed,16,6
+2020-02-29 17:00:00,Colindale,closed,23,8
+2020-02-29 17:00:00,Edgware,closed,7,33
+2020-02-29 17:00:00,Golders Green,closed,0,0
+2020-02-29 17:00:00,North Finchley,closed,6,2
+2020-02-29 17:00:00,Osidge,closed,0,0
+2020-02-29 18:00:00,Chipping Barnet,closed,0,0
+2020-02-29 18:00:00,Colindale,closed,0,0
+2020-02-29 18:00:00,Edgware,closed,0,0
+2020-02-29 18:00:00,Golders Green,closed,0,0
+2020-02-29 18:00:00,North Finchley,closed,0,0
+2020-02-29 18:00:00,Osidge,closed,0,0
+2020-02-29 19:00:00,Chipping Barnet,closed,0,0
+2020-02-29 19:00:00,Colindale,closed,0,0
+2020-02-29 19:00:00,Edgware,closed,0,0
+2020-02-29 19:00:00,Golders Green,closed,0,0
+2020-02-29 19:00:00,North Finchley,closed,0,0
+2020-02-29 19:00:00,Osidge,closed,0,0
+2020-02-29 20:00:00,Chipping Barnet,closed,0,0
+2020-02-29 20:00:00,Colindale,closed,0,0
+2020-02-29 20:00:00,Edgware,closed,0,0
+2020-02-29 20:00:00,Golders Green,closed,0,0
+2020-02-29 20:00:00,North Finchley,closed,0,0
+2020-02-29 20:00:00,Osidge,closed,0,0
+2020-02-29 21:00:00,Chipping Barnet,closed,0,0
+2020-02-29 21:00:00,Colindale,closed,0,0
+2020-02-29 21:00:00,Edgware,closed,0,0
+2020-02-29 21:00:00,Golders Green,closed,0,0
+2020-02-29 21:00:00,North Finchley,closed,0,0
+2020-02-29 21:00:00,Osidge,closed,0,0
+2020-02-29 22:00:00,Chipping Barnet,closed,0,0
+2020-02-29 22:00:00,Colindale,closed,0,0
+2020-02-29 22:00:00,Edgware,closed,0,0
+2020-02-29 22:00:00,Golders Green,closed,0,0
+2020-02-29 22:00:00,North Finchley,closed,0,0
+2020-02-29 22:00:00,Osidge,closed,0,0
+2020-02-29 23:00:00,Chipping Barnet,closed,0,0
+2020-02-29 23:00:00,Colindale,closed,0,0
+2020-02-29 23:00:00,Edgware,closed,0,0
+2020-02-29 23:00:00,Golders Green,closed,0,0
+2020-02-29 23:00:00,North Finchley,closed,0,0
+2020-02-29 23:00:00,Osidge,closed,0,0
+2020-03-01 00:00:00,Chipping Barnet,closed,0,0
+2020-03-01 00:00:00,Colindale,closed,0,0
+2020-03-01 00:00:00,Edgware,closed,0,0
+2020-03-01 00:00:00,Golders Green,closed,0,0
+2020-03-01 00:00:00,North Finchley,closed,0,0
+2020-03-01 00:00:00,Osidge,closed,0,0
+2020-03-01 01:00:00,Chipping Barnet,closed,0,0
+2020-03-01 01:00:00,Colindale,closed,0,0
+2020-03-01 01:00:00,Edgware,closed,0,0
+2020-03-01 01:00:00,Golders Green,closed,0,0
+2020-03-01 01:00:00,North Finchley,closed,0,0
+2020-03-01 01:00:00,Osidge,closed,0,0
+2020-03-01 02:00:00,Chipping Barnet,closed,0,0
+2020-03-01 02:00:00,Colindale,closed,0,0
+2020-03-01 02:00:00,Edgware,closed,0,0
+2020-03-01 02:00:00,Golders Green,closed,0,0
+2020-03-01 02:00:00,North Finchley,closed,0,0
+2020-03-01 02:00:00,Osidge,closed,0,0
+2020-03-01 03:00:00,Chipping Barnet,closed,0,0
+2020-03-01 03:00:00,Colindale,closed,0,0
+2020-03-01 03:00:00,Edgware,closed,0,0
+2020-03-01 03:00:00,Golders Green,closed,0,0
+2020-03-01 03:00:00,North Finchley,closed,0,0
+2020-03-01 03:00:00,Osidge,closed,0,0
+2020-03-01 04:00:00,Chipping Barnet,closed,0,0
+2020-03-01 04:00:00,Colindale,closed,0,0
+2020-03-01 04:00:00,Edgware,closed,0,0
+2020-03-01 04:00:00,Golders Green,closed,0,0
+2020-03-01 04:00:00,North Finchley,closed,0,0
+2020-03-01 04:00:00,Osidge,closed,0,0
+2020-03-01 05:00:00,Chipping Barnet,closed,0,0
+2020-03-01 05:00:00,Colindale,closed,0,0
+2020-03-01 05:00:00,Edgware,closed,0,0
+2020-03-01 05:00:00,Golders Green,closed,0,0
+2020-03-01 05:00:00,North Finchley,closed,0,0
+2020-03-01 05:00:00,Osidge,closed,0,0
+2020-03-01 06:00:00,Chipping Barnet,closed,0,0
+2020-03-01 06:00:00,Colindale,closed,0,0
+2020-03-01 06:00:00,Edgware,closed,0,0
+2020-03-01 06:00:00,Golders Green,closed,0,0
+2020-03-01 06:00:00,North Finchley,closed,0,0
+2020-03-01 06:00:00,Osidge,closed,0,0
+2020-03-01 07:00:00,Chipping Barnet,closed,0,0
+2020-03-01 07:00:00,Colindale,closed,0,0
+2020-03-01 07:00:00,Edgware,closed,0,0
+2020-03-01 07:00:00,Golders Green,closed,0,0
+2020-03-01 07:00:00,North Finchley,closed,0,0
+2020-03-01 07:00:00,Osidge,closed,0,0
+2020-03-01 08:00:00,Chipping Barnet,closed,0,0
+2020-03-01 08:00:00,Colindale,closed,0,0
+2020-03-01 08:00:00,Edgware,closed,0,0
+2020-03-01 08:00:00,Golders Green,closed,0,0
+2020-03-01 08:00:00,North Finchley,closed,0,0
+2020-03-01 08:00:00,Osidge,closed,0,0
+2020-03-01 09:00:00,Chipping Barnet,closed,0,0
+2020-03-01 09:00:00,Colindale,closed,0,0
+2020-03-01 09:00:00,Edgware,closed,0,0
+2020-03-01 09:00:00,Golders Green,closed,0,0
+2020-03-01 09:00:00,North Finchley,closed,0,0
+2020-03-01 09:00:00,Osidge,closed,0,0
+2020-03-01 10:00:00,Chipping Barnet,SSO,13,43
+2020-03-01 10:00:00,Colindale,SSO,13,18
+2020-03-01 10:00:00,Edgware,SSO,34,22
+2020-03-01 10:00:00,Golders Green,closed,0,0
+2020-03-01 10:00:00,North Finchley,closed,0,0
+2020-03-01 10:00:00,Osidge,closed,0,0
+2020-03-01 11:00:00,Chipping Barnet,SSO,34,40
+2020-03-01 11:00:00,Colindale,SSO,34,19
+2020-03-01 11:00:00,Edgware,SSO,20,20
+2020-03-01 11:00:00,Golders Green,closed,0,0
+2020-03-01 11:00:00,North Finchley,closed,0,0
+2020-03-01 11:00:00,Osidge,closed,0,0
+2020-03-01 12:00:00,Chipping Barnet,SSO,27,31
+2020-03-01 12:00:00,Colindale,SSO,49,29
+2020-03-01 12:00:00,Edgware,SSO,30,39
+2020-03-01 12:00:00,Golders Green,closed,0,0
+2020-03-01 12:00:00,North Finchley,closed,0,0
+2020-03-01 12:00:00,Osidge,closed,0,0
+2020-03-01 13:00:00,Chipping Barnet,SSO,31,39
+2020-03-01 13:00:00,Colindale,SSO,38,40
+2020-03-01 13:00:00,Edgware,SSO,23,18
+2020-03-01 13:00:00,Golders Green,closed,5,6
+2020-03-01 13:00:00,North Finchley,closed,0,0
+2020-03-01 13:00:00,Osidge,closed,0,0
+2020-03-01 14:00:00,Chipping Barnet,staffed,61,85
+2020-03-01 14:00:00,Colindale,staffed,44,49
+2020-03-01 14:00:00,Edgware,staffed,46,54
+2020-03-01 14:00:00,Golders Green,staffed,7,12
+2020-03-01 14:00:00,North Finchley,closed,0,0
+2020-03-01 14:00:00,Osidge,closed,0,0
+2020-03-01 15:00:00,Chipping Barnet,staffed,64,81
+2020-03-01 15:00:00,Colindale,staffed,55,36
+2020-03-01 15:00:00,Edgware,staffed,61,50
+2020-03-01 15:00:00,Golders Green,staffed,17,22
+2020-03-01 15:00:00,North Finchley,closed,0,0
+2020-03-01 15:00:00,Osidge,closed,0,0
+2020-03-01 16:00:00,Chipping Barnet,staffed,71,45
+2020-03-01 16:00:00,Colindale,staffed,62,23
+2020-03-01 16:00:00,Edgware,staffed,40,75
+2020-03-01 16:00:00,Golders Green,staffed,12,38
+2020-03-01 16:00:00,North Finchley,closed,0,0
+2020-03-01 16:00:00,Osidge,closed,0,0
+2020-03-01 17:00:00,Chipping Barnet,closed,26,9
+2020-03-01 17:00:00,Colindale,closed,6,3
+2020-03-01 17:00:00,Edgware,closed,9,37
+2020-03-01 17:00:00,Golders Green,closed,2,3
+2020-03-01 17:00:00,North Finchley,closed,0,0
+2020-03-01 17:00:00,Osidge,closed,0,0
+2020-03-01 18:00:00,Chipping Barnet,closed,2,5
+2020-03-01 18:00:00,Colindale,closed,0,0
+2020-03-01 18:00:00,Edgware,closed,7,10
+2020-03-01 18:00:00,Golders Green,closed,0,0
+2020-03-01 18:00:00,North Finchley,closed,0,0
+2020-03-01 18:00:00,Osidge,closed,0,0
+2020-03-01 19:00:00,Chipping Barnet,closed,5,5
+2020-03-01 19:00:00,Colindale,closed,0,0
+2020-03-01 19:00:00,Edgware,closed,0,0
+2020-03-01 19:00:00,Golders Green,closed,0,0
+2020-03-01 19:00:00,North Finchley,closed,0,0
+2020-03-01 19:00:00,Osidge,closed,0,0
+2020-03-01 20:00:00,Chipping Barnet,closed,0,0
+2020-03-01 20:00:00,Colindale,closed,0,0
+2020-03-01 20:00:00,Edgware,closed,0,0
+2020-03-01 20:00:00,Golders Green,closed,0,0
+2020-03-01 20:00:00,North Finchley,closed,0,0
+2020-03-01 20:00:00,Osidge,closed,0,0
+2020-03-01 21:00:00,Chipping Barnet,closed,0,0
+2020-03-01 21:00:00,Colindale,closed,0,0
+2020-03-01 21:00:00,Edgware,closed,0,0
+2020-03-01 21:00:00,Golders Green,closed,0,0
+2020-03-01 21:00:00,North Finchley,closed,0,0
+2020-03-01 21:00:00,Osidge,closed,0,0
+2020-03-01 22:00:00,Chipping Barnet,closed,0,0
+2020-03-01 22:00:00,Colindale,closed,0,0
+2020-03-01 22:00:00,Edgware,closed,0,0
+2020-03-01 22:00:00,Golders Green,closed,0,0
+2020-03-01 22:00:00,North Finchley,closed,0,0
+2020-03-01 22:00:00,Osidge,closed,0,0
+2020-03-01 23:00:00,Chipping Barnet,closed,0,0
+2020-03-01 23:00:00,Colindale,closed,0,0
+2020-03-01 23:00:00,Edgware,closed,0,0
+2020-03-01 23:00:00,Golders Green,closed,0,0
+2020-03-01 23:00:00,North Finchley,closed,0,0
+2020-03-01 23:00:00,Osidge,closed,0,0
