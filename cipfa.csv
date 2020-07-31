@@ -1,15 +1,15 @@
-library,SSO,staffed
-Burnt Oak,30.5,15.5
-Childs Hill,0.0,21.0
-Chipping Barnet,68.5,23.5
-Colindale,68.5,23.5
-East Barnet,0.0,21.0
-East Finchley,53.0,16.0
-Edgware,68.5,23.5
-Finchley Church End,68.5,23.5
-Golders Green,53.5,15.5
-Hendon,53.0,16.0
-Mill Hill,0.0,17.5
-North Finchley,53.5,15.5
-Osidge,53.5,15.5
-South Friern,0.0,24.0
+library,staffed,SSO
+Burnt Oak,15.5,30.5
+Childs Hill,21,0
+Chipping Barnet,23.5,68.5
+Colindale,23.5,68.5
+East Barnet,21,0
+East Finchley,16,53
+Edgware,23.5,68.5
+Finchley Church End,23.5,68.5
+Golders Green,15.5,53.5
+Hendon,16,53
+Mill Hill,17.5,0
+North Finchley,15.5,53.5
+Osidge,15.5,53.5
+South Friern,24,0
